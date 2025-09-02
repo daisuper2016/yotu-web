@@ -43,8 +43,8 @@
   <nav class="bg-gray-800 py-3 px-6 flex items-center justify-between gap-4 sticky top-0 z-10">
     <div class="text-xl font-bold cursor-pointer" id="homeBtn">🎬 Yotu</div>
     <form id="search-form" class="relative max-w-xl grow">
-      <input id="search" type="search" class="w-full rounded-xl border border-white/10 bg-white/5 pl-10 pr-4 py-2 text-sm placeholder-white/50" placeholder="Tìm kiếm"/>
-      <button type="submit" class="absolute left-3 top-2.5 h-5 w-5 text-white/60" aria-label="Tìm kiếm">
+      <input id="search" type="search" class="w-full rounded-xl border border-white/10 bg-white/5 pl-4 pr-10 py-2 text-sm placeholder-white/50" placeholder="Tìm kiếm"/>
+      <button type="submit" class="absolute right-3 top-2.5 h-5 w-5 text-white/60" aria-label="Tìm kiếm">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-3.5-3.5"/></svg>
       </button>
     </form>
@@ -114,11 +114,11 @@
   
   <footer class="text-center py-8 border-t border-gray-800 mt-12">
     <p class="text-sm text-gray-500">Website Yotu</p>
-    <!-- Bộ đếm được căn giữa -->
+    <!-- Bộ đếm được căn giữa và nâng cấp lên 10 chữ số -->
     <div class="flex justify-center mt-4">
       <!-- Hitwebcounter Code START -->
       <a href="https://www.hitwebcounter.com" target="_blank">
-      <img src="https://hitwebcounter.com/counter/counter.php?page=8043422&style=0006&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
+      <img src="https://hitwebcounter.com/counter/counter.php?page=8043422&style=0006&nbdigits=10&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
     </div>
   </footer>
 
@@ -261,11 +261,12 @@
     
     function performSearch() {
         const q = normalize($("search").value.trim());
-        if (q.length === 0) {
-            setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
-        } else {
+        // Chỉ tìm kiếm khi có chữ hoặc khi ô tìm kiếm trống (để quay về trang chủ)
+        if (q.length > 0) {
             const hits = ALL_VIDEOS.filter(v => normalize(v.snippet.title).includes(q));
             setList(hits, `Kết quả cho "${q}"`);
+        } else {
+            setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
         }
     }
 
@@ -302,7 +303,7 @@
 
     $("homeBtn").addEventListener('click', () => {
         $("search").value = ''; // Xóa chữ trong ô tìm kiếm
-        setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
+        performSearch(); // Tải lại danh sách phim mới
     });
 
   </script>
