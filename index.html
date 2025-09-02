@@ -12,6 +12,7 @@
     .scrollbar-hide::-webkit-scrollbar{display:none}
     .aspect-video{aspect-ratio:16/9}
     input[type="search"]{-webkit-text-fill-color:#fff;caret-color:#10b981;}
+    input[type="search"]::-webkit-search-cancel-button { display: none; }
   </style>
 
   <style>
@@ -41,10 +42,12 @@
 
   <nav class="bg-gray-800 py-3 px-6 flex items-center justify-between gap-4 sticky top-0 z-10">
     <div class="text-xl font-bold cursor-pointer" id="homeBtn">🎬 Yotu</div>
-    <div class="relative max-w-xl grow">
-      <input id="search" class="w-full rounded-xl border border-white/10 bg-white/5 pl-10 pr-4 py-2 text-sm placeholder-white/50" placeholder="Tìm kiếm"/>
-      <svg class="absolute left-3 top-2.5 h-5 w-5 text-white/60" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-3.5-3.5"/></svg>
-    </div>
+    <form id="search-form" class="relative max-w-xl grow">
+      <input id="search" type="search" class="w-full rounded-xl border border-white/10 bg-white/5 pl-10 pr-4 py-2 text-sm placeholder-white/50" placeholder="Tìm kiếm"/>
+      <button type="submit" class="absolute left-3 top-2.5 h-5 w-5 text-white/60" aria-label="Tìm kiếm">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-3.5-3.5"/></svg>
+      </button>
+    </form>
     <span id="msg" class="text-xs text-white/70"></span>
   </nav>
 
@@ -111,13 +114,15 @@
   
   <footer class="text-center py-8 border-t border-gray-800 mt-12">
     <p class="text-sm text-gray-500">Website Yotu</p>
+    <!-- Hitwebcounter Code START -->
+    <a href="https://www.hitwebcounter.com" target="_blank">
+    <img src="https://hitwebcounter.com/counter/counter.php?page=8043422&style=0006&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
   </footer>
 
   <script>
     const PAGE_SIZE = 24;
     const MAX_PAGES_SHOWN = 7;
     
-    // ĐỊA CHỈ SERVER SẼ LÀ THƯ MỤC HIỆN TẠI
     const API_BASE_URL = '.';
 
     const $ = (id)=>document.getElementById(id);
@@ -193,6 +198,7 @@
     }
 
     function setList(list, title = "Phim mới (mới → cũ)") {
+      $("search").blur(); // Tự động ẩn bàn phím
       CURRENT_LIST = list;
       currentPage = 1;
       totalPages = Math.max(1, Math.ceil(CURRENT_LIST.length / PAGE_SIZE));
@@ -250,6 +256,16 @@
       } catch(e) { console.error("Could not load playlists", e); }
     }
     
+    function performSearch() {
+        const q = normalize($("search").value.trim());
+        if (q.length === 0) {
+            setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
+        } else {
+            const hits = ALL_VIDEOS.filter(v => normalize(v.snippet.title).includes(q));
+            setList(hits, `Kết quả cho "${q}"`);
+        }
+    }
+
     // --- Main Execution ---
     document.addEventListener("DOMContentLoaded", async () => {
       const overlay = document.getElementById('loadingOverlay');
@@ -269,24 +285,30 @@
         $("msg").textContent = "Lỗi tải dữ liệu!";
         console.error(e);
       } finally {
-        // Ẩn màn hình loading đi dù thành công hay thất bại
         if (overlay) {
           overlay.style.display = 'none';
         }
       }
     });
 
-    $("search").addEventListener("input", e => {
-      const q = normalize(e.target.value.trim());
-      if (q.length === 0) {
-        setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
-      } else {
-        const hits = ALL_VIDEOS.filter(v => normalize(v.snippet.title).includes(q));
-        setList(hits, `Kết quả cho "${q}"`);
-      }
+    $("search-form").addEventListener("submit", e => {
+      e.preventDefault(); // Ngăn trang tải lại
+      performSearch();
     });
 
-    $("homeBtn").addEventListener('click', () => setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)"));
+    $("homeBtn").addEventListener('click', () => {
+        $("search").value = ''; // Xóa chữ trong ô tìm kiếm
+        setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
+    });
+
+    // Tự động tìm khi người dùng ngừng gõ
+    let searchTimeout;
+    $("search").addEventListener("input", () => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => {
+            performSearch();
+        }, 500); // Chờ 0.5 giây sau khi ngừng gõ mới tìm
+    });
 
   </script>
 
