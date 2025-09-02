@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yotu – Giao diện đầy đủ</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .line-clamp-1{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+    .line-clamp-2{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+    .scrollbar-hide{scrollbar-width:none;-ms-overflow-style:none}
+    .scrollbar-hide::-webkit-scrollbar{display:none}
+    .aspect-video{aspect-ratio:16/9}
+    input[type="search"]{-webkit-text-fill-color:#fff;caret-color:#10b981;}
+  </style>
+
+  <style>
+    /* Loading overlay */
+    #loadingOverlay{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:#0b1220;z-index:50}
+    .spinner{width:56px;height:56px;border:5px solid rgba(255,255,255,.15);border-top-color:#10b981;border-radius:50%;animation:spin 1s linear infinite;margin:auto}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .dots{display:flex;gap:6px;justify-content:center;margin-top:12px}
+    .dot{width:8px;height:8px;border-radius:9999px;background:#9ca3af;opacity:.3;animation:blink 1.2s infinite}
+    .dot:nth-child(2){animation-delay:.2s}.dot:nth-child(3){animation-delay:.4s}
+    @keyframes blink{0%,100%{opacity:.2}50%{opacity:1}}
+  </style>
+
+</head>
+<body class="bg-gray-900 text-white min-h-screen">
+
+  <!-- Loading Overlay -->
+  <div id="loadingOverlay">
+    <div class="text-center">
+      <div class="spinner"></div>
+      <div class="mt-3 text-white/80 text-sm">Đang tải...</div>
+      <div class="dots mt-2"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>
+    </div>
+  </div>
+
+
+
+  <nav class="bg-gray-800 py-3 px-6 flex items-center justify-between gap-4 sticky top-0 z-10">
+    <div class="text-xl font-bold cursor-pointer" id="homeBtn">🎬 Yotu</div>
+    <div class="relative max-w-xl grow">
+      <input id="search" class="w-full rounded-xl border border-white/10 bg-white/5 pl-10 pr-4 py-2 text-sm placeholder-white/50" placeholder="Tìm kiếm"/>
+      <svg class="absolute left-3 top-2.5 h-5 w-5 text-white/60" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-3.5-3.5"/></svg>
+    </div>
+    <span id="msg" class="text-xs text-white/70"></span>
+  </nav>
+
+  <div class="mx-auto max-w-7xl px-4 py-6">
+    <!-- Featured -->
+    <h2 class="text-lg font-semibold uppercase mb-2">Phim đề cử</h2>
+    <div id="featured" class="mb-6 flex gap-4 overflow-x-auto scrollbar-hide pb-2 snap-x"></div>
+
+    <!-- Playlists -->
+    <section class="mb-8">
+      <h2 class="text-lg font-semibold uppercase mb-2">Danh sách phát</h2>
+      <ul id="playlistsList" class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-x-6 gap-y-2 text-sm"></ul>
+    </section>
+
+    <div class="grid grid-cols-1 lg:grid-cols-4 gap-8">
+      <main class="lg:col-span-3">
+        <section>
+          <h2 id="main-title" class="text-lg font-semibold uppercase mb-2">Phim mới (mới → cũ)</h2>
+          <div id="all" class="grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+          <div id="pager" class="mt-6 flex items-center justify-center gap-2 flex-wrap"></div>
+        </section>
+      </main>
+
+      <aside class="space-y-8">
+        <section>
+          <h2 class="text-lg font-semibold uppercase mb-2">Top tuần</h2>
+          <div class="max-h-96 overflow-y-auto pr-1" id="top-week"></div>
+        </section>
+        <section>
+          <h2 class="text-lg font-semibold uppercase mb-2">Top tháng</h2>
+          <div class="max-h-96 overflow-y-auto pr-1" id="top-month"></div>
+        </section>
+        <section>
+          <h2 class="text-lg font-semibold uppercase mb-2">Top bình luận</h2>
+          <div class="max-h-96 overflow-y-auto pr-1" id="top-comments"></div>
+        </section>
+      </aside>
+    </div>
+  </div>
+
+  <template id="tpl-card">
+    <div class="group cursor-pointer">
+      <div class="overflow-hidden rounded-xl bg-slate-800">
+        <img class="thumb aspect-video w-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"/>
+      </div>
+      <div class="mt-2 px-0.5">
+        <div class="title font-semibold text-sm line-clamp-2"></div>
+        <div class="meta mt-0.5 text-[11px] text-white/70"></div>
+      </div>
+    </div>
+  </template>
+
+  <template id="tpl-top-item">
+    <div class="group cursor-pointer">
+      <div class="flex items-center gap-3 p-2 rounded-lg hover:bg-white/5">
+        <img class="thumb w-28 h-16 object-cover rounded" />
+        <div class="min-w-0">
+          <div class="title text-sm font-semibold line-clamp-2"></div>
+          <div class="meta text-[11px] text-white/60"></div>
+        </div>
+      </div>
+    </div>
+  </template>
+  
+  <footer class="text-center py-8 border-t border-gray-800 mt-12">
+    <p class="text-sm text-gray-500">Website Yotu</p>
+  </footer>
+
+  <script>
+    const PAGE_SIZE = 24;
+    const MAX_PAGES_SHOWN = 7;
+    
+    // ĐỊA CHỈ SERVER SẼ LÀ THƯ MỤC HIỆN TẠI
+    const API_BASE_URL = '.';
+
+    const $ = (id)=>document.getElementById(id);
+    const fmt = (n)=>{ if(!n) return "-"; n=Number(n); if(n>=1e6) return (n/1e6).toFixed(1)+"M"; if(n>=1e3) return (n/1e3).toFixed(1)+"K"; return new Intl.NumberFormat('vi-VN').format(n); };
+    const normalize=(s)=> (s||"").normalize("NFD").replace(/\p{Diacritic}/gu,"").toLowerCase();
+
+    let ALL_VIDEOS = [];
+    let CURRENT_LIST = [];
+    let currentPage = 1;
+    let totalPages = 1;
+
+    const byDateDesc = (a,b) => new Date(b.snippet.publishedAt) - new Date(a.snippet.publishedAt);
+    const byViewsDesc = (a,b) => Number(b.statistics.viewCount) - Number(a.statistics.viewCount);
+    const byCommentsDesc = (a,b) => Number(b.statistics.commentCount) - Number(a.statistics.commentCount);
+
+    function makeVideoCard(v){
+      const tpl = $("tpl-card").content.firstElementChild.cloneNode(true);
+      const thumb = v.snippet?.thumbnails?.high?.url || v.snippet?.thumbnails?.medium?.url;
+      tpl.querySelector('.thumb').src = thumb;
+      tpl.querySelector('.thumb').alt = v.snippet.title;
+      tpl.querySelector('.title').textContent = v.snippet.title;
+      const d = new Date(v.snippet.publishedAt);
+      tpl.querySelector('.meta').textContent = `${fmt(v.statistics.viewCount)} lượt xem • ${d.toLocaleDateString('vi-VN')}`;
+      tpl.onclick = ()=> window.open(`https://www.youtube.com/watch?v=${v.id}`, '_blank');
+      return tpl;
+    }
+
+    function makeTopItem(v){
+      const tpl = $("tpl-top-item").content.firstElementChild.cloneNode(true);
+      const thumb = v.snippet?.thumbnails?.default?.url;
+      tpl.querySelector('.thumb').src = thumb;
+      tpl.querySelector('.title').textContent = v.snippet.title;
+      const d = new Date(v.snippet.publishedAt);
+      tpl.querySelector('.meta').textContent = `${fmt(v.statistics.viewCount)} lượt xem`;
+      tpl.onclick = ()=> window.open(`https://www.youtube.com/watch?v=${v.id}`, '_blank');
+      return tpl;
+    }
+
+    function shuffle(arr){ return arr.map(v=>({v,sort:Math.random()})).sort((a,b)=>a.sort-b.sort).map(({v})=>v); }
+
+    function makeFeatured(v){
+      const wrap=document.createElement('div');
+      wrap.className="min-w-[300px] w-[300px] snap-start";
+      const thumb = v.snippet?.thumbnails?.standard?.url || v.snippet?.thumbnails?.high?.url;
+      wrap.innerHTML=`
+        <div class='relative overflow-hidden rounded-xl bg-slate-800 cursor-pointer'>
+          <img src='${thumb}' class='aspect-video w-full object-cover'/>
+          <div class='absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 to-transparent p-2 text-xs'>
+            <div class='font-semibold line-clamp-2'>${v.snippet.title}</div>
+          </div>
+        </div>`;
+      wrap.onclick=()=> window.open(`https://www.youtube.com/watch?v=${v.id}`, '_blank');
+      return wrap;
+    }
+
+    function renderAllSections() {
+      const now = Date.now();
+      const startWeek = now - 7 * 24 * 3600 * 1000;
+      const startMonth = now - 30 * 24 * 3600 * 1000;
+
+      const featuredPool = [...ALL_VIDEOS].sort(byViewsDesc).slice(0, 30);
+      const featured = shuffle(featuredPool).slice(0, 10);
+      const fEl=$("featured"); fEl.innerHTML="";
+      featured.forEach(v => fEl.appendChild(makeFeatured(v)));
+
+      const topWeek = ALL_VIDEOS.filter(v=> new Date(v.snippet.publishedAt).getTime() >= startWeek).sort(byViewsDesc);
+      const topMonth = ALL_VIDEOS.filter(v=> new Date(v.snippet.publishedAt).getTime() >= startMonth).sort(byViewsDesc);
+      const topComments = [...ALL_VIDEOS].sort(byCommentsDesc).slice(0, 50);
+
+      const twEl=$("top-week"); twEl.innerHTML=""; topWeek.forEach(v=> twEl.appendChild(makeTopItem(v)));
+      const tmEl=$("top-month"); tmEl.innerHTML=""; topMonth.forEach(v=> tmEl.appendChild(makeTopItem(v)));
+      const tcEl=$("top-comments"); tcEl.innerHTML=""; topComments.forEach(v=> tcEl.appendChild(makeTopItem(v)));
+    }
+
+    function setList(list, title = "Phim mới (mới → cũ)") {
+      CURRENT_LIST = list;
+      currentPage = 1;
+      totalPages = Math.max(1, Math.ceil(CURRENT_LIST.length / PAGE_SIZE));
+      $("main-title").textContent = title;
+      renderPage();
+      renderPager();
+    }
+
+    function renderPage() {
+      const all = $("all"); all.innerHTML="";
+      const start = (currentPage - 1) * PAGE_SIZE;
+      const items = CURRENT_LIST.slice(start, start + PAGE_SIZE);
+      items.forEach(v => all.appendChild(makeVideoCard(v)));
+    }
+
+    function renderPager() {
+      const p = $("pager"); p.innerHTML="";
+      if (totalPages <= 1) return;
+
+      const addBtn = (label, disabled, onClick, active=false) => {
+        const b = document.createElement('button');
+        b.className = 'rounded-lg px-3 py-1.5 text-sm bg-white/10 hover:bg-white/20' + (active ? ' ring-1 ring-emerald-400' : '') + (disabled ? ' opacity-40 pointer-events-none' : '');
+        b.textContent = label;
+        b.onclick = onClick;
+        p.appendChild(b);
+      };
+      
+      const goToPage = (page) => { currentPage = page; renderPage(); renderPager(); };
+
+      addBtn('Prev', currentPage === 1, () => goToPage(currentPage - 1));
+      let start = Math.max(1, currentPage - Math.floor(MAX_PAGES_SHOWN / 2));
+      let end = start + MAX_PAGES_SHOWN - 1;
+      if (end > totalPages) { end = totalPages; start = Math.max(1, end - MAX_PAGES_SHOWN + 1); }
+      for (let i = start; i <= end; i++) addBtn(String(i), false, () => goToPage(i), i === currentPage);
+      addBtn('Next', currentPage === totalPages, () => goToPage(currentPage + 1));
+    }
+    
+    async function loadPlaylists(){
+      try {
+        const res = await fetch(`${API_BASE_URL}/playlists.json?v=${new Date().getTime()}`);
+        const pls = await res.json();
+        const ul=$("playlistsList"); ul.innerHTML="";
+        pls.forEach(p=>{
+          const li=document.createElement('li');
+          li.className="truncate";
+          const a=document.createElement('a');
+          a.href=`https://www.youtube.com/playlist?list=${p.id}`;
+          a.target="_blank";
+          a.className="block px-2 py-1 rounded hover:bg-white/5 hover:text-emerald-400";
+          a.title=p.snippet?.title||"";
+          a.textContent=p.snippet?.title||"";
+          li.appendChild(a);
+          ul.appendChild(li);
+        });
+      } catch(e) { console.error("Could not load playlists", e); }
+    }
+    
+    // --- Main Execution ---
+    document.addEventListener("DOMContentLoaded", async () => {
+      const overlay = document.getElementById('loadingOverlay');
+      $("msg").textContent = "Đang tải...";
+      try {
+        const res = await fetch(`${API_BASE_URL}/catalog.json?v=${new Date().getTime()}`);
+        if (!res.ok) throw new Error(`Không thể tải file dữ liệu: ${res.status}`);
+        
+        ALL_VIDEOS = await res.json();
+        
+        setList([...ALL_VIDEOS].sort(byDateDesc));
+        renderAllSections();
+        loadPlaylists();
+                
+        $("msg").textContent = `${ALL_VIDEOS.length} video.`;
+      } catch (e) {
+        $("msg").textContent = "Lỗi tải dữ liệu!";
+        console.error(e);
+      } finally {
+        // Ẩn màn hình loading đi dù thành công hay thất bại
+        if (overlay) {
+          overlay.style.display = 'none';
+        }
+      }
+    });
+
+    $("search").addEventListener("input", e => {
+      const q = normalize(e.target.value.trim());
+      if (q.length === 0) {
+        setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
+      } else {
+        const hits = ALL_VIDEOS.filter(v => normalize(v.snippet.title).includes(q));
+        setList(hits, `Kết quả cho "${q}"`);
+      }
+    });
+
+    $("homeBtn").addEventListener('click', () => setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)"));
+
+  </script>
+
+</body>
+</html>
