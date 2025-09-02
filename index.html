@@ -114,9 +114,12 @@
   
   <footer class="text-center py-8 border-t border-gray-800 mt-12">
     <p class="text-sm text-gray-500">Website Yotu</p>
-    <!-- Hitwebcounter Code START -->
-    <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=8043422&style=0006&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
+    <!-- Bộ đếm được căn giữa -->
+    <div class="flex justify-center mt-4">
+      <!-- Hitwebcounter Code START -->
+      <a href="https://www.hitwebcounter.com" target="_blank">
+      <img src="https://hitwebcounter.com/counter/counter.php?page=8043422&style=0006&nbdigits=6&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>
+    </div>
   </footer>
 
   <script>
@@ -198,7 +201,7 @@
     }
 
     function setList(list, title = "Phim mới (mới → cũ)") {
-      $("search").blur(); // Tự động ẩn bàn phím
+      $("search").blur(); // Tự động ẩn bàn phím SAU KHI tìm kiếm
       CURRENT_LIST = list;
       currentPage = 1;
       totalPages = Math.max(1, Math.ceil(CURRENT_LIST.length / PAGE_SIZE));
@@ -291,23 +294,15 @@
       }
     });
 
+    // CHỈ TÌM KHI NGƯỜI DÙNG BẤM NÚT TÌM KIẾM
     $("search-form").addEventListener("submit", e => {
-      e.preventDefault(); // Ngăn trang tải lại
+      e.preventDefault(); // Ngăn trang tải lại khi bấm nút
       performSearch();
     });
 
     $("homeBtn").addEventListener('click', () => {
         $("search").value = ''; // Xóa chữ trong ô tìm kiếm
         setList([...ALL_VIDEOS].sort(byDateDesc), "Phim mới (mới → cũ)");
-    });
-
-    // Tự động tìm khi người dùng ngừng gõ
-    let searchTimeout;
-    $("search").addEventListener("input", () => {
-        clearTimeout(searchTimeout);
-        searchTimeout = setTimeout(() => {
-            performSearch();
-        }, 500); // Chờ 0.5 giây sau khi ngừng gõ mới tìm
     });
 
   </script>
