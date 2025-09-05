@@ -1,4 +1,4 @@
-// update.js (PHIÊN BẢN HOÀN THIỆN - TỰ ĐỘNG THỬ LẠI & KIỂM TRA)
+// update.js (PHIÊN BẢN KHÔNG CÒN MINIMUM EXPECTED VIDEOS)
 const fs = require('fs/promises');
 const axios = require('axios');
 
@@ -6,9 +6,8 @@ const axios = require('axios');
 const CHANNEL_ID = 'UC7EYRP--kBfvu1y84p2sFcA';
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 
-// <<< CÁC THAM SỐ MỚI ĐỂ KIỂM SOÁT VIỆC THỬ LẠI >>>
-const MINIMUM_EXPECTED_VIDEOS = 800; // Số video tối thiểu mong đợi, nếu thấp hơn sẽ thử lại
-const MAX_ATTEMPTS = 3; // Số lần thử tối đa (1 lần chính + 2 lần thử lại)
+// --- THAM SỐ KIỂM SOÁT VIỆC THỬ LẠI ---
+const MAX_ATTEMPTS = 3;      // Số lần thử tối đa
 const RETRY_DELAY_MS = 5000; // Chờ 5 giây giữa các lần thử
 
 // --- CÁC HẰNG SỐ FILE ---
@@ -20,11 +19,9 @@ if (!YOUTUBE_API_KEY) {
   throw new Error("Lỗi: Không tìm thấy YOUTUBE_API_KEY. Bạn đã cấu hình GitHub Secrets chưa?");
 }
 
-// <<< HÀM HỖ TRỢ MỚI >>>
-// Hàm tạm dừng thực thi trong một khoảng thời gian
+// --- HÀM HỖ TRỢ ---
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-// Hàm lấy ID của playlist "Uploads" (không thay đổi)
 async function getUploadsPlaylistId() {
   console.log('Đang tìm ID của kho chứa video tổng...');
   const url = `https://www.googleapis.com/youtube/v3/channels`;
@@ -41,7 +38,6 @@ async function getUploadsPlaylistId() {
   }
 }
 
-// Hàm lấy tất cả video từ một kênh (không thay đổi)
 async function fetchAllChannelVideos(uploadsPlaylistId) {
   console.log('Bắt đầu kiểm kê tất cả video trong kho tổng...');
   let allVideoItems = [];
@@ -56,7 +52,7 @@ async function fetchAllChannelVideos(uploadsPlaylistId) {
       },
     });
     allVideoItems.push(...response.data.items);
-    console.log(`   - Đã kiểm kê được ${response.data.items.length} video. Tổng số tạm thời: ${allVideoItems.length}`);
+    console.log(`   - Đã kiểm kê thêm ${response.data.items.length} video. Tổng số tạm thời: ${allVideoItems.length}`);
     nextPageToken = response.data.nextPageToken;
   } while (nextPageToken);
 
@@ -68,7 +64,7 @@ async function fetchAllChannelVideos(uploadsPlaylistId) {
   for (let i = 0; i < videoIds.length; i += 50) {
     const chunk = videoIds.slice(i, i + 50);
     const response = await axios.get('https://www.googleapis.com/youtube/v3/videos', {
-        params: { part: 'snippet,statistics', id: chunk.join(','), key: YOUTUBE_API_KEY }
+      params: { part: 'snippet,statistics', id: chunk.join(','), key: YOUTUBE_API_KEY }
     });
     allVideosWithDetails.push(...response.data.items);
   }
@@ -77,7 +73,6 @@ async function fetchAllChannelVideos(uploadsPlaylistId) {
   return allVideosWithDetails;
 }
 
-// Hàm lấy tất cả playlist từ một kênh (không thay đổi)
 async function fetchAllChannelPlaylists() {
   console.log('Bắt đầu lấy danh sách phát (playlist)...');
   let allPlaylists = [];
@@ -96,53 +91,37 @@ async function fetchAllChannelPlaylists() {
   return allPlaylists;
 }
 
-
-// <<< HÀM MAIN ĐƯỢC NÂNG CẤP VỚI LOGIC THỬ LẠI >>>
+// --- HÀM MAIN ---
 async function main() {
   let videos = [];
   let uploadsPlaylistId = null;
 
-  // Vòng lặp thử lại việc lấy video
+  // Vòng lặp thử lại khi gặp lỗi request
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     console.log(`\n--- BẮT ĐẦU LẤY DỮ LIỆU VIDEO (LẦN THỬ ${attempt}/${MAX_ATTEMPTS}) ---`);
     try {
-      // Chỉ lấy playlist ID ở lần đầu tiên
       if (!uploadsPlaylistId) {
         uploadsPlaylistId = await getUploadsPlaylistId();
       }
-
       if (uploadsPlaylistId) {
         videos = await fetchAllChannelVideos(uploadsPlaylistId);
       }
-
-      // KIỂM TRA SỰ HỢP LÝ
-      if (videos.length >= MINIMUM_EXPECTED_VIDEOS) {
-        console.log(`\n[THÀNH CÔNG] Lấy được ${videos.length} video, đạt yêu cầu tối thiểu.`);
-        break; // Thoát khỏi vòng lặp vì đã thành công
-      } else {
-        console.warn(`[CẢNH BÁO] Chỉ lấy được ${videos.length} video, thấp hơn mức mong đợi (${MINIMUM_EXPECTED_VIDEOS}).`);
-        if (attempt < MAX_ATTEMPTS) {
-          console.log(`   -> Sẽ thử lại sau ${RETRY_DELAY_MS / 1000} giây...`);
-          await sleep(RETRY_DELAY_MS);
-        }
-      }
+      // Nếu thành công, thoát khỏi vòng lặp
+      break;
     } catch (error) {
       console.error(`[LỖI] Gặp lỗi trong lần thử ${attempt}:`, error.response?.data?.error?.message || error.message);
       if (attempt < MAX_ATTEMPTS) {
         console.log(`   -> Sẽ thử lại sau ${RETRY_DELAY_MS / 1000} giây...`);
         await sleep(RETRY_DELAY_MS);
+      } else {
+        throw error;
       }
     }
   }
 
-  // KIỂM TRA CUỐI CÙNG: Nếu sau tất cả các lần thử vẫn không thành công, báo lỗi
-  if (videos.length < MINIMUM_EXPECTED_VIDEOS) {
-    throw new Error(`Thất bại sau ${MAX_ATTEMPTS} lần thử. Không thể lấy đủ số lượng video tối thiểu.`);
-  }
-
-  // Nếu thành công, tiến hành ghi file video và lấy playlist song song
+  // --- GHI FILE ---
   console.log('\n--- BẮT ĐẦU GHI FILE VÀ LẤY PLAYLIST ---');
-  
+
   const writeVideosTask = (async () => {
     videos.sort((a, b) => new Date(b.snippet.publishedAt) - new Date(a.snippet.publishedAt));
     await fs.writeFile(CATALOG_FILE, JSON.stringify(videos, null, 2));
@@ -155,17 +134,15 @@ async function main() {
       await fs.writeFile(PLAYLISTS_FILE, JSON.stringify(playlists, null, 2));
       console.log(`=> Đã ghi thành công ${playlists.length} playlist vào file ${PLAYLISTS_FILE}`);
     } catch (error) {
-      console.error("Lỗi nghiêm trọng khi lấy và ghi playlists:", error.message);
+      console.error("Lỗi khi lấy và ghi playlists:", error.message);
     }
   })();
 
-  // Chờ cả hai tác vụ hoàn thành
   await Promise.all([writeVideosTask, writePlaylistsTask]);
-
   console.log('\n*** HOÀN TẤT TOÀN BỘ QUÁ TRÌNH CẬP NHẬT! ***');
 }
 
 main().catch(error => {
   console.error("\n*** SCRIPT KẾT THÚC VỚI LỖI NGHIÊM TRỌNG: ***", error.message);
-  process.exit(1); // Thoát với mã lỗi để GitHub Actions báo thất bại
+  process.exit(1);
 });
