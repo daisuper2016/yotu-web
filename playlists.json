@@ -579,7 +579,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "ZLDy9NIKMq8c0D59JH4atiYlG08",
+    "etag": "awb7DtU6uq1JkPGM7OVrXWJEPEI",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -588,19 +588,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VGOwdt3m04c/default.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VGOwdt3m04c/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VGOwdt3m04c/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -661,7 +671,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "mszUQhxz8urSGM2eFko6T407jBg",
+    "etag": "SoMvGBiOOBdHiCcx2QkuFGdEH9c",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -670,27 +680,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/KD9bJ5jMPLM/default.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/KD9bJ5jMPLM/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/KD9bJ5jMPLM/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/KD9bJ5jMPLM/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/KD9bJ5jMPLM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -707,7 +717,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "2xcn_KhyqPfROqNdyKl9hNBS8js",
+    "etag": "U89j_dDW30cFMSgLO87DrLhkaGk",
     "id": "PL0U4kdeLNNLeyHqiKVGGgO_d15wTRbk95",
     "snippet": {
       "publishedAt": "2024-12-26T14:02:15.116891Z",
@@ -716,27 +726,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/s8U7T4lB13o/default.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/s8U7T4lB13o/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/s8U7T4lB13o/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/s8U7T4lB13o/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/s8U7T4lB13o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -799,7 +809,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "T-Csks9Sz9ud-HW0rWBSgytuAGU",
+    "etag": "8vSVppj6WnYDDg4owas0LO0uF8w",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -808,19 +818,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/VGOwdt3m04c/default.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/VGOwdt3m04c/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/VGOwdt3m04c/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/afc27u7isHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
