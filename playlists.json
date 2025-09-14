@@ -349,7 +349,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "2rfowODVlE16ZwFp3V6OfjCE3Qc",
+    "etag": "RGK76H4HQMsh_Hz_5WTbprZIH6Q",
     "id": "PL0U4kdeLNNLc9KkDLVjVuBp0HegSnnvBp",
     "snippet": {
       "publishedAt": "2025-01-19T07:56:15.100091Z",
@@ -358,17 +358,17 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/BvP_rCtKH7s/default.jpg",
+          "url": "https://i.ytimg.com/vi/EE_AjOp1yqo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/BvP_rCtKH7s/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EE_AjOp1yqo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/BvP_rCtKH7s/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EE_AjOp1yqo/hqdefault.jpg",
           "width": 480,
           "height": 360
         }
@@ -380,7 +380,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 200
+      "itemCount": 201
     }
   },
   {
@@ -661,7 +661,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "UH6CJtr-f4jmEND5Eob1yEw-jb0",
+    "etag": "p9mZHhVEcWP5lNNIPAW5_mblNQ4",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -670,29 +670,19 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/afc27u7isHI/default.jpg",
+          "url": "https://i.ytimg.com/vi/EE_AjOp1yqo/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/afc27u7isHI/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EE_AjOp1yqo/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/afc27u7isHI/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EE_AjOp1yqo/hqdefault.jpg",
           "width": 480,
           "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/afc27u7isHI/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/afc27u7isHI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -702,7 +692,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 449
+      "itemCount": 450
     }
   },
   {
