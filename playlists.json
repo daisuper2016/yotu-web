@@ -1,6 +1,42 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "PXqQVcFt20FdwgDGswersbiOwnY",
+    "id": "PL0U4kdeLNNLeeV8Pqb3uTWj5-fBEQ_Tcr",
+    "snippet": {
+      "publishedAt": "2025-09-16T08:39:29.664409Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Vườn trường",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "localized": {
+        "title": "Vườn trường",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "P9Xdk1XDSTAoGCGN7UheeuLQwIY",
     "id": "PL0U4kdeLNNLeCUFu4VXfGO2kZ7zifc4og",
     "snippet": {
@@ -267,7 +303,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "9SIDfHrDhfrfhTPHZdpJDT6X2fg",
+    "etag": "xobxt6-e0ApWrMT51cvW9vgZA54",
     "id": "PL0U4kdeLNNLeFQW9NyTTYifPgGlKEfzyF",
     "snippet": {
       "publishedAt": "2025-02-07T02:52:51.555288Z",
@@ -276,27 +312,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/default.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -543,7 +579,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "g7a5xSNN0NoTSuBSTJENGAvsado",
+    "etag": "TLRei_3SO_JnX2SvvhbnfM1DP-U",
     "id": "PL0U4kdeLNNLclxB-VXUvmAp0ypRBtxDZU",
     "snippet": {
       "publishedAt": "2024-12-28T11:13:25.179058Z",
@@ -584,7 +620,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 375
+      "itemCount": 376
     }
   },
   {
@@ -635,7 +671,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "y6fD3Pa7YV_kg3kS_8fGUZJfPvc",
+    "etag": "YclcJ9EUBqe-9oCDjEiziWeS4eY",
     "id": "PL0U4kdeLNNLdpJun-QOk6cTTWAjICqoSf",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:11.769524Z",
@@ -644,27 +680,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/default.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -676,7 +712,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 306
+      "itemCount": 307
     }
   },
   {
@@ -819,7 +855,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "WRB18Fxj5x9xZyMV6aMspUxA9o0",
+    "etag": "Cv-HiI9AEjOUXH4tjUNI0Up-XtM",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -828,27 +864,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/default.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/JCaptnDk21g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YzfoJ0rkR3M/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -860,7 +896,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1254
+      "itemCount": 1256
     }
   }
 ]
