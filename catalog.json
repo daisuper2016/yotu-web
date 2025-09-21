@@ -1,7 +1,60 @@
 [
   {
     "kind": "youtube#video",
-    "etag": "mBvkSMNhjIe6ORecPdn1EmGop7c",
+    "etag": "BT0uPD8cQa2KT5J9f1_wYTfifn0",
+    "id": "LqUXwdU1dO8",
+    "snippet": {
+      "publishedAt": "2025-09-21T09:32:05Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Tiếng lòng: xuyên không 80 thành mẹ nuôi của 4 đứa báo đời, đang muốn bỏ con giữa chợ thì có biến",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LqUXwdU1dO8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LqUXwdU1dO8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LqUXwdU1dO8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LqUXwdU1dO8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LqUXwdU1dO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Tiếng lòng: xuyên không 80 thành mẹ nuôi của 4 đứa báo đời, đang muốn bỏ con giữa chợ thì có biến",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "447",
+      "likeCount": "25",
+      "favoriteCount": "0",
+      "commentCount": "3"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "h2bAVhhuNkpxvuL41MZy5sHQfDk",
     "id": "uS_0PqprvuA",
     "snippet": {
       "publishedAt": "2025-09-21T08:50:34Z",
@@ -46,7 +99,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21",
+      "viewCount": "83",
       "likeCount": "1",
       "favoriteCount": "0",
       "commentCount": "0"
@@ -54,7 +107,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9bLm8Y55U-HBl3zHvyGTc-x3k4o",
+    "etag": "t5PaEHEmG9R4VBTJppyYvGV3y8k",
     "id": "zgqNb1JlPtI",
     "snippet": {
       "publishedAt": "2025-09-21T07:58:36Z",
@@ -99,15 +152,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "321",
-      "likeCount": "19",
+      "viewCount": "466",
+      "likeCount": "32",
       "favoriteCount": "0",
       "commentCount": "3"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "jM2lPba9U7ZmCwNZkPLWITTBALg",
+    "etag": "IGjYP9h-WBTrxY78d9gY21BkWQI",
     "id": "xOhfA0JJExs",
     "snippet": {
       "publishedAt": "2025-09-21T06:19:26Z",
@@ -152,15 +205,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "797",
-      "likeCount": "58",
+      "viewCount": "1020",
+      "likeCount": "63",
       "favoriteCount": "0",
       "commentCount": "5"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "7yjO2KQDcDV2oSQRyTzEVpF8pk4",
+    "etag": "PWUuUFTEWwqDV359vyHsBFjlywc",
     "id": "jSaIs0cphdw",
     "snippet": {
       "publishedAt": "2025-09-21T04:08:46Z",
@@ -205,15 +258,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4021",
-      "likeCount": "198",
+      "viewCount": "4781",
+      "likeCount": "218",
       "favoriteCount": "0",
-      "commentCount": "13"
+      "commentCount": "15"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Tfpn3nnD1Hs6qnYMT1qTxsS4S5k",
+    "etag": "X5yv1HZ0gWBOl9aM7UC8klLbuhY",
     "id": "epL1NI3HDcY",
     "snippet": {
       "publishedAt": "2025-09-21T02:59:32Z",
@@ -258,15 +311,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "541",
-      "likeCount": "27",
+      "viewCount": "623",
+      "likeCount": "30",
       "favoriteCount": "0",
       "commentCount": "0"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "qGfaOztSJW-zeUvG79sl8-SZ63I",
+    "etag": "k_UucqxrOEw2GhU4mLF6-vp3Zu4",
     "id": "jGEI7WII12s",
     "snippet": {
       "publishedAt": "2025-09-21T01:25:40Z",
@@ -311,15 +364,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2171",
-      "likeCount": "96",
+      "viewCount": "2406",
+      "likeCount": "98",
       "favoriteCount": "0",
-      "commentCount": "9"
+      "commentCount": "10"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "DP7203qrtE-fzsq33BE85yfE9zU",
+    "etag": "pSyfRDH0Gb87yy7ybQR7_9Z49WI",
     "id": "jFR_ivMt30c",
     "snippet": {
       "publishedAt": "2025-09-20T22:52:09Z",
@@ -364,15 +417,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1435",
-      "likeCount": "61",
+      "viewCount": "1516",
+      "likeCount": "62",
       "favoriteCount": "0",
       "commentCount": "5"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "d-9ohW2FqpoFIYkhbuZfCw8dp_o",
+    "etag": "s0_dsYbETp8ULlkaCPJUG5YBXS8",
     "id": "Lf4-kO5dZM0",
     "snippet": {
       "publishedAt": "2025-09-20T21:00:19Z",
@@ -417,15 +470,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1370",
-      "likeCount": "61",
+      "viewCount": "1427",
+      "likeCount": "59",
       "favoriteCount": "0",
       "commentCount": "7"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "H4r8_n6804CghvYTIekTAjbgRCg",
+    "etag": "tA_4k-1PKEsTY_IKP1_kIfl0EoM",
     "id": "_F3Tq0MxEIU",
     "snippet": {
       "publishedAt": "2025-09-20T13:05:06Z",
@@ -470,15 +523,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2357",
-      "likeCount": "118",
+      "viewCount": "2398",
+      "likeCount": "119",
       "favoriteCount": "0",
       "commentCount": "10"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "FstyLUQ4bvUsXpLbyTHmuR93-1o",
+    "etag": "o5OWT6CNbrmWRSU6H10_hI2OOiM",
     "id": "3b56sdrgHzA",
     "snippet": {
       "publishedAt": "2025-09-20T11:30:11Z",
@@ -523,15 +576,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2352",
-      "likeCount": "81",
+      "viewCount": "2372",
+      "likeCount": "83",
       "favoriteCount": "0",
       "commentCount": "4"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Uq4CunGO93XMf0YXtCmfM78rnzk",
+    "etag": "q0jhHjcPgz3JtDs_dm3O_Amim9c",
     "id": "MH8tJRBzpLo",
     "snippet": {
       "publishedAt": "2025-09-20T10:11:05Z",
@@ -576,7 +629,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10828",
+      "viewCount": "10934",
       "likeCount": "266",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -584,7 +637,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "FIkgSvdHWQcZYPd55YUiyTOfTR8",
+    "etag": "VGSUrCUIArxez9nY-pwGrWBRzPc",
     "id": "FXh4HDVS66k",
     "snippet": {
       "publishedAt": "2025-09-20T09:13:09Z",
@@ -629,15 +682,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5409",
-      "likeCount": "228",
+      "viewCount": "5567",
+      "likeCount": "229",
       "favoriteCount": "0",
       "commentCount": "13"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "PJIDGuPh9yVUJLp1FYLeWqfK-6Q",
+    "etag": "fKkBPFVY3I3RIKBanhOOhTqIko4",
     "id": "ZVjF0ls70Ew",
     "snippet": {
       "publishedAt": "2025-09-20T06:18:33Z",
@@ -682,15 +735,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4129",
-      "likeCount": "166",
+      "viewCount": "4171",
+      "likeCount": "167",
       "favoriteCount": "0",
       "commentCount": "13"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "-HXvH1VoraOqkO7Dw7CDKBX5gYM",
+    "etag": "RXadh9YwEZ03nuxmpvNus5g_pIs",
     "id": "p8tVJ7qXMTk",
     "snippet": {
       "publishedAt": "2025-09-20T03:56:16Z",
@@ -735,8 +788,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4861",
-      "likeCount": "163",
+      "viewCount": "4909",
+      "likeCount": "166",
       "favoriteCount": "0",
       "commentCount": "8"
     }
@@ -849,7 +902,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "C0e-V7fuSq_olTEQHylR5x_qSiM",
+    "etag": "M_BfD7dZaoDvxVICPWQapCcl9FA",
     "id": "NAfCgl9z4ME",
     "snippet": {
       "publishedAt": "2025-09-19T23:58:12Z",
@@ -894,15 +947,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5605",
-      "likeCount": "180",
+      "viewCount": "5676",
+      "likeCount": "182",
       "favoriteCount": "0",
       "commentCount": "10"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "kImnHLpfb2ZVzOpJ_Qgq7VCNJvw",
+    "etag": "cn4TC1ACaV4pB_o1PvPc6YwFHO4",
     "id": "6bH2rOFNb6U",
     "snippet": {
       "publishedAt": "2025-09-19T19:07:41Z",
@@ -947,7 +1000,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9403",
+      "viewCount": "9412",
       "likeCount": "236",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -955,7 +1008,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "66zRo1sh9S-DMHkp_DjY5xLUtfk",
+    "etag": "IluD4g5RIb7LLSV-66wQQR-sS8k",
     "id": "GapDx0rIKQ0",
     "snippet": {
       "publishedAt": "2025-09-19T12:31:44Z",
@@ -1000,15 +1053,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2740",
-      "likeCount": "81",
+      "viewCount": "2746",
+      "likeCount": "82",
       "favoriteCount": "0",
       "commentCount": "8"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "BG2EQeUeLNCVg_Z_RXHsQioaAEA",
+    "etag": "8wyrlMQ0OgegMxSEFqNhLmmgJpQ",
     "id": "iGr6Z-Ubhpc",
     "snippet": {
       "publishedAt": "2025-09-19T11:05:58Z",
@@ -1053,15 +1106,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3788",
-      "likeCount": "176",
+      "viewCount": "3857",
+      "likeCount": "177",
       "favoriteCount": "0",
       "commentCount": "11"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "WAN8huuq1NMJnuAqT4M_ji3vSqo",
+    "etag": "CWhKts0fufnQ1KxFb8gtY-T-W0Y",
     "id": "Mf5cS8govVU",
     "snippet": {
       "publishedAt": "2025-09-19T10:16:42Z",
@@ -1106,15 +1159,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10868",
-      "likeCount": "426",
+      "viewCount": "10989",
+      "likeCount": "430",
       "favoriteCount": "0",
       "commentCount": "41"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "GLiXMTEQDgtJKHME2fGReEZopOo",
+    "etag": "okigE4m4UbzdUPmTucOonzBfbwY",
     "id": "xl4dKmCZnjY",
     "snippet": {
       "publishedAt": "2025-09-19T09:04:56Z",
@@ -1159,7 +1212,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7334",
+      "viewCount": "7399",
       "likeCount": "193",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -1167,7 +1220,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_9nfxwRyn6m9dnfys4QsufOOQ9Q",
+    "etag": "70U4qCQ2RUywoQeABDD1hzVAQ7Y",
     "id": "z4b-FVyLjRk",
     "snippet": {
       "publishedAt": "2025-09-19T06:33:30Z",
@@ -1212,15 +1265,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7556",
-      "likeCount": "203",
+      "viewCount": "7634",
+      "likeCount": "204",
       "favoriteCount": "0",
       "commentCount": "10"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "cTw3G4PL9zMu4xfYfULoYbp2KAc",
+    "etag": "O9UdokFQhmfDurWNb0MD2PNpdCQ",
     "id": "1WiegmOu2Nw",
     "snippet": {
       "publishedAt": "2025-09-19T03:49:44Z",
@@ -1265,15 +1318,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16974",
-      "likeCount": "533",
+      "viewCount": "17003",
+      "likeCount": "532",
       "favoriteCount": "0",
       "commentCount": "33"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "-lnALmJcxVVDk-fM1H6dzn1yqyo",
+    "etag": "wabvhMl_tEvcI5_9hcENZ7QywSg",
     "id": "u51RqiVFEsE",
     "snippet": {
       "publishedAt": "2025-09-19T00:35:47Z",
@@ -1318,7 +1371,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13235",
+      "viewCount": "13316",
       "likeCount": "228",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -1379,7 +1432,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "E9jD0dan3is6dQLISnYnT8TYEHk",
+    "etag": "A1RoP2tWq-3sg5X7M08zWFLx4MI",
     "id": "fS24FMB0pz4",
     "snippet": {
       "publishedAt": "2025-09-18T12:51:58Z",
@@ -1424,7 +1477,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3380",
+      "viewCount": "3400",
       "likeCount": "96",
       "favoriteCount": "0",
       "commentCount": "4"
@@ -1485,7 +1538,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VsRsZsSt9469RZZaJGvXy41gpXI",
+    "etag": "8ovmVL7XSuNFp0Mdh7Fgq-4CiWk",
     "id": "28LwpxSB-NQ",
     "snippet": {
       "publishedAt": "2025-09-18T09:09:05Z",
@@ -1530,8 +1583,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10132",
-      "likeCount": "230",
+      "viewCount": "10168",
+      "likeCount": "232",
       "favoriteCount": "0",
       "commentCount": "12"
     }
@@ -1644,7 +1697,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GGbn_336nOBSX1I83yz_xOl5rfs",
+    "etag": "ui6gSLXCoMFD9La1yGFmLLyGJd8",
     "id": "Ss07SScuP0g",
     "snippet": {
       "publishedAt": "2025-09-17T22:01:59Z",
@@ -1689,15 +1742,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5474",
-      "likeCount": "134",
+      "viewCount": "5523",
+      "likeCount": "137",
       "favoriteCount": "0",
       "commentCount": "7"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "4hfOhXWDSBsFDZO0vpL9rLCwT4A",
+    "etag": "5uJBbjTx_WQHV4k8EuLobDZ4ZS8",
     "id": "Ju6ZnEREclM",
     "snippet": {
       "publishedAt": "2025-09-17T12:06:51Z",
@@ -1742,7 +1795,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9643",
+      "viewCount": "9676",
       "likeCount": "291",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -1750,7 +1803,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Bv_6szsk30r5BA1LqbrzMp1x8FY",
+    "etag": "paAxmMFBkWZ1kwfO2SrxQKslJ88",
     "id": "eL30RW-IKhM",
     "snippet": {
       "publishedAt": "2025-09-17T11:01:49Z",
@@ -1795,15 +1848,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23979",
-      "likeCount": "767",
+      "viewCount": "24006",
+      "likeCount": "768",
       "favoriteCount": "0",
       "commentCount": "75"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "-RyWUMf0Njgx9vpfJbfcxCVed3A",
+    "etag": "eXDtpmizQLR4rtIYahJfYjPHC5M",
     "id": "XdvgHltlIas",
     "snippet": {
       "publishedAt": "2025-09-17T09:59:12Z",
@@ -1848,7 +1901,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7136",
+      "viewCount": "7159",
       "likeCount": "167",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -1856,7 +1909,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GAyZlgu9E9kSpAEqVMzQiYL7xUc",
+    "etag": "zrNTKL52WHE6YLY0BZZyrPY3hPc",
     "id": "ZTmm9ipfGa4",
     "snippet": {
       "publishedAt": "2025-09-17T09:10:22Z",
@@ -1901,7 +1954,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2592",
+      "viewCount": "2611",
       "likeCount": "92",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -1909,7 +1962,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZicnGoEkarDVvhtuN9jbD2nkmKA",
+    "etag": "_t9KfiKFZJDUjlokPCASjSJig3Q",
     "id": "wyuN26IuQMA",
     "snippet": {
       "publishedAt": "2025-09-17T06:27:04Z",
@@ -1954,15 +2007,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10443",
+      "viewCount": "10460",
       "likeCount": "225",
       "favoriteCount": "0",
-      "commentCount": "7"
+      "commentCount": "8"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "1bbNiisaB5sizJvEFn48o7smaO8",
+    "etag": "W_HiUw18eezS02NPyqSQT3Z1fuU",
     "id": "Tl9dhWZcI4k",
     "snippet": {
       "publishedAt": "2025-09-17T02:12:22Z",
@@ -2007,7 +2060,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "37200",
+      "viewCount": "37253",
       "likeCount": "960",
       "favoriteCount": "0",
       "commentCount": "70"
@@ -2015,7 +2068,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "pk2zCFJowvGCWMw9nGEns_A0ki8",
+    "etag": "sBUEGig0nJ74Pvz2UhxaMYyVH3Y",
     "id": "DCy_Jr2Jqno",
     "snippet": {
       "publishedAt": "2025-09-16T19:58:08Z",
@@ -2060,7 +2113,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8662",
+      "viewCount": "8672",
       "likeCount": "277",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -2121,7 +2174,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Og0BRbXpcrBrrgw93BtzkbHg16k",
+    "etag": "DFaHGciSlxawHJ7tq04lf95E0DA",
     "id": "uXZgL1c_iP0",
     "snippet": {
       "publishedAt": "2025-09-16T07:58:16Z",
@@ -2166,7 +2219,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1627",
+      "viewCount": "1629",
       "likeCount": "55",
       "favoriteCount": "0",
       "commentCount": "1"
@@ -2333,7 +2386,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IG1YtlV8NQ5-p6t4R3XkF9d2M1Q",
+    "etag": "D-og0GLvwueB7E62D6Mz_OENUqI",
     "id": "Av-b64QDP2Q",
     "snippet": {
       "publishedAt": "2025-09-15T13:23:01Z",
@@ -2378,7 +2431,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21774",
+      "viewCount": "21782",
       "likeCount": "528",
       "favoriteCount": "0",
       "commentCount": "41"
@@ -2545,7 +2598,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IN3xZelij4Zanit41zW6HiAReOU",
+    "etag": "-VLihuXKQnxH0pnhVJNZmwYExqE",
     "id": "Wvs1dLS8T6I",
     "snippet": {
       "publishedAt": "2025-09-15T04:35:42Z",
@@ -2590,8 +2643,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13599",
-      "likeCount": "406",
+      "viewCount": "13605",
+      "likeCount": "407",
       "favoriteCount": "0",
       "commentCount": "35"
     }
@@ -2704,7 +2757,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RPFm40hqMKUqH3yFM-Dh2kUne-s",
+    "etag": "Rn94QkgPanZ8wGKg__oUrMrdT3Y",
     "id": "a1jBq1ju6nY",
     "snippet": {
       "publishedAt": "2025-09-14T23:15:15Z",
@@ -2749,8 +2802,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9833",
-      "likeCount": "317",
+      "viewCount": "9860",
+      "likeCount": "316",
       "favoriteCount": "0",
       "commentCount": "18"
     }
@@ -2863,7 +2916,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6k37pxEyl7PYw8oa7h48Rt7tWSI",
+    "etag": "_MliBxzd6zvB5N5cMB6w5wCl0_k",
     "id": "BvP_rCtKH7s",
     "snippet": {
       "publishedAt": "2025-09-14T01:10:50Z",
@@ -2898,7 +2951,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6193",
+      "viewCount": "6196",
       "likeCount": "165",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -3214,7 +3267,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CW4dGwWWeJJ6RAE7QzFdjvgUXrg",
+    "etag": "WwK3UbBscmDBcJCR3--pM-2wJ5E",
     "id": "StEFl8vzpfo",
     "snippet": {
       "publishedAt": "2025-09-12T17:52:29Z",
@@ -3259,7 +3312,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16547",
+      "viewCount": "16581",
       "likeCount": "449",
       "favoriteCount": "0",
       "commentCount": "43"
@@ -3320,7 +3373,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-lX4ctIB-W7E-tlEafhNLzEKVWo",
+    "etag": "6WyinomyScXZVAmk_4ERfQ3f4Ns",
     "id": "vvwh63Nrrww",
     "snippet": {
       "publishedAt": "2025-09-12T07:42:35Z",
@@ -3365,8 +3418,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3240",
-      "likeCount": "59",
+      "viewCount": "3254",
+      "likeCount": "60",
       "favoriteCount": "0",
       "commentCount": "3"
     }
@@ -3532,7 +3585,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0ia6mrje4OqyTbSH-xkdtRPuItY",
+    "etag": "_XzotrCy3J3B4IkMxryhn5dBRsA",
     "id": "tlIz2kVw7ug",
     "snippet": {
       "publishedAt": "2025-09-11T08:29:49Z",
@@ -3577,7 +3630,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16242",
+      "viewCount": "16262",
       "likeCount": "361",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -3585,7 +3638,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gXnmP9HmJBbXm0z6QwSzcGRp_us",
+    "etag": "2E8P1ys8bcTFIFLvEntwwiabzOQ",
     "id": "dlaJqfq5ZLs",
     "snippet": {
       "publishedAt": "2025-09-11T05:10:21Z",
@@ -3630,7 +3683,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4264",
+      "viewCount": "4270",
       "likeCount": "94",
       "favoriteCount": "0",
       "commentCount": "4"
@@ -3797,7 +3850,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "cBivznjwwgxws6JbRSagl8gzHLo",
+    "etag": "tzY8Z1LBS0Nh5_UBmdB39bD5Dkk",
     "id": "GCleeffZRbo",
     "snippet": {
       "publishedAt": "2025-09-10T09:01:00Z",
@@ -3842,15 +3895,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9924",
-      "likeCount": "286",
+      "viewCount": "9930",
+      "likeCount": "287",
       "favoriteCount": "0",
       "commentCount": "30"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "oL9Wk-hHq-2nYLgLJhnl5l2uldQ",
+    "etag": "5V8aZEMUq8xPd9lChrSO2dNqg3c",
     "id": "uyu212IsEw4",
     "snippet": {
       "publishedAt": "2025-09-10T03:59:23Z",
@@ -3895,8 +3948,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15176",
-      "likeCount": "376",
+      "viewCount": "15201",
+      "likeCount": "378",
       "favoriteCount": "0",
       "commentCount": "20"
     }
@@ -4009,7 +4062,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "L32O2B3r-pkuGJShsr-rwsy8wiM",
+    "etag": "bzlqUN5oQtKAabbb64B17zmHtzo",
     "id": "TrBYOf-IRzE",
     "snippet": {
       "publishedAt": "2025-09-09T08:12:49Z",
@@ -4054,7 +4107,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1309",
+      "viewCount": "1312",
       "likeCount": "36",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -4062,7 +4115,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dZaScmQBL5zW-dPp_HqQBn7ROWc",
+    "etag": "JM5yvK8XTHMTaIrkKmxxSCb81I8",
     "id": "_KXUhP4JVKk",
     "snippet": {
       "publishedAt": "2025-09-09T03:54:28Z",
@@ -4107,8 +4160,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "22334",
-      "likeCount": "655",
+      "viewCount": "22372",
+      "likeCount": "656",
       "favoriteCount": "0",
       "commentCount": "37"
     }
@@ -4221,7 +4274,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "DfXYfgFfZHrsSjC4vD59WB73jas",
+    "etag": "ppPOHRl7th9GUqhk-6nCQ6fLeQY",
     "id": "Zp61xT70Yhg",
     "snippet": {
       "publishedAt": "2025-09-08T02:42:55Z",
@@ -4266,7 +4319,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8055",
+      "viewCount": "8070",
       "likeCount": "211",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -4698,7 +4751,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OcidIgP_AP8t0kJ_A4N11upXCHg",
+    "etag": "BLVMg_RmyEXgouukU6rEkU2zApY",
     "id": "iQEYV94iY3U",
     "snippet": {
       "publishedAt": "2025-09-06T13:04:24Z",
@@ -4743,7 +4796,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9650",
+      "viewCount": "9662",
       "likeCount": "314",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -4751,7 +4804,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ScWazXke4QZNJL9WhjX0je2qFnM",
+    "etag": "JkGTrYQut9DmlvBmrbcqwqvCqb8",
     "id": "_8AhKx5maHA",
     "snippet": {
       "publishedAt": "2025-09-06T11:59:53Z",
@@ -4796,15 +4849,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "42490",
-      "likeCount": "1241",
+      "viewCount": "42528",
+      "likeCount": "1242",
       "favoriteCount": "0",
       "commentCount": "79"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "mX4Kmnevwl6SVkCbDmnFmVxNkN0",
+    "etag": "h94ZaEI8kOflG4QywNCof0KQWeA",
     "id": "2k9-BkbtVss",
     "snippet": {
       "publishedAt": "2025-09-06T10:25:06Z",
@@ -4849,7 +4902,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13003",
+      "viewCount": "13016",
       "likeCount": "339",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -5069,7 +5122,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "E_V0xdn2EjkzqsAME3hk1PXrdDo",
+    "etag": "spoIbbQCwEz4KYxmmsqE0YhBhGU",
     "id": "deLhhFqiz2Y",
     "snippet": {
       "publishedAt": "2025-09-05T10:36:54Z",
@@ -5114,7 +5167,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4350",
+      "viewCount": "4367",
       "likeCount": "95",
       "favoriteCount": "0",
       "commentCount": "9"
@@ -5228,7 +5281,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "u2KCBAHOJYcoN0G7QIJ0K2wPkZE",
+    "etag": "ffAX9fm1qKB5iwQfrtCz-_G5pd8",
     "id": "R1YdYRzMKP8",
     "snippet": {
       "publishedAt": "2025-09-05T04:32:45Z",
@@ -5273,15 +5326,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "40484",
-      "likeCount": "538",
+      "viewCount": "40563",
+      "likeCount": "539",
       "favoriteCount": "0",
       "commentCount": "63"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "iPSGOjxEL38mdUQbvk5mz2YRj1c",
+    "etag": "dG3tBLfGN8yOX8nHEY7jGd3yW6I",
     "id": "TueVhrQHgoI",
     "snippet": {
       "publishedAt": "2025-09-05T03:13:26Z",
@@ -5326,7 +5379,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7682",
+      "viewCount": "7684",
       "likeCount": "180",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -5334,7 +5387,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YNrolfwMBXF8y_abidoFGAOEdQs",
+    "etag": "UYvd9hbQbDysAGWfov4klXvli34",
     "id": "XEGubGxh3Lk",
     "snippet": {
       "publishedAt": "2025-09-04T13:51:40Z",
@@ -5379,15 +5432,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2031",
-      "likeCount": "32",
+      "viewCount": "2035",
+      "likeCount": "33",
       "favoriteCount": "0",
       "commentCount": "8"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "GtKgno8v4qkPltgFWAVlHZ8r4k0",
+    "etag": "92cTtygeNWaidiwZL0z3I9bu-KI",
     "id": "2BOT3D-ptyE",
     "snippet": {
       "publishedAt": "2025-09-04T11:24:23Z",
@@ -5432,7 +5485,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11683",
+      "viewCount": "11687",
       "likeCount": "276",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -5493,7 +5546,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ATbdpgywKoVq9L4F5I81YmHM7GQ",
+    "etag": "MFeVzqBaGRLnnAqG3I4RgywZxYY",
     "id": "9SqEuzX3PG8",
     "snippet": {
       "publishedAt": "2025-09-04T10:01:46Z",
@@ -5538,7 +5591,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4987",
+      "viewCount": "4991",
       "likeCount": "195",
       "favoriteCount": "0",
       "commentCount": "21"
@@ -5546,7 +5599,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "iElMscxA3pUuKOp_c2dyDvH3exs",
+    "etag": "_VY-Eue613IFnoEncErpev754Pc",
     "id": "eN_ngS8fgGI",
     "snippet": {
       "publishedAt": "2025-09-04T09:31:57Z",
@@ -5591,7 +5644,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5750",
+      "viewCount": "5756",
       "likeCount": "164",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -5599,7 +5652,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1E-6807dQ40P_CcSziF4GfMrIQs",
+    "etag": "4gXmWn7ovPsb_YhwnS59INUehG8",
     "id": "urbrqJxFsJo",
     "snippet": {
       "publishedAt": "2025-09-04T09:03:10Z",
@@ -5644,7 +5697,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8797",
+      "viewCount": "8803",
       "likeCount": "197",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -5705,7 +5758,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YbXHE9BpaxXwpZZ52CjbWhUYcgo",
+    "etag": "bi4Cbfws0BTVvcfYfdaP0AdY9P4",
     "id": "PaD1d5Cyj-s",
     "snippet": {
       "publishedAt": "2025-09-02T11:10:03Z",
@@ -5750,7 +5803,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4943",
+      "viewCount": "4945",
       "likeCount": "134",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -5811,7 +5864,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "wMlcdNFYA0COtL3JOScP1wXT7fY",
+    "etag": "X5VByEJCTaJDqtzftzLCgl3_hnw",
     "id": "iwhWf1kn4MQ",
     "snippet": {
       "publishedAt": "2025-09-01T11:36:24Z",
@@ -5856,7 +5909,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15737",
+      "viewCount": "15738",
       "likeCount": "362",
       "favoriteCount": "0",
       "commentCount": "14"
@@ -5864,7 +5917,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "k2UhfC7BKYU7EpIL32CfMeZisRs",
+    "etag": "TL2Suf3mBR4G5pu84gIC5wmYk9o",
     "id": "9d5nzJM5O7Q",
     "snippet": {
       "publishedAt": "2025-09-01T10:04:54Z",
@@ -5909,7 +5962,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2928",
+      "viewCount": "2930",
       "likeCount": "75",
       "favoriteCount": "0",
       "commentCount": "4"
@@ -6023,7 +6076,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1bi-6wZIHbLCJnzyK3K-eZYZeis",
+    "etag": "ccNY51Dn3ZXa73fdd4KdakN7VdE",
     "id": "clk_E9X9Vm0",
     "snippet": {
       "publishedAt": "2025-08-31T13:31:47Z",
@@ -6068,7 +6121,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8293",
+      "viewCount": "8292",
       "likeCount": "245",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -6129,7 +6182,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "49A_xU8aGEh7i562L4OBHtH4Uko",
+    "etag": "okVDbnUhiO2_u_Vyp2zc-w1-Suw",
     "id": "WsOX4z1INXw",
     "snippet": {
       "publishedAt": "2025-08-31T00:25:29Z",
@@ -6174,7 +6227,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9060",
+      "viewCount": "9057",
       "likeCount": "249",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -6235,7 +6288,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GLsydURW4SJbTtDmifwHDqlMT_g",
+    "etag": "4RGh9pspv7r4I0VJ55m0zi1YsF4",
     "id": "t6i_Wyk9YQQ",
     "snippet": {
       "publishedAt": "2025-08-30T12:03:11Z",
@@ -6280,7 +6333,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12667",
+      "viewCount": "12669",
       "likeCount": "298",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -6288,7 +6341,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JYtOvfCKSZ1L-HHOx1I6gWAOqlA",
+    "etag": "A3kE9G1s2uIRv_HL_vYlXMgxziQ",
     "id": "pz-59eCsj8c",
     "snippet": {
       "publishedAt": "2025-08-30T10:58:33Z",
@@ -6333,7 +6386,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7951",
+      "viewCount": "7957",
       "likeCount": "209",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -6341,7 +6394,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dZV0rqW9DKJdX1DGi6A9l1GQzCU",
+    "etag": "Z2irgA4PZ4Yj5vP2dFdwrdEAHmo",
     "id": "YauW0hDQARo",
     "snippet": {
       "publishedAt": "2025-08-30T03:30:51Z",
@@ -6386,7 +6439,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21368",
+      "viewCount": "21381",
       "likeCount": "595",
       "favoriteCount": "0",
       "commentCount": "33"
@@ -6394,7 +6447,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "oJIZCy89PhmlJ_Qydh317jfTPYY",
+    "etag": "IYWnwdHcy0TYRxOS2fSmSNcQy7U",
     "id": "ZFNghxLmV14",
     "snippet": {
       "publishedAt": "2025-08-30T02:06:09Z",
@@ -6439,7 +6492,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16182",
+      "viewCount": "16178",
       "likeCount": "434",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -6447,7 +6500,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "huNFiSNRrWbmqvkDdoKQiQr4xfw",
+    "etag": "fFvgz6il3W6jIGneUfkh4x8taAU",
     "id": "UErMTD_r95s",
     "snippet": {
       "publishedAt": "2025-08-29T18:21:30Z",
@@ -6492,7 +6545,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "59311",
+      "viewCount": "59384",
       "likeCount": "1472",
       "favoriteCount": "0",
       "commentCount": "100"
@@ -6553,7 +6606,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QlD3H0CqkiK8uuoWcIuKMpiX1SI",
+    "etag": "YvvyV2EHAF2brO5XuakKsu-YVq4",
     "id": "gEaMVLP4TDc",
     "snippet": {
       "publishedAt": "2025-08-29T10:40:23Z",
@@ -6598,7 +6651,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11457",
+      "viewCount": "11458",
       "likeCount": "381",
       "favoriteCount": "0",
       "commentCount": "36"
@@ -6712,7 +6765,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "FmUoMhZQORNgVDwSqwKn9C5BnCs",
+    "etag": "8IYL3FHG7JWO2--kIf4qvtKajyc",
     "id": "-2KZN3j8y_g",
     "snippet": {
       "publishedAt": "2025-08-28T23:53:19Z",
@@ -6757,7 +6810,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8955",
+      "viewCount": "8957",
       "likeCount": "232",
       "favoriteCount": "0",
       "commentCount": "33"
@@ -6818,7 +6871,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "s0cf9UrveoBHnn7tHZK2eZVg4Ik",
+    "etag": "gSw21QTQLD-PyJBvZKetFp0A2lc",
     "id": "R-kw3K9fbpo",
     "snippet": {
       "publishedAt": "2025-08-28T10:00:35Z",
@@ -6863,7 +6916,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8327",
+      "viewCount": "8326",
       "likeCount": "257",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -6871,7 +6924,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ESZNm3klB5B5uVh2zbR2or4nIYY",
+    "etag": "FSodPcE4MyrJCUFuXoNuGJ5TFuc",
     "id": "YV5ZLC5zZtQ",
     "snippet": {
       "publishedAt": "2025-08-28T06:18:27Z",
@@ -6916,7 +6969,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5137",
+      "viewCount": "5139",
       "likeCount": "117",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -6924,7 +6977,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8a8q0xAwHwYp6MEnBruE0TY0mcA",
+    "etag": "6XOQL7eAa_tokOJpr3v3EixH_pA",
     "id": "49k-SkG3ONA",
     "snippet": {
       "publishedAt": "2025-08-28T03:54:29Z",
@@ -6969,7 +7022,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14806",
+      "viewCount": "14807",
       "likeCount": "380",
       "favoriteCount": "0",
       "commentCount": "27"
@@ -6977,7 +7030,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GD85ClaBS_HN6AGv9A4YWTidAgE",
+    "etag": "bsWxuBZSPdDPduEbyrfFZ5gbSzM",
     "id": "tU9KwN4isYE",
     "snippet": {
       "publishedAt": "2025-08-28T02:36:26Z",
@@ -7022,7 +7075,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11059",
+      "viewCount": "11062",
       "likeCount": "242",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -7083,7 +7136,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_Aio7D1GLYeO0E4VAvkYx3dxNcM",
+    "etag": "88FQuQYu5B4dKHnH0gnOFgv10fA",
     "id": "JnLzCBbKLgc",
     "snippet": {
       "publishedAt": "2025-08-27T11:05:01Z",
@@ -7128,7 +7181,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9845",
+      "viewCount": "9854",
       "likeCount": "228",
       "favoriteCount": "0",
       "commentCount": "36"
@@ -7136,7 +7189,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "G34-ObkQgvxZBhFr6otUKU2PWHw",
+    "etag": "KQIKd5e1EZnqy2RX74qZCs7fods",
     "id": "6whXf71YjDY",
     "snippet": {
       "publishedAt": "2025-08-27T10:07:36Z",
@@ -7181,7 +7234,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6365",
+      "viewCount": "6370",
       "likeCount": "169",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -7189,7 +7242,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gIck3Isk_UnNDZLir1f0TP-Czug",
+    "etag": "Lxe8RNI2AGVsTMtWVhGoKY02m1I",
     "id": "XyPrDxlDbZM",
     "snippet": {
       "publishedAt": "2025-08-27T07:44:04Z",
@@ -7234,7 +7287,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9887",
+      "viewCount": "9889",
       "likeCount": "320",
       "favoriteCount": "0",
       "commentCount": "9"
@@ -7295,7 +7348,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "kuLxs-qQiiAtO8b4_3lfh32SJIg",
+    "etag": "ou7pTayvZEouVRwG2NSxJizlEFU",
     "id": "bQPsTNqB4aE",
     "snippet": {
       "publishedAt": "2025-08-27T05:03:35Z",
@@ -7340,7 +7393,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7603",
+      "viewCount": "7607",
       "likeCount": "199",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -7401,7 +7454,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "aMSJhWnffus1ibLdFzKUopbbEbA",
+    "etag": "nmCBJOy3jq77Wp-1za0xsmLOQ6E",
     "id": "XzUP-K_A6hM",
     "snippet": {
       "publishedAt": "2025-08-27T01:58:34Z",
@@ -7446,7 +7499,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2166",
+      "viewCount": "2164",
       "likeCount": "91",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -7560,7 +7613,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "lmqQfDdR0jgRabISndzjkfbeMTw",
+    "etag": "mNs7PiOHvf_AP4t7li2FyfVJ0-0",
     "id": "bNT0UGKGBTU",
     "snippet": {
       "publishedAt": "2025-08-26T12:03:27Z",
@@ -7605,8 +7658,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4595",
-      "likeCount": "112",
+      "viewCount": "4596",
+      "likeCount": "113",
       "favoriteCount": "0",
       "commentCount": "16"
     }
@@ -8355,7 +8408,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "b7Oc3sj6a4r6NMWCuq7rlk7jkpE",
+    "etag": "f0NR-gXo47gn1iXfXXSDchE_WiI",
     "id": "t_sOiUtWpAg",
     "snippet": {
       "publishedAt": "2025-08-25T00:03:55Z",
@@ -8400,7 +8453,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10190",
+      "viewCount": "10194",
       "likeCount": "281",
       "favoriteCount": "0",
       "commentCount": "14"
@@ -8408,7 +8461,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0DlVLnQtZxa3p0lnhChGuVqc4cQ",
+    "etag": "X2JjAb_LeSHezWvlA-4zT4VZjIo",
     "id": "5binaVUOucc",
     "snippet": {
       "publishedAt": "2025-08-24T15:49:50Z",
@@ -8453,7 +8506,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9679",
+      "viewCount": "9683",
       "likeCount": "237",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -8514,7 +8567,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MB2dwDMJjy4e0FPBOjaemF6KnrE",
+    "etag": "FbhHktV1gI40NFbZwMZftkkeHhY",
     "id": "LOHFCeuY4eU",
     "snippet": {
       "publishedAt": "2025-08-24T06:36:57Z",
@@ -8559,15 +8612,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9629",
-      "likeCount": "323",
+      "viewCount": "9641",
+      "likeCount": "324",
       "favoriteCount": "0",
       "commentCount": "20"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "rXcEh5aqjtVjeE9zWZ8snkyrR68",
+    "etag": "aIfMPjiiB2dcW51Kwte3cYOqhP0",
     "id": "o8BMpnNfRwQ",
     "snippet": {
       "publishedAt": "2025-08-24T03:58:23Z",
@@ -8612,7 +8665,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "32665",
+      "viewCount": "32679",
       "likeCount": "845",
       "favoriteCount": "0",
       "commentCount": "117"
@@ -8620,7 +8673,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "D3MJyPlHuhVUTKEtV-0rz7gI2Pg",
+    "etag": "6SP_mIw_kMo0x7iwLrvIqq3nZtQ",
     "id": "iAWZwvg-j8Q",
     "snippet": {
       "publishedAt": "2025-08-23T12:09:31Z",
@@ -8665,7 +8718,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "49014",
+      "viewCount": "49098",
       "likeCount": "1042",
       "favoriteCount": "0",
       "commentCount": "55"
@@ -9309,7 +9362,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "cPKnyxgtWzF8V-VvsSbI3217tqA",
+    "etag": "DyoESAv12gcaOP9pc2VyqlHWY1c",
     "id": "o0tO9zxPoug",
     "snippet": {
       "publishedAt": "2025-08-21T07:31:21Z",
@@ -9354,7 +9407,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "18065",
+      "viewCount": "18074",
       "likeCount": "206",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -9521,7 +9574,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QY55aeDyCDU1moVsoMVZ7HnCj3w",
+    "etag": "8CN5XZwQMdc5SjF9ZDRcoOK6ess",
     "id": "5-zIvkIuMcI",
     "snippet": {
       "publishedAt": "2025-08-20T03:52:59Z",
@@ -9566,7 +9619,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16973",
+      "viewCount": "16981",
       "likeCount": "425",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -9892,7 +9945,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Xh3XhQ3Kvxr2LdQb-5JEMk3k4FU",
+    "etag": "67OhR8g9AVc_IR6eL54Za0lqK0k",
     "id": "tr-ud-MHLHs",
     "snippet": {
       "publishedAt": "2025-08-18T04:23:35Z",
@@ -9937,15 +9990,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16628",
-      "likeCount": "425",
+      "viewCount": "16634",
+      "likeCount": "426",
       "favoriteCount": "0",
       "commentCount": "25"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "oxnOHrozyBYWfptzG1XT_Wgq9Qg",
+    "etag": "ts1GftBAVV5pXcgM_kJ7YTiim7M",
     "id": "_MbXY912TsQ",
     "snippet": {
       "publishedAt": "2025-08-17T12:35:07Z",
@@ -9990,7 +10043,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15126",
+      "viewCount": "15132",
       "likeCount": "392",
       "favoriteCount": "0",
       "commentCount": "37"
@@ -10094,7 +10147,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "swbxIvIGeD0X8qcJ5ZO78jJ8sSo",
+    "etag": "3EEdGtxDrI6sQKwHTIlFgLJkXdc",
     "id": "qULgnsvFCXs",
     "snippet": {
       "publishedAt": "2025-08-16T23:48:17Z",
@@ -10139,7 +10192,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8911",
+      "viewCount": "8931",
       "likeCount": "196",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -10253,7 +10306,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5CreLh3mwCRUA3qzXarroZUbq1c",
+    "etag": "dfReMkMHzaibGZjnE33vJZU_Ws8",
     "id": "ZlTB9NsfUEE",
     "snippet": {
       "publishedAt": "2025-08-14T11:53:53Z",
@@ -10298,7 +10351,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "22496",
+      "viewCount": "22506",
       "likeCount": "518",
       "favoriteCount": "0",
       "commentCount": "72"
@@ -10349,7 +10402,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JjAf6SQbHOSrUtAHtEtN0pouoMk",
+    "etag": "zsEbayDPpFsecUyPKTWIBhyGa9Y",
     "id": "Bn2A6UK4qxg",
     "snippet": {
       "publishedAt": "2025-08-14T02:28:01Z",
@@ -10394,7 +10447,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "87985",
+      "viewCount": "87989",
       "likeCount": "1710",
       "favoriteCount": "0",
       "commentCount": "84"
@@ -10551,7 +10604,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "f7qNbOfgEzFqWPdeCJBB7GmqoCI",
+    "etag": "q8E7V7S7dftZEXGwAv-OYQ6czEU",
     "id": "NHEQ6LlR8J0",
     "snippet": {
       "publishedAt": "2025-08-13T07:28:01Z",
@@ -10596,7 +10649,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4685",
+      "viewCount": "4686",
       "likeCount": "157",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -10604,7 +10657,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Pczedw9IUP_bG2yDDmuKMFv45xo",
+    "etag": "JR_VwNL_PIM-UOaHfc7lhcVGAac",
     "id": "Kq_yaCbTU0o",
     "snippet": {
       "publishedAt": "2025-08-13T00:10:08Z",
@@ -10649,7 +10702,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13712",
+      "viewCount": "13714",
       "likeCount": "454",
       "favoriteCount": "0",
       "commentCount": "37"
@@ -10657,7 +10710,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RLAoNaK0ly_dqSRXmrqU3kmpM2I",
+    "etag": "nYom-x7HlBFMWeIj7LC30C2XGbA",
     "id": "2eqtKlsIngk",
     "snippet": {
       "publishedAt": "2025-08-12T12:29:16Z",
@@ -10702,7 +10755,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "27717",
+      "viewCount": "27724",
       "likeCount": "570",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -10710,7 +10763,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zGpedPqLHppcCABBZd7uqJJUbKg",
+    "etag": "hfVX1RDTY0HqOTcUNv74GaHo5gY",
     "id": "dbakARN0z2k",
     "snippet": {
       "publishedAt": "2025-08-12T05:47:44Z",
@@ -10755,7 +10808,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11569",
+      "viewCount": "11570",
       "likeCount": "290",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -10763,7 +10816,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OxV3XBz6J-w1tmzy6IwrPPlBPrk",
+    "etag": "Nx3A9iGyXg2fbu9fOKp7yKa57Hg",
     "id": "9aaRUvdjQas",
     "snippet": {
       "publishedAt": "2025-08-12T02:43:00Z",
@@ -10808,7 +10861,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21665",
+      "viewCount": "21668",
       "likeCount": "543",
       "favoriteCount": "0",
       "commentCount": "57"
@@ -10816,7 +10869,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qLBHJzknHPutBEUO7-0YFx_kzsM",
+    "etag": "7U1hdNL2RiAfwxQxT9ypPXq9cY8",
     "id": "9oaJzZoMvc8",
     "snippet": {
       "publishedAt": "2025-08-10T15:43:00Z",
@@ -10861,7 +10914,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13433",
+      "viewCount": "13432",
       "likeCount": "356",
       "favoriteCount": "0",
       "commentCount": "42"
@@ -10869,7 +10922,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Ox2_PxSYPNEXBc_nwg0gYg0CRmQ",
+    "etag": "ozy_Vyo_GrRJbdRLUFR8MmFSmls",
     "id": "sPvy9sDsOoc",
     "snippet": {
       "publishedAt": "2025-08-09T07:55:53Z",
@@ -10914,7 +10967,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "100045",
+      "viewCount": "100057",
       "likeCount": "1309",
       "favoriteCount": "0",
       "commentCount": "122"
@@ -10922,7 +10975,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "oOmnGItboK5aa1DabGL8L7jY4BQ",
+    "etag": "2hQ7Xa2PMek0Kx14ronJTDTJdFI",
     "id": "g138IqXSvTs",
     "snippet": {
       "publishedAt": "2025-08-06T10:10:55Z",
@@ -10967,7 +11020,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8023",
+      "viewCount": "8031",
       "likeCount": "204",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -10975,7 +11028,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_HhNEtVKNrhvyK8JdeGKi0lSKwM",
+    "etag": "QWmD0hQCKhPFCXg2NcpaSC_n7tw",
     "id": "2t6AgZ48-hQ",
     "snippet": {
       "publishedAt": "2025-08-05T13:40:12Z",
@@ -11020,7 +11073,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "32578",
+      "viewCount": "32564",
       "likeCount": "405",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -11028,7 +11081,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CHOCQ07wa7l_7NkTh_cipNqctic",
+    "etag": "nu4_At5V3yGcCZCFpw2KL80NolM",
     "id": "55Uf_h1ykQg",
     "snippet": {
       "publishedAt": "2025-08-05T09:36:50Z",
@@ -11073,7 +11126,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "43132",
+      "viewCount": "43139",
       "likeCount": "606",
       "favoriteCount": "0",
       "commentCount": "42"
@@ -11134,7 +11187,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BxFltTl_x30cC9dHITVkxSyp6Ek",
+    "etag": "XZKxuAQ-0BmJ1p0pwnFVemSVTt8",
     "id": "rDs7KIug-A0",
     "snippet": {
       "publishedAt": "2025-08-02T14:01:12Z",
@@ -11179,7 +11232,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "17664",
+      "viewCount": "17683",
       "likeCount": "296",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -11240,7 +11293,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xci5k8mR02454sJjedjOA3zk4JU",
+    "etag": "A6m0JWlPz9ar-jJR6719dQct8Es",
     "id": "t6x0Y9YVOzo",
     "snippet": {
       "publishedAt": "2025-08-02T02:01:00Z",
@@ -11285,7 +11338,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9480",
+      "viewCount": "9484",
       "likeCount": "234",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -11293,7 +11346,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xDQyZGdjq1mDhSdo-oLPpKcLZko",
+    "etag": "_JjExY_DbJNLJ3db6rnS4LKgLDs",
     "id": "gPLh-8U_sX8",
     "snippet": {
       "publishedAt": "2025-08-01T02:42:28Z",
@@ -11338,7 +11391,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8210",
+      "viewCount": "8209",
       "likeCount": "138",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -11346,7 +11399,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3aioZ_Xii-Lr3QXcfNS-vDoEvRE",
+    "etag": "aRjoBld7SJvhftLH_ytc6EGBraE",
     "id": "OSS4tUVcryI",
     "snippet": {
       "publishedAt": "2025-07-31T10:22:54Z",
@@ -11386,7 +11439,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "32105",
+      "viewCount": "32121",
       "likeCount": "811",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -11394,7 +11447,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ecEzgt4FuXT7ePgJDRq-iLYNUEY",
+    "etag": "VUCZffHzAWZYdLz-0mhV7fKN9gs",
     "id": "OaeYcecWXq4",
     "snippet": {
       "publishedAt": "2025-07-29T22:14:54Z",
@@ -11439,7 +11492,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "22053",
+      "viewCount": "22061",
       "likeCount": "451",
       "favoriteCount": "0",
       "commentCount": "29"
@@ -11447,7 +11500,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zZNUDbfDXSQE0DnwukxGKyNyLwg",
+    "etag": "5dS-_4u87dhZ_AbAbeS1EfOl19U",
     "id": "fl-Xx_Nm9yY",
     "snippet": {
       "publishedAt": "2025-07-28T14:54:08Z",
@@ -11492,7 +11545,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14695",
+      "viewCount": "14701",
       "likeCount": "318",
       "favoriteCount": "0",
       "commentCount": "27"
@@ -11500,7 +11553,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Tk_Y-iZ2xJ2zbiY3yEnemSgncZo",
+    "etag": "C9eG062AGzpcKgUkXOpQNsAnyfg",
     "id": "IZJDM3Dy5x0",
     "snippet": {
       "publishedAt": "2025-07-28T09:49:27Z",
@@ -11545,15 +11598,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "18228",
-      "likeCount": "371",
+      "viewCount": "18206",
+      "likeCount": "370",
       "favoriteCount": "0",
       "commentCount": "26"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "5OwSwCBt9XtSAibfC_8EqL-HmjI",
+    "etag": "Ki2AaZ_uW-agcmlFEDWWhT4wVo0",
     "id": "lRRn-IjXEBI",
     "snippet": {
       "publishedAt": "2025-07-28T02:06:31Z",
@@ -11598,7 +11651,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "18773",
+      "viewCount": "18772",
       "likeCount": "457",
       "favoriteCount": "0",
       "commentCount": "36"
@@ -11659,7 +11712,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "DgH43VCRS6sdskJTVY4JH4EQsuE",
+    "etag": "QJMWFUJFwIGrHPOMElhrsZ-E0Ps",
     "id": "kLwcKWmtOAc",
     "snippet": {
       "publishedAt": "2025-07-27T04:12:02Z",
@@ -11704,7 +11757,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23374",
+      "viewCount": "23373",
       "likeCount": "505",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -11712,7 +11765,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "38BXcgp_nYBriKHE2ZeQGzdSBRM",
+    "etag": "RnDn5hbmJTmlE1IVOWO4clyzI0M",
     "id": "iXU5af-X-Fg",
     "snippet": {
       "publishedAt": "2025-07-26T13:13:40Z",
@@ -11757,15 +11810,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13575",
-      "likeCount": "246",
+      "viewCount": "13581",
+      "likeCount": "247",
       "favoriteCount": "0",
       "commentCount": "28"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Xutgy7qEeDB6avJ8pLF71pXPT-U",
+    "etag": "xhtzNTYQXY_qDS2bSN3_BMCQiAI",
     "id": "ZJnjCmZbjWM",
     "snippet": {
       "publishedAt": "2025-07-26T09:20:58Z",
@@ -11810,7 +11863,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9825",
+      "viewCount": "9824",
       "likeCount": "186",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -11818,7 +11871,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "a2ounm7dsZ9plXtvFFLUrmBeTFM",
+    "etag": "1q_U2V0b5WJmFnvGJAyRGT8xHZ0",
     "id": "WtsJ8jGmwWU",
     "snippet": {
       "publishedAt": "2025-07-26T00:02:54Z",
@@ -11863,7 +11916,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11471",
+      "viewCount": "11479",
       "likeCount": "274",
       "favoriteCount": "0",
       "commentCount": "43"
@@ -11871,7 +11924,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZnLg1VzS2FDTD4BC-qDfjOzxIm0",
+    "etag": "CZ0t-ekgrcRlTzU4VLVxxpbK23c",
     "id": "WPkr7xa7ttg",
     "snippet": {
       "publishedAt": "2025-07-24T12:14:27Z",
@@ -11916,15 +11969,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8549",
-      "likeCount": "168",
+      "viewCount": "8557",
+      "likeCount": "167",
       "favoriteCount": "0",
       "commentCount": "17"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "g26kdNxVXq3xr08WMGMg76oQLWg",
+    "etag": "vpn2H2-AFkrHBx5Lt4pa7MJL_bA",
     "id": "HLpQBshF49w",
     "snippet": {
       "publishedAt": "2025-07-21T16:19:15Z",
@@ -11969,7 +12022,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8547",
+      "viewCount": "8549",
       "likeCount": "194",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -11977,7 +12030,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZokmwQxmNoin19StmlrUFffbnRE",
+    "etag": "ZaAwicgdgajm4hq6nxQuddZlp6M",
     "id": "Zgn7I-FuqL8",
     "snippet": {
       "publishedAt": "2025-07-21T07:58:38Z",
@@ -12022,7 +12075,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21074",
+      "viewCount": "21073",
       "likeCount": "441",
       "favoriteCount": "0",
       "commentCount": "32"
@@ -12030,7 +12083,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KlF9ePxE5wMC1WM75Nq4zrs9U38",
+    "etag": "nkxoTrOT0IuLaj1O3mv2X9R9j_I",
     "id": "BroH2qwwms0",
     "snippet": {
       "publishedAt": "2025-07-21T05:35:19Z",
@@ -12075,8 +12128,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "69883",
-      "likeCount": "1210",
+      "viewCount": "69901",
+      "likeCount": "1211",
       "favoriteCount": "0",
       "commentCount": "57"
     }
@@ -12136,7 +12189,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fMCFRlgkLygn9BG8Q5jlrjR1mEE",
+    "etag": "RR_WunoOvr_GhK43WykZAQ7SXmQ",
     "id": "4EBWP1gD6IY",
     "snippet": {
       "publishedAt": "2025-07-19T00:28:03Z",
@@ -12181,7 +12234,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "32631",
+      "viewCount": "32621",
       "likeCount": "416",
       "favoriteCount": "0",
       "commentCount": "66"
@@ -12189,7 +12242,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ut_Kmn-Z1jeu82sv68wF1CJF6Rg",
+    "etag": "IahIGZVaGhQOQWqZSZl7SIjLRW4",
     "id": "8nGnkOKOJaU",
     "snippet": {
       "publishedAt": "2025-07-17T03:33:58Z",
@@ -12234,7 +12287,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15088",
+      "viewCount": "15087",
       "likeCount": "304",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -12242,7 +12295,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jdD3u7ULlVChr8FlZzsSQ9LaFO4",
+    "etag": "IttheHPAmNFLmABThrlzyqf0jmA",
     "id": "C2eNrZvfUJA",
     "snippet": {
       "publishedAt": "2025-07-17T00:44:36Z",
@@ -12287,7 +12340,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "75998",
+      "viewCount": "76015",
       "likeCount": "1547",
       "favoriteCount": "0",
       "commentCount": "129"
@@ -12348,7 +12401,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "r2Z5vr4m7j3eArl_QqBp8WxVYws",
+    "etag": "W2rXIMXQWXVS9AaAztaj-jA6YGU",
     "id": "t6MdYOgnMww",
     "snippet": {
       "publishedAt": "2025-07-14T13:53:09Z",
@@ -12393,7 +12446,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21965",
+      "viewCount": "21967",
       "likeCount": "378",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -12401,7 +12454,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "K-iz6TqnTJR76rFF3bgUJiNpFU8",
+    "etag": "cOMKpjq7XIDZXPagkTwwLdCx3Vo",
     "id": "x3_TzxARt_8",
     "snippet": {
       "publishedAt": "2025-07-14T05:18:24Z",
@@ -12446,7 +12499,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "25306",
+      "viewCount": "25305",
       "likeCount": "337",
       "favoriteCount": "0",
       "commentCount": "48"
@@ -12454,7 +12507,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9zVmVfH7hSAIeCekpwCHLuc0b_0",
+    "etag": "TGyv2LqkGNWKrGzoWZxt8hGNdjQ",
     "id": "6-18FW7zzT0",
     "snippet": {
       "publishedAt": "2025-07-13T09:42:36Z",
@@ -12499,7 +12552,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "32279",
+      "viewCount": "32282",
       "likeCount": "461",
       "favoriteCount": "0",
       "commentCount": "43"
@@ -12560,7 +12613,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "LfdduLXAlZflKndu5YcMOCmC22M",
+    "etag": "jvZh0jUeB6DTNIB0W0LDT0pK5Dw",
     "id": "QcnJh0LPLGg",
     "snippet": {
       "publishedAt": "2025-07-11T04:48:02Z",
@@ -12605,7 +12658,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "26365",
+      "viewCount": "26364",
       "likeCount": "613",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -12666,7 +12719,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3dn2Kxoz_vYvImnirGD0j-T6r2c",
+    "etag": "BNXzbHSjjPPDJGuZBivW8yoVH-k",
     "id": "cZ2EE8rFZI0",
     "snippet": {
       "publishedAt": "2025-07-04T12:01:41Z",
@@ -12711,7 +12764,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "34890",
+      "viewCount": "34887",
       "likeCount": "521",
       "favoriteCount": "0",
       "commentCount": "45"
@@ -12719,7 +12772,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BmSC6B2YQIBPg3ixODREyZvkVOs",
+    "etag": "-HaJBSUPdc8HjyCtAA_B5P-xV_k",
     "id": "InYRxq7asL8",
     "snippet": {
       "publishedAt": "2025-07-01T10:27:43Z",
@@ -12764,7 +12817,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "27434",
+      "viewCount": "27429",
       "likeCount": "586",
       "favoriteCount": "0",
       "commentCount": "39"
@@ -12772,7 +12825,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fKdR03k1OmUTxwGDp_Cx7EfjFG0",
+    "etag": "gpe_pB8z_d3psbF9T4EwZYjVOuc",
     "id": "WKwTpyk76yw",
     "snippet": {
       "publishedAt": "2025-06-29T00:12:03Z",
@@ -12817,7 +12870,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "30244",
+      "viewCount": "30255",
       "likeCount": "491",
       "favoriteCount": "0",
       "commentCount": "25"
@@ -12825,7 +12878,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Qp1WNjhNqZDrgTXUxJyP5m3YOD4",
+    "etag": "vYhJ2bmNkGMVpxNStWVPYkDnN-8",
     "id": "bXUd7E0GrRI",
     "snippet": {
       "publishedAt": "2025-06-28T03:55:02Z",
@@ -12870,7 +12923,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "19495",
+      "viewCount": "19516",
       "likeCount": "336",
       "favoriteCount": "0",
       "commentCount": "28"
@@ -12878,7 +12931,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "X_TcMniEIN7fzkkSVenpwqMqsH8",
+    "etag": "8svZUa0EKj2EklMNhLOt7AwlCXI",
     "id": "Q9fvy6gdUmg",
     "snippet": {
       "publishedAt": "2025-06-27T02:23:44Z",
@@ -12923,7 +12976,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "20368",
+      "viewCount": "20370",
       "likeCount": "613",
       "favoriteCount": "0",
       "commentCount": "67"
@@ -12931,7 +12984,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "wR-ud-dDyDrCJl1-Uu6UWaKO_ws",
+    "etag": "I2NgXV6Xc5SwLPr2PtO_zlUH-Us",
     "id": "KlenuO0CmKk",
     "snippet": {
       "publishedAt": "2025-06-24T08:05:22Z",
@@ -12976,7 +13029,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "26400",
+      "viewCount": "26401",
       "likeCount": "421",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -12984,7 +13037,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "aGgNgPInKueYppCsqItIUFIKDVM",
+    "etag": "cWGw8w643EmF9NtoJ6-ZYuIRMTs",
     "id": "qnddgkgdnXg",
     "snippet": {
       "publishedAt": "2025-06-22T11:45:06Z",
@@ -13029,7 +13082,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11605",
+      "viewCount": "11603",
       "likeCount": "137",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -13037,7 +13090,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zcGx0Z32BgSC5JJukf0FeX6myac",
+    "etag": "TN35UgVqlr-dpAT2ACcfXcbPPTQ",
     "id": "7KdzzoIRpTY",
     "snippet": {
       "publishedAt": "2025-06-22T05:38:33Z",
@@ -13082,7 +13135,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "65492",
+      "viewCount": "65480",
       "likeCount": "808",
       "favoriteCount": "0",
       "commentCount": "70"
@@ -13090,7 +13143,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "z2H09lDIrO7M2MFGmlTpxpZHqF8",
+    "etag": "bqKcKgRLa05SlEyrTM0VYZOt-Eo",
     "id": "YfRYul8A8_s",
     "snippet": {
       "publishedAt": "2025-06-21T08:35:49Z",
@@ -13135,7 +13188,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "123717",
+      "viewCount": "123720",
       "likeCount": "1649",
       "favoriteCount": "0",
       "commentCount": "111"
@@ -13196,7 +13249,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "UNaGsgmfBJ2MhTV9xQD0bNDy0x4",
+    "etag": "ccYUQ_lp8yRLqm0yPoPIfTQw4Es",
     "id": "tEN5k-nzoU8",
     "snippet": {
       "publishedAt": "2025-06-04T10:15:18Z",
@@ -13241,7 +13294,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7364",
+      "viewCount": "7365",
       "likeCount": "163",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -13249,7 +13302,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IZ-pQ6MwRFvVw1ZGGq4naby6ECQ",
+    "etag": "iJ0JnhnscRD79bNaF6X8dykC2z8",
     "id": "euYK1iiI4RA",
     "snippet": {
       "publishedAt": "2025-05-30T14:08:18Z",
@@ -13294,7 +13347,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24529",
+      "viewCount": "24531",
       "likeCount": "564",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -13302,7 +13355,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tzf1CHHmVt3TsqSEC3Tm-rouzoM",
+    "etag": "4Tu9SnLrlfjLnT6SOATAxTQ8gBw",
     "id": "Mns92KfU2qs",
     "snippet": {
       "publishedAt": "2025-05-28T14:22:47Z",
@@ -13347,7 +13400,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23463",
+      "viewCount": "23461",
       "likeCount": "581",
       "favoriteCount": "0",
       "commentCount": "63"
@@ -13355,7 +13408,64 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "pQPei_hBA4e5FzaLZyFx-Lww6VY",
+    "etag": "baF7S4nDmPaV69saxh7PDWPzMkc",
+    "id": "S8unl7dTfmg",
+    "snippet": {
+      "publishedAt": "2025-05-25T08:34:13Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Tiên nữ nhiều chuyện bị đày xuống nhân giới bị gia đình pháo hôi nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S8unl7dTfmg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S8unl7dTfmg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S8unl7dTfmg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S8unl7dTfmg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S8unl7dTfmg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "tags": [
+        "review phim",
+        "tiếng lòng"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Tiên nữ nhiều chuyện bị đày xuống nhân giới bị gia đình pháo hôi nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "156856",
+      "likeCount": "2430",
+      "favoriteCount": "0",
+      "commentCount": "159"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "UexMESQhYRZtDiZW4xDy2qBV-ys",
     "id": "6C0EmqcezZc",
     "snippet": {
       "publishedAt": "2025-05-25T03:53:14Z",
@@ -13400,7 +13510,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "34815",
+      "viewCount": "34820",
       "likeCount": "519",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -13408,7 +13518,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9O4n9J3_VoXvj30-Cn9djVJ_bd4",
+    "etag": "FpO4piD16W2-WYFnsPSNFac1B8w",
     "id": "64U9o6CQwwE",
     "snippet": {
       "publishedAt": "2025-05-24T19:16:04Z",
@@ -13456,7 +13566,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14587",
+      "viewCount": "14593",
       "likeCount": "214",
       "favoriteCount": "0",
       "commentCount": "27"
@@ -13685,7 +13795,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "975nFnt-53RZ2oP0c_z2NzIzVTA",
+    "etag": "pmH-L8B2KCa10hTlFM1hkV0_r5o",
     "id": "33wxlDaKyBs",
     "snippet": {
       "publishedAt": "2025-05-21T10:55:42Z",
@@ -13733,7 +13843,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "172769",
+      "viewCount": "172768",
       "likeCount": "2537",
       "favoriteCount": "0",
       "commentCount": "124"
@@ -13741,7 +13851,64 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "P25npZhaADNEmu7B4n2T2rq0Zrc",
+    "etag": "9Q2dWdi88sIfqiLje3DjW6lNr8E",
+    "id": "4pIetdAiNLw",
+    "snippet": {
+      "publishedAt": "2025-05-20T23:16:38Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Xuyên không bị cả nhà nghe lén tiếng lòng: Ta nhận đại đế làm chồng nuôi từ bé",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4pIetdAiNLw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4pIetdAiNLw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4pIetdAiNLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4pIetdAiNLw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4pIetdAiNLw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "tags": [
+        "review",
+        "tiếng lòng"
+      ],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Xuyên không bị cả nhà nghe lén tiếng lòng: Ta nhận đại đế làm chồng nuôi từ bé",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "156194",
+      "likeCount": "2069",
+      "favoriteCount": "0",
+      "commentCount": "136"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Elmysjm7QgmdVGBQbAietZEWn5s",
     "id": "nkVaK6Dn8kI",
     "snippet": {
       "publishedAt": "2025-05-20T18:56:44Z",
@@ -13789,7 +13956,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "77376",
+      "viewCount": "77374",
       "likeCount": "797",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -13797,7 +13964,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RQfsxeF2Z6yljtOWssYynbNtBAc",
+    "etag": "rt0VQE1ZihU9whODmEj1kDVjFv0",
     "id": "9oUMhTQDooM",
     "snippet": {
       "publishedAt": "2025-05-20T06:35:16Z",
@@ -13845,7 +14012,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "232355",
+      "viewCount": "232361",
       "likeCount": "1830",
       "favoriteCount": "0",
       "commentCount": "123"
@@ -13853,7 +14020,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jSB_SBQ4TOgKt5CiDRY5xq41feY",
+    "etag": "V_DwRCt39_yXcWbbE08wWAOYBNU",
     "id": "rPz_M-zpz_0",
     "snippet": {
       "publishedAt": "2025-05-20T00:44:23Z",
@@ -13898,7 +14065,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "163404",
+      "viewCount": "163405",
       "likeCount": "1771",
       "favoriteCount": "0",
       "commentCount": "150"
@@ -13906,7 +14073,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Udq9PvPY_iR6oNTHz7A_ke9uRac",
+    "etag": "gZIQeVvwaH3GWK8fkTFZQHM-8PY",
     "id": "kHc0bUkyv_E",
     "snippet": {
       "publishedAt": "2025-05-19T10:22:21Z",
@@ -13951,7 +14118,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "118387",
+      "viewCount": "118402",
       "likeCount": "1034",
       "favoriteCount": "0",
       "commentCount": "64"
@@ -13959,7 +14126,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OPcvlBATXvlzsPtgzo_cnxSM7Ug",
+    "etag": "9VzuykC5MBx0JnfXIf2KXJUWQUE",
     "id": "bc42zKACkkc",
     "snippet": {
       "publishedAt": "2025-05-19T08:09:14Z",
@@ -14007,7 +14174,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "167875",
+      "viewCount": "167880",
       "likeCount": "2222",
       "favoriteCount": "0",
       "commentCount": "184"
@@ -14015,7 +14182,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mcca9ZlZcx-v8tWlWsjBoos8G3A",
+    "etag": "Sj42vF1svytHTDaXsTz-cWhiNco",
     "id": "qZLfhtL0QwM",
     "snippet": {
       "publishedAt": "2025-05-18T22:44:37Z",
@@ -14063,7 +14230,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "56585",
+      "viewCount": "56588",
       "likeCount": "625",
       "favoriteCount": "0",
       "commentCount": "66"
@@ -14127,7 +14294,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PvgoYInSX2gi1dxSRwZg5QT35L8",
+    "etag": "TgTBASMQDvf16N7JMwwPvKhq2bM",
     "id": "v6Sjbv__GwM",
     "snippet": {
       "publishedAt": "2025-05-15T21:59:11Z",
@@ -14172,7 +14339,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "166957",
+      "viewCount": "166958",
       "likeCount": "1840",
       "favoriteCount": "0",
       "commentCount": "93"
@@ -14180,7 +14347,60 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "f_0kRs2Kty2qZ043ya9fpOHX-RE",
+    "etag": "M9YE8dIDzkqDPrKviB5uJU2yaMs",
+    "id": "C2ZCgQbF5a0",
+    "snippet": {
+      "publishedAt": "2025-05-15T13:52:41Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Huyền môn lão tổ xuyên không trở thành tổng tài phu nhân bị cả nhà nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/C2ZCgQbF5a0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/C2ZCgQbF5a0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/C2ZCgQbF5a0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/C2ZCgQbF5a0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/C2ZCgQbF5a0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Huyền môn lão tổ xuyên không trở thành tổng tài phu nhân bị cả nhà nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "166597",
+      "likeCount": "1736",
+      "favoriteCount": "0",
+      "commentCount": "78"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "lRn8TWUxSsHwe5sqE19lGhu7K7w",
     "id": "u1iLLNLBXSc",
     "snippet": {
       "publishedAt": "2025-05-13T18:48:35Z",
@@ -14225,7 +14445,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "39276",
+      "viewCount": "39284",
       "likeCount": "338",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -14233,7 +14453,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "uADx-sr1aRE5OWEqi0_eEsM3PsI",
+    "etag": "synrwp1Xc-7RApvfaQ9-ChbJEbo",
     "id": "k-siVqhi5s0",
     "snippet": {
       "publishedAt": "2025-05-13T16:10:15Z",
@@ -14278,7 +14498,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "125586",
+      "viewCount": "125589",
       "likeCount": "1310",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -14339,7 +14559,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "HjW6CJcwz3ZFee6KbjH7re1kU-s",
+    "etag": "8u98nBhEa1Pcl7BOdjg57gg7kbk",
     "id": "72E7QQlIYk0",
     "snippet": {
       "publishedAt": "2025-05-10T06:27:14Z",
@@ -14384,15 +14604,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "569260",
-      "likeCount": "4713",
+      "viewCount": "569264",
+      "likeCount": "4712",
       "favoriteCount": "0",
       "commentCount": "269"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "MMv_72K_gg1elVs8U8Gh7LUrj6A",
+    "etag": "_OUqlJOp6wJvxKi2ExJYYVjaztU",
     "id": "K5afScHNnrU",
     "snippet": {
       "publishedAt": "2025-05-09T18:23:18Z",
@@ -14437,15 +14657,68 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "181552",
-      "likeCount": "1477",
+      "viewCount": "181703",
+      "likeCount": "1478",
       "favoriteCount": "0",
       "commentCount": "48"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "07HoxZ1Sywd695hqBRMhq4ezhj8",
+    "etag": "lGMOwvwkrVaGS8Q4MKyvla94dR8",
+    "id": "zJcJA4CP35Y",
+    "snippet": {
+      "publishedAt": "2025-05-09T17:00:17Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Trùng sinh thập niên 80 hủy hôn bị sĩ quan đẹp trai nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/zJcJA4CP35Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/zJcJA4CP35Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/zJcJA4CP35Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/zJcJA4CP35Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/zJcJA4CP35Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Trùng sinh thập niên 80 hủy hôn bị sĩ quan đẹp trai nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "116448",
+      "likeCount": "1644",
+      "favoriteCount": "0",
+      "commentCount": "80"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "a7ER8eJpGxOp0ym8XjIYrE6EtJo",
     "id": "6Z1sF12e4G4",
     "snippet": {
       "publishedAt": "2025-05-09T08:29:12Z",
@@ -14490,7 +14763,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "429773",
+      "viewCount": "429946",
       "likeCount": "2283",
       "favoriteCount": "0",
       "commentCount": "220"
@@ -14551,7 +14824,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "foTJZMJONPqBKvRwqGXFnKgf6K4",
+    "etag": "AICQxuxm0tS1fAQtTHJOQcgeBYo",
     "id": "X4TTBjXCcm8",
     "snippet": {
       "publishedAt": "2025-05-08T09:07:25Z",
@@ -14596,7 +14869,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "47785",
+      "viewCount": "47786",
       "likeCount": "732",
       "favoriteCount": "0",
       "commentCount": "34"
@@ -14710,7 +14983,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OGiC0QVI37TeXquNcFvLY6d8Iko",
+    "etag": "2mkAiItnr0w7-s7g5BYPvqVR5I0",
     "id": "mwK2dyBpQZ0",
     "snippet": {
       "publishedAt": "2025-05-03T10:31:15Z",
@@ -14755,15 +15028,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "633337",
-      "likeCount": "7619",
+      "viewCount": "633351",
+      "likeCount": "7620",
       "favoriteCount": "0",
       "commentCount": "481"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "D-QKzugYaKW6BIhE--7ovi3Vffc",
+    "etag": "r7htYqOp9sVWYAFIH2Bz74qZ3Dw",
     "id": "vcNh5lkW24Q",
     "snippet": {
       "publishedAt": "2025-05-02T12:12:19Z",
@@ -14808,15 +15081,68 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "411280",
-      "likeCount": "4294",
+      "viewCount": "411360",
+      "likeCount": "4295",
       "favoriteCount": "0",
       "commentCount": "201"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "wx2E-8jwyWtVdwsubF-ro1nuJ3I",
+    "etag": "ffbAwRMvb6SpJMIFXc5CYZarznU",
+    "id": "jq6emm4tnG8",
+    "snippet": {
+      "publishedAt": "2025-04-29T18:54:40Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Xuyên sách thành tiểu công chúa bị hoàng đế nghe thấy tiếng lòng mới biết trên đầu toàn là sừng xanh",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jq6emm4tnG8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jq6emm4tnG8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jq6emm4tnG8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jq6emm4tnG8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jq6emm4tnG8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Xuyên sách thành tiểu công chúa bị hoàng đế nghe thấy tiếng lòng mới biết trên đầu toàn là sừng xanh",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "193450",
+      "likeCount": "2259",
+      "favoriteCount": "0",
+      "commentCount": "294"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "jOI5Vze16s3yQ70KDn6NwIAwrjI",
     "id": "9UxZrdTNgwg",
     "snippet": {
       "publishedAt": "2025-04-29T10:41:53Z",
@@ -14861,7 +15187,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "304357",
+      "viewCount": "304367",
       "likeCount": "3357",
       "favoriteCount": "0",
       "commentCount": "176"
@@ -14869,7 +15195,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "1iJ8F54N-Zuom9ASbalCW4V_NXc",
+    "etag": "uv0bDrAYciULZcGe03ZWJDIzSAI",
     "id": "jwvoazGP_U8",
     "snippet": {
       "publishedAt": "2025-04-28T17:11:34Z",
@@ -14917,7 +15243,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "166768",
+      "viewCount": "166776",
       "likeCount": "1793",
       "favoriteCount": "0",
       "commentCount": "170"
@@ -14925,7 +15251,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0ZzQIGo3cteTPopbp1sZOrYLnCw",
+    "etag": "yROKMegY7vQi81kMeqE0Tx0zeVs",
     "id": "dVmO5Mq-ZwA",
     "snippet": {
       "publishedAt": "2025-04-27T08:52:34Z",
@@ -14970,15 +15296,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "335945",
-      "likeCount": "5092",
+      "viewCount": "335950",
+      "likeCount": "5093",
       "favoriteCount": "0",
       "commentCount": "288"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "nX-AVZg2Z34CycGEQxrauZViA5Q",
+    "etag": "zVSu9vgK-prtKqyGjh0B-rx2qfk",
     "id": "EkOcpB6Jqcs",
     "snippet": {
       "publishedAt": "2025-04-26T01:41:53Z",
@@ -15023,10 +15349,63 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "398847",
+      "viewCount": "398845",
       "likeCount": "4176",
       "favoriteCount": "0",
       "commentCount": "271"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "gXiQk387zGH12SFNHP1IMhAKo9o",
+    "id": "4hZ0NFze6i0",
+    "snippet": {
+      "publishedAt": "2025-04-24T12:35:25Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Trùng sinh muốn ly hôn bị tổng tài nghe lén tiếng lòng sinh con cũng bị nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/4hZ0NFze6i0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/4hZ0NFze6i0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/4hZ0NFze6i0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/4hZ0NFze6i0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/4hZ0NFze6i0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Trùng sinh muốn ly hôn bị tổng tài nghe lén tiếng lòng sinh con cũng bị nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "141148",
+      "likeCount": "1830",
+      "favoriteCount": "0",
+      "commentCount": "119"
     }
   },
   {
@@ -15084,7 +15463,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7X7Jm_HYWYCC7TuXNXelFL_tyQo",
+    "etag": "cQIS7IBxzLDdtnyP9Eh7cKonAGk",
     "id": "IQR3nUfVGK8",
     "snippet": {
       "publishedAt": "2025-04-22T03:07:08Z",
@@ -15129,7 +15508,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "209182",
+      "viewCount": "209183",
       "likeCount": "2292",
       "favoriteCount": "0",
       "commentCount": "117"
@@ -15137,7 +15516,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RwAv-O5Ve-ZR4kXZ3aTabaLhdRQ",
+    "etag": "KgsvsOTekFXsgIdQxtBz6GkdyHM",
     "id": "lo2jKHh4tJI",
     "snippet": {
       "publishedAt": "2025-04-21T18:17:51Z",
@@ -15182,7 +15561,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "161226",
+      "viewCount": "161232",
       "likeCount": "1783",
       "favoriteCount": "0",
       "commentCount": "206"
@@ -15190,7 +15569,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YgprlObGWDrbpPwBi6NJ59Xht3g",
+    "etag": "BdH0fwOJyRfwOQrQydxQHgxI-og",
     "id": "Ix75sUStees",
     "snippet": {
       "publishedAt": "2025-04-20T07:41:02Z",
@@ -15235,7 +15614,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "99956",
+      "viewCount": "99962",
       "likeCount": "1200",
       "favoriteCount": "0",
       "commentCount": "70"
@@ -15296,7 +15675,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "bXhZRFJZMMElTL1rWIFs6sQJSz4",
+    "etag": "N4GNkP6Cqy-qiBfU42L72qImih4",
     "id": "l0cUOVNs5RM",
     "snippet": {
       "publishedAt": "2025-04-13T15:24:30Z",
@@ -15341,7 +15720,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "106888",
+      "viewCount": "106898",
       "likeCount": "1045",
       "favoriteCount": "0",
       "commentCount": "219"
@@ -15402,7 +15781,60 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "vwxCA07BolPvYT6HVeuz67s7Z5w",
+    "etag": "vJOE8PWqKjScBxa0TrOcXFfKvOw",
+    "id": "uAqXk4AhSLM",
+    "snippet": {
+      "publishedAt": "2025-03-31T03:13:57Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Nghe lén tiếng lòng con gái mà thay đổi số phận ngược luyến trong tiểu thuyết",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uAqXk4AhSLM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uAqXk4AhSLM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uAqXk4AhSLM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uAqXk4AhSLM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uAqXk4AhSLM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Nghe lén tiếng lòng con gái mà thay đổi số phận ngược luyến trong tiểu thuyết",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "89694",
+      "likeCount": "1199",
+      "favoriteCount": "0",
+      "commentCount": "123"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "rCG9lQhxj-GGfJfscRp4Mxx85Do",
     "id": "Fvmz0s20AJU",
     "snippet": {
       "publishedAt": "2025-03-28T23:07:45Z",
@@ -15456,7 +15888,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16222",
+      "viewCount": "16224",
       "likeCount": "233",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -15464,7 +15896,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4qjATuIow_0nlkRlLcGIbp3p9v0",
+    "etag": "_6yZKsD55vDGwBR1svduiQgFUfU",
     "id": "jMErTxWokjM",
     "snippet": {
       "publishedAt": "2025-03-28T13:38:26Z",
@@ -15509,7 +15941,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "27626",
+      "viewCount": "27627",
       "likeCount": "482",
       "favoriteCount": "0",
       "commentCount": "29"
@@ -15517,7 +15949,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Dyr41ibW4bu7zyMOKced12PbCFg",
+    "etag": "uUfadwBlNXQ3K4ryPGQnHXN1z3Q",
     "id": "FnZKofREavg",
     "snippet": {
       "publishedAt": "2025-03-19T22:35:43Z",
@@ -15562,7 +15994,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "173988",
+      "viewCount": "173996",
       "likeCount": "2815",
       "favoriteCount": "0",
       "commentCount": "173"
@@ -15570,7 +16002,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5yrbsjXu3nN9iLTqIIvLUxZls-E",
+    "etag": "9L5zjVCap4gmmG0WahVy07hRjNw",
     "id": "l8gswBokqdU",
     "snippet": {
       "publishedAt": "2025-03-18T02:04:39Z",
@@ -15615,7 +16047,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "94787",
+      "viewCount": "94799",
       "likeCount": "1268",
       "favoriteCount": "0",
       "commentCount": "89"
@@ -15623,7 +16055,113 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "aqJmkPLqab0RZJSvO_wtV76p_0c",
+    "etag": "K6M_qXXAiRUhrmqzFmubSBEsUF8",
+    "id": "bz3v-ugGZ9w",
+    "snippet": {
+      "publishedAt": "2025-03-13T03:18:27Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Nàng tiên cá báo ân bị cả nhà nghe thấy tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bz3v-ugGZ9w/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bz3v-ugGZ9w/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bz3v-ugGZ9w/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bz3v-ugGZ9w/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bz3v-ugGZ9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Nàng tiên cá báo ân bị cả nhà nghe thấy tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "108492",
+      "likeCount": "969",
+      "favoriteCount": "0",
+      "commentCount": "62"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "6pig33w0nspkHX08GxijRKrJozQ",
+    "id": "6zDKJee5j20",
+    "snippet": {
+      "publishedAt": "2025-03-08T09:54:27Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "2 mẹ con đạo sĩ bị cả nhà tổng tài nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6zDKJee5j20/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6zDKJee5j20/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6zDKJee5j20/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6zDKJee5j20/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6zDKJee5j20/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "2 mẹ con đạo sĩ bị cả nhà tổng tài nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "201091",
+      "likeCount": "2431",
+      "favoriteCount": "0",
+      "commentCount": "107"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "hAXpM2yafgbvCATp1p8JSjoFrY0",
     "id": "SohO7ZimfiI",
     "snippet": {
       "publishedAt": "2025-03-07T09:25:19Z",
@@ -15668,7 +16206,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "35984",
+      "viewCount": "35985",
       "likeCount": "420",
       "favoriteCount": "0",
       "commentCount": "28"
@@ -15676,7 +16214,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hp-6B6j44ccbzcJ3FG2gd0F8cfU",
+    "etag": "8sPWnu1leOc-gPU1MphrRuNiwps",
     "id": "2wbNxW6hFW4",
     "snippet": {
       "publishedAt": "2025-03-06T03:01:16Z",
@@ -15721,7 +16259,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "55620",
+      "viewCount": "55625",
       "likeCount": "564",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -15729,7 +16267,484 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "D21Tmz1SETkK07g9XAnQ87okOSI",
+    "etag": "oQy16FfO4J2qfImzL-mT5Sz9P-0",
+    "id": "LSWSNhzASCs",
+    "snippet": {
+      "publishedAt": "2025-03-01T01:20:45Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Xuyên không thành hoàng hậu chờ chết bị hoàng đế nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LSWSNhzASCs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LSWSNhzASCs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LSWSNhzASCs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LSWSNhzASCs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LSWSNhzASCs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Xuyên không thành hoàng hậu chờ chết bị hoàng đế nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "85697",
+      "likeCount": "768",
+      "favoriteCount": "0",
+      "commentCount": "33"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "BlEhoQsDpDM9jpKpoVvHiVDJfdI",
+    "id": "lWzPxJzviAQ",
+    "snippet": {
+      "publishedAt": "2025-02-28T16:03:11Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Tiên nữ luyện đan nổ xuyên không bị cả nhà nghe lén tiếng lòng mà cầu xin chạy theo",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lWzPxJzviAQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lWzPxJzviAQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lWzPxJzviAQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lWzPxJzviAQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lWzPxJzviAQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Tiên nữ luyện đan nổ xuyên không bị cả nhà nghe lén tiếng lòng mà cầu xin chạy theo",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "120153",
+      "likeCount": "1810",
+      "favoriteCount": "0",
+      "commentCount": "92"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "uuTjIUrDGLlh6LQqBbzpT9eaRSU",
+    "id": "gF-XD6wGPfs",
+    "snippet": {
+      "publishedAt": "2025-02-22T20:19:03Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Xuyên phim ngược luyến bị nghe lén tiếng lòng tổng tài bỗng yêu phát cuồng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gF-XD6wGPfs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gF-XD6wGPfs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gF-XD6wGPfs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gF-XD6wGPfs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gF-XD6wGPfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Xuyên phim ngược luyến bị nghe lén tiếng lòng tổng tài bỗng yêu phát cuồng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "86492",
+      "likeCount": "1019",
+      "favoriteCount": "0",
+      "commentCount": "64"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "Z-sQdVFftrOMriBsxjLYFkZ3Cig",
+    "id": "ZP8fmv-K2M0",
+    "snippet": {
+      "publishedAt": "2025-02-21T21:00:29Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "[Tổng hợp] Con gái bị cả nhà nghe thấy tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZP8fmv-K2M0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZP8fmv-K2M0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZP8fmv-K2M0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZP8fmv-K2M0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZP8fmv-K2M0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "[Tổng hợp] Con gái bị cả nhà nghe thấy tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "132857",
+      "likeCount": "1350",
+      "favoriteCount": "0",
+      "commentCount": "99"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "ekTxyXXg787BZkornspRY6leSEo",
+    "id": "Yp8rfQo_6DQ",
+    "snippet": {
+      "publishedAt": "2025-02-20T21:00:26Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Xuyên không thành nữ phụ độc ác đòi ly hôn bị tổng tài nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Yp8rfQo_6DQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Yp8rfQo_6DQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Yp8rfQo_6DQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Yp8rfQo_6DQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Yp8rfQo_6DQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Xuyên không thành nữ phụ độc ác đòi ly hôn bị tổng tài nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "116314",
+      "likeCount": "1409",
+      "favoriteCount": "0",
+      "commentCount": "66"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "nsIEFSoAL5SUlmMa8TNpVIzX95o",
+    "id": "xrIDKve9Wq4",
+    "snippet": {
+      "publishedAt": "2025-02-19T21:00:44Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "[Ver 17] Tiên nữ xuyên không bị nghe tiếng lòng giúp mẹ trả thù tra nam",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xrIDKve9Wq4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xrIDKve9Wq4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xrIDKve9Wq4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/xrIDKve9Wq4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/xrIDKve9Wq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "[Ver 17] Tiên nữ xuyên không bị nghe tiếng lòng giúp mẹ trả thù tra nam",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "111684",
+      "likeCount": "798",
+      "favoriteCount": "0",
+      "commentCount": "46"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "HZMrIVyxeuyoBZc8ws0kpfNmwQs",
+    "id": "6VSb2jfXAIQ",
+    "snippet": {
+      "publishedAt": "2025-02-18T21:00:08Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Trùng sinh thành phu nhân xú danh bị tổng tài ác ma nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6VSb2jfXAIQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6VSb2jfXAIQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6VSb2jfXAIQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6VSb2jfXAIQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6VSb2jfXAIQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Trùng sinh thành phu nhân xú danh bị tổng tài ác ma nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "189190",
+      "likeCount": "2468",
+      "favoriteCount": "0",
+      "commentCount": "183"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "I_k5dOIMcthcYGIyaqAAEYzg6hg",
+    "id": "vB9HneUL4Jg",
+    "snippet": {
+      "publishedAt": "2025-02-17T03:26:58Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Nữ đạo sĩ xuyên sách độ tình kiếp bị tổng tài nghe lén tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/vB9HneUL4Jg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/vB9HneUL4Jg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/vB9HneUL4Jg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/vB9HneUL4Jg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/vB9HneUL4Jg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Nữ đạo sĩ xuyên sách độ tình kiếp bị tổng tài nghe lén tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "115287",
+      "likeCount": "1518",
+      "favoriteCount": "0",
+      "commentCount": "80"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "7FC5jYZ7hyurQQvQUeWlt-NBhO4",
+    "id": "S6AaKWp2Oys",
+    "snippet": {
+      "publishedAt": "2025-02-15T02:00:48Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Nữ đạo sĩ xuyên không bị cả nhà chồng nghe thấy tiếng lòng mà rợn người",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/S6AaKWp2Oys/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/S6AaKWp2Oys/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/S6AaKWp2Oys/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/S6AaKWp2Oys/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/S6AaKWp2Oys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Nữ đạo sĩ xuyên không bị cả nhà chồng nghe thấy tiếng lòng mà rợn người",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "243408",
+      "likeCount": "3365",
+      "favoriteCount": "0",
+      "commentCount": "142"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "1-cAP1hW8hbu4HNid3Q36XWKiwY",
     "id": "HnsnHAP3TYY",
     "snippet": {
       "publishedAt": "2025-02-14T02:16:12Z",
@@ -15774,15 +16789,68 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "39808",
-      "likeCount": "486",
+      "viewCount": "39814",
+      "likeCount": "487",
       "favoriteCount": "0",
       "commentCount": "37"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "wU3GpYXSpP5JmGtHcKPVFNrN2-s",
+    "etag": "74UguovIMrsH4P3DzSkDV2gXr68",
+    "id": "sKpuN5ZHApU",
+    "snippet": {
+      "publishedAt": "2025-02-12T09:04:34Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Cùng hệ thống xuyên không bị tổng tài nghe thấy tiếng lòng",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/sKpuN5ZHApU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/sKpuN5ZHApU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/sKpuN5ZHApU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/sKpuN5ZHApU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/sKpuN5ZHApU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Cùng hệ thống xuyên không bị tổng tài nghe thấy tiếng lòng",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "118421",
+      "likeCount": "1852",
+      "favoriteCount": "0",
+      "commentCount": "87"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "AF9D7O6_78zhJnFi9GoTwK_LdXg",
     "id": "38qvZ2cK-xE",
     "snippet": {
       "publishedAt": "2025-02-10T09:10:26Z",
@@ -15827,15 +16895,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "140167",
-      "likeCount": "1997",
+      "viewCount": "140174",
+      "likeCount": "1998",
       "favoriteCount": "0",
       "commentCount": "83"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "rtqM74bHnSGGAe4rEgWzi5igB9c",
+    "etag": "NXN0sQEwb3ZUGW6aTOM7CcI7440",
     "id": "ggXGw58qnM0",
     "snippet": {
       "publishedAt": "2025-02-09T10:45:58Z",
@@ -15880,7 +16948,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "56171",
+      "viewCount": "56178",
       "likeCount": "989",
       "favoriteCount": "0",
       "commentCount": "128"
@@ -15888,7 +16956,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "z-uhZgtzVX_oOz-W5iChSnfE_Qw",
+    "etag": "0m7T388hhrvjif1OJ_Mc7GNNWCs",
     "id": "b_1Ke07sJV0",
     "snippet": {
       "publishedAt": "2025-02-06T09:06:14Z",
@@ -15933,10 +17001,63 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "373649",
+      "viewCount": "373648",
       "likeCount": "3459",
       "favoriteCount": "0",
       "commentCount": "151"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "aIaztcYMbGm7udJJRx-HL9yGGU0",
+    "id": "QvXQDzbG6L4",
+    "snippet": {
+      "publishedAt": "2025-02-02T09:45:18Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "[Ver 15] Tiên nữ xuyên sách bị cả nhà nghe tiếng lòng lật đổ hầu gia",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/QvXQDzbG6L4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/QvXQDzbG6L4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/QvXQDzbG6L4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/QvXQDzbG6L4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/QvXQDzbG6L4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "[Ver 15] Tiên nữ xuyên sách bị cả nhà nghe tiếng lòng lật đổ hầu gia",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "101403",
+      "likeCount": "1009",
+      "favoriteCount": "0",
+      "commentCount": "65"
     }
   },
   {
@@ -15994,7 +17115,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PRSTtxz0slWKtMqA9bZvJOTNBCI",
+    "etag": "zfRQwzd8tFrLnaCfNXdxVnOBltc",
     "id": "t9n9lbX_8Zk",
     "snippet": {
       "publishedAt": "2025-01-28T00:39:02Z",
@@ -16039,8 +17160,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "122378",
-      "likeCount": "1331",
+      "viewCount": "122503",
+      "likeCount": "1333",
       "favoriteCount": "0",
       "commentCount": "86"
     }
@@ -16103,7 +17224,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OGxMMmT26POAd26oWx0zP2RjZ0o",
+    "etag": "d4TGOuiOAybmb-PC7CB6XscXeQ0",
     "id": "yNIEXC1KX_8",
     "snippet": {
       "publishedAt": "2025-01-19T09:57:15Z",
@@ -16148,7 +17269,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7561",
+      "viewCount": "7566",
       "likeCount": "148",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -16156,7 +17277,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ggCP148EJI8b8Ny24N0A9xpzXgM",
+    "etag": "wP1YLx4clmWYU5vCNgWc6-_gFsw",
     "id": "BwZ05CapCnE",
     "snippet": {
       "publishedAt": "2025-01-19T04:53:30Z",
@@ -16204,7 +17325,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "95170",
+      "viewCount": "95172",
       "likeCount": "872",
       "favoriteCount": "0",
       "commentCount": "69"
@@ -16212,7 +17333,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "wbFfeTEkCdhOnXFbWzLMCReZvow",
+    "etag": "kEHLk9rs_o8HiIxsf-MiQM--ngE",
     "id": "Kd2j1vKTbC4",
     "snippet": {
       "publishedAt": "2025-01-17T09:15:25Z",
@@ -16257,7 +17378,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "20477",
+      "viewCount": "20484",
       "likeCount": "348",
       "favoriteCount": "0",
       "commentCount": "45"
@@ -16265,7 +17386,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CyLZeCxvtjro9o8IVUxfegj_yIQ",
+    "etag": "MSjWU2Wq8-ZkMK_NpB8ShyeDDKQ",
     "id": "pvr5A7V6VfI",
     "snippet": {
       "publishedAt": "2025-01-15T09:19:37Z",
@@ -16310,15 +17431,68 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "105302",
-      "likeCount": "1133",
+      "viewCount": "105508",
+      "likeCount": "1136",
       "favoriteCount": "0",
-      "commentCount": "55"
+      "commentCount": "56"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "z4QqwhVh7fNPZ7oi4rTzembKqSg",
+    "etag": "udZ5x9erLaR88ZwXmG8WWwG_yhU",
+    "id": "d54fgjYR3I8",
+    "snippet": {
+      "publishedAt": "2025-01-10T04:18:24Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Xuyên không bị hoàng đế nghe tiếng lòng hắn giúp ta chơi cung đấu",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d54fgjYR3I8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d54fgjYR3I8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d54fgjYR3I8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d54fgjYR3I8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d54fgjYR3I8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "Xuyên không bị hoàng đế nghe tiếng lòng hắn giúp ta chơi cung đấu",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "88173",
+      "likeCount": "776",
+      "favoriteCount": "0",
+      "commentCount": "24"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "MTwOfu1W1mcD3zFvwieaFWqoEqk",
     "id": "Bbe55dNKcao",
     "snippet": {
       "publishedAt": "2025-01-01T03:16:37Z",
@@ -16363,7 +17537,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "255091",
+      "viewCount": "255096",
       "likeCount": "2826",
       "favoriteCount": "0",
       "commentCount": "142"
@@ -16371,7 +17545,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "n_rXzfdCY2r6LiokoNu4pnrBfvU",
+    "etag": "X9BWwoVDvRpMmohhu41hDd0LdUo",
     "id": "rJkC4y3pJBk",
     "snippet": {
       "publishedAt": "2024-12-30T11:14:31Z",
@@ -16416,8 +17590,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "259277",
-      "likeCount": "2736",
+      "viewCount": "259282",
+      "likeCount": "2737",
       "favoriteCount": "0",
       "commentCount": "147"
     }
@@ -16477,7 +17651,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "X0X7s93Ys3sGHkjomnOe95NdpPU",
+    "etag": "DLNz6GFW0sE32r8N5PaCIdL95fA",
     "id": "GrlkIPhen-E",
     "snippet": {
       "publishedAt": "2024-12-28T16:48:45Z",
@@ -16522,7 +17696,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7132",
+      "viewCount": "7134",
       "likeCount": "133",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -16583,7 +17757,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "S5INH2j9I5VxCgsTwihgyRuONHA",
+    "etag": "ukykSS9dqgnk2GxnEOOhBMy3MWw",
     "id": "vMTa8JCP7P4",
     "snippet": {
       "publishedAt": "2024-12-27T10:41:00Z",
@@ -16628,7 +17802,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "150622",
+      "viewCount": "150626",
       "likeCount": "1182",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -16636,7 +17810,113 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dZ7MSuzvpqPjX5vbYslouppDdY4",
+    "etag": "51qf9G2rsEdpr5jzdXUBatbKOEI",
+    "id": "b8IrF1wM-O0",
+    "snippet": {
+      "publishedAt": "2024-12-26T15:55:59Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "[Ver 1] Tiên nữ xuyên không bị nhà chồng nghe thấy tiếng lòng thầm hô trời ạ",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/b8IrF1wM-O0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/b8IrF1wM-O0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/b8IrF1wM-O0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/b8IrF1wM-O0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/b8IrF1wM-O0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "[Ver 1] Tiên nữ xuyên không bị nhà chồng nghe thấy tiếng lòng thầm hô trời ạ",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "119833",
+      "likeCount": "1325",
+      "favoriteCount": "0",
+      "commentCount": "97"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "tU582XanKjW2_ZG6344r6Lq3XkU",
+    "id": "AtXUj6z330E",
+    "snippet": {
+      "publishedAt": "2024-12-22T14:01:50Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "b0905 Ver 14] Tiên nữ xuyên không bị nghe thấy tiếng lòng đấu với cô gái thế kỷ 21",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AtXUj6z330E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AtXUj6z330E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AtXUj6z330E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AtXUj6z330E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AtXUj6z330E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "vi",
+      "localized": {
+        "title": "b0905 Ver 14] Tiên nữ xuyên không bị nghe thấy tiếng lòng đấu với cô gái thế kỷ 21",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "255734",
+      "likeCount": "1950",
+      "favoriteCount": "0",
+      "commentCount": "77"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "z57NBq8fhFTSUvfWd1i46krFkA0",
     "id": "mUned0aYDok",
     "snippet": {
       "publishedAt": "2024-12-15T12:58:27Z",
@@ -16681,7 +17961,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "171865",
+      "viewCount": "171873",
       "likeCount": "2392",
       "favoriteCount": "0",
       "commentCount": "157"
@@ -16689,7 +17969,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3B8N80blr2gAn51geIg05Y5wFB8",
+    "etag": "ZHbOflmF-4hEPXRGkmTOl5tSpwU",
     "id": "al8ZXa97gqU",
     "snippet": {
       "publishedAt": "2024-12-12T13:16:32Z",
@@ -16734,7 +18014,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "200141",
+      "viewCount": "200151",
       "likeCount": "2340",
       "favoriteCount": "0",
       "commentCount": "124"
@@ -16795,7 +18075,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "bvjOBCv6lWJwYtPqbboCD_zuoQM",
+    "etag": "QIkh3CItn94hvP_1tdaApifHDts",
     "id": "n-T_IVYsot0",
     "snippet": {
       "publishedAt": "2024-11-17T04:15:12Z",
@@ -16840,7 +18120,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "142756",
+      "viewCount": "142755",
       "likeCount": "2307",
       "favoriteCount": "0",
       "commentCount": "150"
@@ -16901,7 +18181,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "oHCcEYTyCbArAdyNhzS2um9tbC0",
+    "etag": "_hgoLJ9aXjIenIM-42kHmbf0aAE",
     "id": "06g0qOCB_h8",
     "snippet": {
       "publishedAt": "2024-09-29T01:03:42Z",
@@ -16962,7 +18242,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "69128",
+      "viewCount": "69123",
       "likeCount": "1289",
       "favoriteCount": "0",
       "commentCount": "65"
