@@ -1,7 +1,59 @@
 [
   {
     "kind": "youtube#video",
-    "etag": "FhUzpGjJIRM5ET76A_wbMwFcZ2s",
+    "etag": "bf5QpgAgaPSS9T86WxLudLt0Yp8",
+    "id": "-zZnQNR8vJA",
+    "snippet": {
+      "publishedAt": "2025-10-05T04:09:59Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Tiếng lòng: tổng tài và nữ y tá cùng bị điện giật vô tình có thể nghe thấy tiếng lòng lẫn nhau",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-zZnQNR8vJA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-zZnQNR8vJA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-zZnQNR8vJA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-zZnQNR8vJA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-zZnQNR8vJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Tiếng lòng: tổng tài và nữ y tá cùng bị điện giật vô tình có thể nghe thấy tiếng lòng lẫn nhau",
+        "description": ""
+      },
+      "defaultAudioLanguage": "vi"
+    },
+    "statistics": {
+      "viewCount": "32",
+      "likeCount": "2",
+      "favoriteCount": "0",
+      "commentCount": "0"
+    }
+  },
+  {
+    "kind": "youtube#video",
+    "etag": "pdXqUurq4pOWFlXS5Hj1iAa2604",
     "id": "FrPXtY6RRZY",
     "snippet": {
       "publishedAt": "2025-10-05T03:02:11Z",
@@ -46,15 +98,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12",
-      "likeCount": "5",
+      "viewCount": "747",
+      "likeCount": "47",
       "favoriteCount": "0",
-      "commentCount": "2"
+      "commentCount": "3"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "5aOkRJLZqNuJzeHb29eqwkKnBIU",
+    "etag": "uOK0NmsqCV3NS0xYNQ-JNaqI0Q4",
     "id": "9XciPpHdXXU",
     "snippet": {
       "publishedAt": "2025-10-05T01:05:23Z",
@@ -99,15 +151,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1619",
-      "likeCount": "127",
+      "viewCount": "2632",
+      "likeCount": "180",
       "favoriteCount": "0",
-      "commentCount": "9"
+      "commentCount": "14"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "QjhnYpzCcK7-RpVKQuACE_Pr3Ww",
+    "etag": "75ppy3eFKPH8VStubLLsFAkwIRM",
     "id": "rQzXMM_LOog",
     "snippet": {
       "publishedAt": "2025-10-04T11:34:15Z",
@@ -152,15 +204,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7542",
-      "likeCount": "223",
+      "viewCount": "8272",
+      "likeCount": "238",
       "favoriteCount": "0",
-      "commentCount": "11"
+      "commentCount": "12"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "XszQCizx70uGlkJgCwF6Nr3DWHI",
+    "etag": "OaFg-CrzX7PwSM1o5M7UIRJkVV0",
     "id": "nVO5BPyvhsg",
     "snippet": {
       "publishedAt": "2025-10-04T09:59:54Z",
@@ -205,15 +257,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3599",
-      "likeCount": "135",
+      "viewCount": "3753",
+      "likeCount": "138",
       "favoriteCount": "0",
       "commentCount": "7"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "2fgyFS7oOq54xDUVaGR7mdWVdF8",
+    "etag": "UAsyN1y9ROSbmpsfjizW1hPiuVU",
     "id": "-sq0j8PNC1Y",
     "snippet": {
       "publishedAt": "2025-10-04T08:57:17Z",
@@ -258,8 +310,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1843",
-      "likeCount": "59",
+      "viewCount": "1888",
+      "likeCount": "61",
       "favoriteCount": "0",
       "commentCount": "2"
     }
@@ -319,7 +371,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ajtQSfs6ZFa6ywnh8HJG6R1IA1k",
+    "etag": "0qQdClPKM7hiS8pVkndY2J9XeR0",
     "id": "y74uevEjvcM",
     "snippet": {
       "publishedAt": "2025-10-04T03:47:43Z",
@@ -364,7 +416,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7093",
+      "viewCount": "7277",
       "likeCount": "258",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -372,7 +424,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "C1NskIzdCr3CNlXKqfB-HjJgWBQ",
+    "etag": "mOhR5hLFv4ZUWCwGYeZARS8QVL0",
     "id": "MzuWuTwURY0",
     "snippet": {
       "publishedAt": "2025-10-04T02:37:07Z",
@@ -417,15 +469,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7114",
-      "likeCount": "225",
+      "viewCount": "7246",
+      "likeCount": "226",
       "favoriteCount": "0",
       "commentCount": "10"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "klLobSjJGqFulT-EMylFx4QR_70",
+    "etag": "bXIfNpEm0sxFveLdLGn-WkowcGY",
     "id": "g2xkwjkpuS8",
     "snippet": {
       "publishedAt": "2025-10-04T00:30:02Z",
@@ -470,15 +522,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5343",
-      "likeCount": "160",
+      "viewCount": "5529",
+      "likeCount": "161",
       "favoriteCount": "0",
       "commentCount": "17"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "_hTIJ6whXfZXXIpoSr9TsnJhZ4s",
+    "etag": "jwE9WwGMbU_0tq2cTG-VLf1Y3k8",
     "id": "OnOcOSskLH4",
     "snippet": {
       "publishedAt": "2025-10-03T20:20:06Z",
@@ -523,8 +575,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5592",
-      "likeCount": "134",
+      "viewCount": "5768",
+      "likeCount": "136",
       "favoriteCount": "0",
       "commentCount": "6"
     }
@@ -637,7 +689,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4XPb5SQfoCj69oaWYD4ecYzCQKg",
+    "etag": "3sEApYlYFLddZQI2j7Wi0vjki6k",
     "id": "N5b8HQ8Drec",
     "snippet": {
       "publishedAt": "2025-10-03T07:43:50Z",
@@ -682,7 +734,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2370",
+      "viewCount": "2402",
       "likeCount": "59",
       "favoriteCount": "0",
       "commentCount": "1"
@@ -690,7 +742,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "yN5agE3HZGJR4SYpcpvEaXUji4s",
+    "etag": "0PVNFYYGK3cXXEzC7wC1w_zUqF0",
     "id": "hr3-76vR0tw",
     "snippet": {
       "publishedAt": "2025-10-03T04:26:46Z",
@@ -735,7 +787,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6760",
+      "viewCount": "6804",
       "likeCount": "203",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -743,7 +795,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "krGudTtNrqAFlA6tzUnwowvyy3Y",
+    "etag": "yWg-YL_E0GESvgA-0YTurNc5szA",
     "id": "aayC5JN_QDE",
     "snippet": {
       "publishedAt": "2025-10-03T03:24:23Z",
@@ -788,7 +840,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3512",
+      "viewCount": "3545",
       "likeCount": "141",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -902,7 +954,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4nMkx-Ttnm5IetDLb_K-W0O2LVU",
+    "etag": "_dnStIrOX7SHH_qQgoALQK32aD0",
     "id": "kXM1MZqE03c",
     "snippet": {
       "publishedAt": "2025-10-02T11:54:24Z",
@@ -947,15 +999,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7499",
-      "likeCount": "220",
+      "viewCount": "7529",
+      "likeCount": "222",
       "favoriteCount": "0",
       "commentCount": "25"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "8kNl53q93XfvPFf8yH-e6N2jE-Q",
+    "etag": "iaXo7ABPH9qm-sKXCjI6ZyWbg9Y",
     "id": "8FAKM_XV1Ts",
     "snippet": {
       "publishedAt": "2025-10-02T11:09:47Z",
@@ -1000,15 +1052,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3729",
-      "likeCount": "115",
+      "viewCount": "3768",
+      "likeCount": "116",
       "favoriteCount": "0",
       "commentCount": "5"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "7a6oBD4BY83vIRoQi7nd1lyxiLU",
+    "etag": "3mhRICLPXDvQumlp-lrPWPR_OpY",
     "id": "Mms33GMM78k",
     "snippet": {
       "publishedAt": "2025-10-02T10:04:16Z",
@@ -1053,7 +1105,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3428",
+      "viewCount": "3470",
       "likeCount": "79",
       "favoriteCount": "0",
       "commentCount": "9"
@@ -1061,7 +1113,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CWQK6Dh_CpDjf_atMg7dAfN7wOI",
+    "etag": "GnLBHlEK1ZFbXH73V5XrN5LCmOM",
     "id": "hjkU2gAbMfU",
     "snippet": {
       "publishedAt": "2025-10-02T08:57:51Z",
@@ -1106,10 +1158,10 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3641",
+      "viewCount": "3653",
       "likeCount": "135",
       "favoriteCount": "0",
-      "commentCount": "16"
+      "commentCount": "18"
     }
   },
   {
@@ -1220,7 +1272,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zWf1ZQcMS_30iWZtllPdL8iTodo",
+    "etag": "e8HpwMiRN8STTuz5F7tzh-LduhE",
     "id": "iOTiLce228g",
     "snippet": {
       "publishedAt": "2025-10-02T03:36:45Z",
@@ -1265,15 +1317,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11977",
-      "likeCount": "368",
+      "viewCount": "12044",
+      "likeCount": "379",
       "favoriteCount": "0",
-      "commentCount": "30"
+      "commentCount": "31"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "niXv_rLCdfiiWbjRu7j6osJrBJw",
+    "etag": "y9TMlVn--CroZH3NmUxUVo07UOc",
     "id": "8YvjFkAPmz8",
     "snippet": {
       "publishedAt": "2025-10-02T01:59:01Z",
@@ -1318,15 +1370,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9435",
-      "likeCount": "340",
+      "viewCount": "9584",
+      "likeCount": "362",
       "favoriteCount": "0",
-      "commentCount": "22"
+      "commentCount": "23"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "yxxetFAvZos26KxUEwRzxm2BSaI",
+    "etag": "GU6ItOhkV9YwZETcGvelDcW8Ovk",
     "id": "19olyqE6r6g",
     "snippet": {
       "publishedAt": "2025-10-01T13:03:42Z",
@@ -1371,15 +1423,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9648",
-      "likeCount": "236",
+      "viewCount": "9885",
+      "likeCount": "242",
       "favoriteCount": "0",
-      "commentCount": "28"
+      "commentCount": "30"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "qrMNPQGXdadYoEJQCO_K57s13-g",
+    "etag": "zz3SzJaF4DjlSm_tU0DENl6Dx_Y",
     "id": "JDDvDCbHMYA",
     "snippet": {
       "publishedAt": "2025-10-01T12:26:27Z",
@@ -1424,15 +1476,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8098",
-      "likeCount": "168",
+      "viewCount": "8328",
+      "likeCount": "173",
       "favoriteCount": "0",
       "commentCount": "9"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "1YXa587t_Dgev-2t3G-Pi4SYFa0",
+    "etag": "MUxkii_C6LNMZ6T9djT4dZjG8fQ",
     "id": "Jr7Tij4ec_A",
     "snippet": {
       "publishedAt": "2025-10-01T11:16:20Z",
@@ -1477,15 +1529,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7051",
-      "likeCount": "279",
+      "viewCount": "7093",
+      "likeCount": "280",
       "favoriteCount": "0",
       "commentCount": "25"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "tX4cXvnjYG6BRQ9j-yz-HCsuEqo",
+    "etag": "_dzQiEWoKcXI0R1sNxbTtebb4Zc",
     "id": "gMNNA387OJY",
     "snippet": {
       "publishedAt": "2025-10-01T10:13:33Z",
@@ -1530,7 +1582,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2474",
+      "viewCount": "2487",
       "likeCount": "75",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -1538,7 +1590,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "AgqQcqsC8eh5mAwBnlTw-xtJua8",
+    "etag": "yOsJkKJaLzhgQV6GMcZr6odQZk4",
     "id": "UuUoGZmyBSc",
     "snippet": {
       "publishedAt": "2025-10-01T09:21:05Z",
@@ -1583,8 +1635,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8269",
-      "likeCount": "229",
+      "viewCount": "8590",
+      "likeCount": "236",
       "favoriteCount": "0",
       "commentCount": "10"
     }
@@ -1644,7 +1696,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Flggip3hjKnOOhYW0tLB9C6kXaU",
+    "etag": "1m9J0BU1ZWhepIj2kfKcqy1mivo",
     "id": "IIfs2iTuxWA",
     "snippet": {
       "publishedAt": "2025-10-01T04:04:55Z",
@@ -1689,7 +1741,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1852",
+      "viewCount": "1859",
       "likeCount": "74",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -1697,7 +1749,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RM5tVC8P65OmmJ4e1UxOT2dhi20",
+    "etag": "e1YpBeCs2q3rzPiSbaLCilr4W_o",
     "id": "H0OhUgcp5Jw",
     "snippet": {
       "publishedAt": "2025-10-01T03:10:24Z",
@@ -1742,15 +1794,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12697",
-      "likeCount": "250",
+      "viewCount": "12959",
+      "likeCount": "255",
       "favoriteCount": "0",
       "commentCount": "14"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "PtgD-wnTODSlqqttoEpHZiDlz_E",
+    "etag": "Qh_SzY6tsCmOVCMMtNN9a_Ztoeg",
     "id": "bLONP6kImhI",
     "snippet": {
       "publishedAt": "2025-10-01T02:02:26Z",
@@ -1795,7 +1847,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2329",
+      "viewCount": "2339",
       "likeCount": "85",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -1962,7 +2014,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8qtdYAYc886Xgksr0UecfMYXBlA",
+    "etag": "V4Uir6PTb0whQn05Ek834OOoaXM",
     "id": "hSfPzLReocw",
     "snippet": {
       "publishedAt": "2025-09-30T10:06:10Z",
@@ -2007,7 +2059,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2737",
+      "viewCount": "2743",
       "likeCount": "53",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -2015,7 +2067,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tYQ6R-ZAVvkPT8uHBgs2xr_h2Xw",
+    "etag": "natmToskj-jIY2HoGfPbGWacATs",
     "id": "4kaIYisVH4E",
     "snippet": {
       "publishedAt": "2025-09-30T04:08:33Z",
@@ -2060,7 +2112,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11908",
+      "viewCount": "12300",
       "likeCount": "178",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -2068,7 +2120,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RNpa8mdrqCPjbZ8vyhUZ0SaVVyE",
+    "etag": "xlaMJFcMmXCH9McmiPxPQUvmQQQ",
     "id": "Mr62F6m-Nr4",
     "snippet": {
       "publishedAt": "2025-09-30T02:22:58Z",
@@ -2113,7 +2165,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2767",
+      "viewCount": "2776",
       "likeCount": "77",
       "favoriteCount": "0",
       "commentCount": "4"
@@ -2174,7 +2226,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3Iv-oFqbopPtVzRdcASXAtgy3kw",
+    "etag": "q8J3HAERCNQDiRiANXJtQUkdblg",
     "id": "ahhAXJHtwU4",
     "snippet": {
       "publishedAt": "2025-09-29T17:41:37Z",
@@ -2219,7 +2271,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7874",
+      "viewCount": "7946",
       "likeCount": "240",
       "favoriteCount": "0",
       "commentCount": "48"
@@ -2333,7 +2385,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "McBSeuyO4s_yY_mdeDeQkxdg8Xg",
+    "etag": "g2DVo9xUUPDHIbjvxs6YOmDkGhA",
     "id": "G0Fa08gI_Aw",
     "snippet": {
       "publishedAt": "2025-09-29T09:56:16Z",
@@ -2378,15 +2430,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "55655",
-      "likeCount": "1438",
+      "viewCount": "57831",
+      "likeCount": "1480",
       "favoriteCount": "0",
-      "commentCount": "84"
+      "commentCount": "88"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "yhdhhnuBggCMFfhHKd5hy6-96m4",
+    "etag": "hO5krvv7CSK21M7GVEBwPUn_Fe0",
     "id": "hhsqWBnqwF4",
     "snippet": {
       "publishedAt": "2025-09-29T08:22:40Z",
@@ -2431,8 +2483,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9128",
-      "likeCount": "185",
+      "viewCount": "9379",
+      "likeCount": "186",
       "favoriteCount": "0",
       "commentCount": "7"
     }
@@ -2492,7 +2544,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CJIkd57kEN4kKU_d7MEUvr9lnUY",
+    "etag": "X4V4-CAiCw7rUUgzt95lDjpJIik",
     "id": "jHvcNmm5VMQ",
     "snippet": {
       "publishedAt": "2025-09-29T02:27:50Z",
@@ -2537,7 +2589,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5286",
+      "viewCount": "5316",
       "likeCount": "128",
       "favoriteCount": "0",
       "commentCount": "2"
@@ -2598,7 +2650,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MvOROOt_KIH0srhUsIIw_rQt8Ag",
+    "etag": "0-wxxZPRJ-TZlkHTAuu2PojTzfA",
     "id": "2td--fopUFs",
     "snippet": {
       "publishedAt": "2025-09-28T17:37:03Z",
@@ -2643,7 +2695,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2765",
+      "viewCount": "2775",
       "likeCount": "68",
       "favoriteCount": "0",
       "commentCount": "1"
@@ -2651,7 +2703,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "H_hZWwXjg9S1s3RpCsJMsHM3aKk",
+    "etag": "bzPFE4kylzBoSLA65q_4ixfgkUQ",
     "id": "M1NFEqsVK50",
     "snippet": {
       "publishedAt": "2025-09-28T12:29:55Z",
@@ -2696,15 +2748,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9880",
+      "viewCount": "9913",
       "likeCount": "239",
       "favoriteCount": "0",
-      "commentCount": "21"
+      "commentCount": "22"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "hCiFss6XV8ZluT9V_RkCniCoXGg",
+    "etag": "l4GazZh1-cXcKH9CyeKSTZRF3ww",
     "id": "xlefwRFErXU",
     "snippet": {
       "publishedAt": "2025-09-28T11:25:06Z",
@@ -2749,15 +2801,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16532",
-      "likeCount": "229",
+      "viewCount": "17433",
+      "likeCount": "232",
       "favoriteCount": "0",
       "commentCount": "7"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "5BlzRWXayAS2EKjPslOEwYmHPug",
+    "etag": "f1hvJi2bzE2zHxJclq9VyY-fPmc",
     "id": "pGnZYOrYAk4",
     "snippet": {
       "publishedAt": "2025-09-28T10:06:00Z",
@@ -2802,15 +2854,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4328",
-      "likeCount": "147",
+      "viewCount": "4339",
+      "likeCount": "148",
       "favoriteCount": "0",
       "commentCount": "22"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "RkFMf9CQci8s9E2WkX6r9ZRq-M0",
+    "etag": "3NXk89Iqm3qMPZdcVRPguSjKgj0",
     "id": "Jg27Fehrp_g",
     "snippet": {
       "publishedAt": "2025-09-28T03:36:04Z",
@@ -2855,15 +2907,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "19790",
-      "likeCount": "533",
+      "viewCount": "19798",
+      "likeCount": "532",
       "favoriteCount": "0",
       "commentCount": "30"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "GpPKypfVnPO3wxGyL2mxLb-yxvQ",
+    "etag": "_eujhKGI0-oB0Fr00AtlruxYgZs",
     "id": "-561jQB6ZKw",
     "snippet": {
       "publishedAt": "2025-09-28T02:25:14Z",
@@ -2908,15 +2960,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23090",
-      "likeCount": "531",
+      "viewCount": "23860",
+      "likeCount": "538",
       "favoriteCount": "0",
       "commentCount": "38"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Yh4F3ZXMTbSIS5T2kPZzfy6PQ2w",
+    "etag": "f37_j2gRQwBFsArvLzuqa3dEcKY",
     "id": "-aZfcj5dOok",
     "snippet": {
       "publishedAt": "2025-09-27T18:44:03Z",
@@ -2961,15 +3013,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13578",
-      "likeCount": "233",
+      "viewCount": "13799",
+      "likeCount": "234",
       "favoriteCount": "0",
       "commentCount": "17"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "34Pf3lFeweI5sbLDmAZqvpFwRRI",
+    "etag": "CuozwCObgYAsAwuvVigQmM8JsnQ",
     "id": "hbeVWC0yUuA",
     "snippet": {
       "publishedAt": "2025-09-27T11:55:20Z",
@@ -3014,7 +3066,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1728",
+      "viewCount": "1736",
       "likeCount": "50",
       "favoriteCount": "0",
       "commentCount": "0"
@@ -3128,7 +3180,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "YBFRt6rmWNt4h7Cw3IfGDNZ2ByY",
+    "etag": "g_5w8OnKyJA6eNnf1xbnL91QUQY",
     "id": "ro9q3pS9Gh4",
     "snippet": {
       "publishedAt": "2025-09-27T06:55:54Z",
@@ -3173,15 +3225,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23827",
-      "likeCount": "582",
+      "viewCount": "24467",
+      "likeCount": "588",
       "favoriteCount": "0",
       "commentCount": "41"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Ud_FIhiTc0sU59ahgUjkbAF4JwE",
+    "etag": "0P1BddkZws-j2bBC2E2h9w9a8yU",
     "id": "MVi7_DaSKwQ",
     "snippet": {
       "publishedAt": "2025-09-27T04:00:29Z",
@@ -3226,8 +3278,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16470",
-      "likeCount": "327",
+      "viewCount": "17120",
+      "likeCount": "332",
       "favoriteCount": "0",
       "commentCount": "15"
     }
@@ -3340,7 +3392,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZL5au3Prvle8XbEGo59QunrO-Sk",
+    "etag": "CmHEuMUcT-Q1yJA8XLOJcsZOTm8",
     "id": "YUSbFC6U2t8",
     "snippet": {
       "publishedAt": "2025-09-26T09:32:11Z",
@@ -3385,7 +3437,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2314",
+      "viewCount": "2318",
       "likeCount": "59",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -3393,7 +3445,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "CATh-53IuoZyJdVgyk2g1lDAU2k",
+    "etag": "VBXgtoo5Xn_IyRVp7MKD5C38baE",
     "id": "G7Qe1SM9n-o",
     "snippet": {
       "publishedAt": "2025-09-26T06:12:26Z",
@@ -3438,7 +3490,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24583",
+      "viewCount": "25027",
       "likeCount": "456",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -3499,7 +3551,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OOcqjbseIZZ8SBvT8KIWnfbXFDk",
+    "etag": "AWSXA9D9_k0v_g8UXFZp3wbl3mQ",
     "id": "K3as-RAbS5Y",
     "snippet": {
       "publishedAt": "2025-09-26T02:27:28Z",
@@ -3544,7 +3596,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5620",
+      "viewCount": "5624",
       "likeCount": "178",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -3552,7 +3604,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "XhhTUiaWTOFgiItzAoquuioHzk8",
+    "etag": "KjGwXHvBOwbHc2U3hLwwf_rOBaU",
     "id": "wW-KJCoV27U",
     "snippet": {
       "publishedAt": "2025-09-25T15:28:56Z",
@@ -3597,15 +3649,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7578",
-      "likeCount": "205",
+      "viewCount": "7585",
+      "likeCount": "204",
       "favoriteCount": "0",
       "commentCount": "19"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "SX_W-CqkrQrtfYaVTLl0e2G5sGk",
+    "etag": "cwhtWwOS44wUHcHa33_8YqboaMI",
     "id": "m7_ZONahkEk",
     "snippet": {
       "publishedAt": "2025-09-25T14:26:13Z",
@@ -3650,15 +3702,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11162",
-      "likeCount": "310",
+      "viewCount": "11191",
+      "likeCount": "311",
       "favoriteCount": "0",
       "commentCount": "21"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "HyNAIt0Zvj_VnGBM5PE4u_Vfkgs",
+    "etag": "uSKraglqm9ww5fHQ1LsMhaRSYRM",
     "id": "L1C5phzZQPA",
     "snippet": {
       "publishedAt": "2025-09-25T11:40:18Z",
@@ -3703,7 +3755,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8298",
+      "viewCount": "8306",
       "likeCount": "224",
       "favoriteCount": "0",
       "commentCount": "9"
@@ -3711,7 +3763,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0JfV7LbLySgATuwZFQXuxZ_Z8gg",
+    "etag": "Bxup8opDeKtKOBtYbSuZINSf1hI",
     "id": "iu7nrRoPJYo",
     "snippet": {
       "publishedAt": "2025-09-25T10:07:30Z",
@@ -3756,15 +3808,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24137",
-      "likeCount": "626",
+      "viewCount": "25011",
+      "likeCount": "647",
       "favoriteCount": "0",
-      "commentCount": "47"
+      "commentCount": "50"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "8GeTrDrp9Iidju03V1NKvSJE-YI",
+    "etag": "yRbHrlCkY4OID2rx5TLntd_m7ac",
     "id": "bgR8obxcy_g",
     "snippet": {
       "publishedAt": "2025-09-25T08:12:19Z",
@@ -3809,7 +3861,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2221",
+      "viewCount": "2232",
       "likeCount": "53",
       "favoriteCount": "0",
       "commentCount": "4"
@@ -3817,7 +3869,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "P7cKf1rOpksAxkhehokSjVWzTm8",
+    "etag": "RmEdwAVZ70tPioQdMbryGGeTCng",
     "id": "ZpTN2iTHIZQ",
     "snippet": {
       "publishedAt": "2025-09-25T04:38:11Z",
@@ -3862,15 +3914,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "20729",
-      "likeCount": "525",
+      "viewCount": "20792",
+      "likeCount": "527",
       "favoriteCount": "0",
       "commentCount": "48"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "Xubhpu90m75c25eVJd5YhxjVNas",
+    "etag": "wfFNewJhZXZ2Df9jwVIJ3oB3p9A",
     "id": "Di1-GFrfwag",
     "snippet": {
       "publishedAt": "2025-09-25T03:24:21Z",
@@ -3915,15 +3967,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10766",
-      "likeCount": "320",
+      "viewCount": "10816",
+      "likeCount": "323",
       "favoriteCount": "0",
       "commentCount": "31"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "A7PHEnlSTKej4p7xtH2iUoCqfkw",
+    "etag": "6mj-EeJnb1XPKRS0K5L-9y-_7ck",
     "id": "K9394ZsZVvw",
     "snippet": {
       "publishedAt": "2025-09-25T01:45:57Z",
@@ -3968,15 +4020,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4668",
-      "likeCount": "149",
+      "viewCount": "4675",
+      "likeCount": "150",
       "favoriteCount": "0",
       "commentCount": "16"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "HC1AjMr63Khbh1S4N3QQaDojUNU",
+    "etag": "wNgQTIy9QqvExpl0tkiyiPOaj3A",
     "id": "yRgFfmm6yjM",
     "snippet": {
       "publishedAt": "2025-09-24T18:48:46Z",
@@ -4021,7 +4073,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11319",
+      "viewCount": "11315",
       "likeCount": "249",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -4082,7 +4134,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5aMCqrG93JTSZKqyTjaHXTDjVzo",
+    "etag": "jIH95yWAZgNf81d-KbXOBlRZDHc",
     "id": "d6owSAcO668",
     "snippet": {
       "publishedAt": "2025-09-24T11:07:54Z",
@@ -4127,7 +4179,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3643",
+      "viewCount": "3656",
       "likeCount": "107",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -4135,7 +4187,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "P30cW03be19HOtstLWeXth5LcqQ",
+    "etag": "oT-JaW2A1aMYGEHrHW63xaXDrpA",
     "id": "1GtjFoSASOs",
     "snippet": {
       "publishedAt": "2025-09-24T00:56:22Z",
@@ -4180,7 +4232,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5954",
+      "viewCount": "5963",
       "likeCount": "203",
       "favoriteCount": "0",
       "commentCount": "30"
@@ -4188,7 +4240,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rz55pqFdqffAZ04wzZdeQ-hAJJQ",
+    "etag": "wvS8xmQTNU72jl4G2KqjbkNUn9E",
     "id": "wG8AGhmAD0g",
     "snippet": {
       "publishedAt": "2025-09-23T14:43:09Z",
@@ -4233,15 +4285,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13882",
-      "likeCount": "302",
+      "viewCount": "14252",
+      "likeCount": "305",
       "favoriteCount": "0",
       "commentCount": "30"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "hJFa02z_6G5ljQfz75UatrsXH7g",
+    "etag": "lhLV2TWRTZw3jGfQXGdiQHPZ3c0",
     "id": "RyhjESTiIAE",
     "snippet": {
       "publishedAt": "2025-09-23T11:55:07Z",
@@ -4286,8 +4338,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "36180",
-      "likeCount": "1043",
+      "viewCount": "36429",
+      "likeCount": "1047",
       "favoriteCount": "0",
       "commentCount": "86"
     }
@@ -4347,7 +4399,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fh239K1WOXaCPeJmx2gU8AfIw1g",
+    "etag": "N7_6DiD_dr9I5eOek6rq6K3jfLg",
     "id": "IUNrKHPNhmM",
     "snippet": {
       "publishedAt": "2025-09-23T09:21:57Z",
@@ -4392,7 +4444,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5424",
+      "viewCount": "5433",
       "likeCount": "146",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -4463,7 +4515,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WgMh2ZbVtUN9eXAZzPrgo-g6FBI",
+    "etag": "VI2dievJFr2BTNdD6up7nzVNTmg",
     "id": "hMcTF9-FYOE",
     "snippet": {
       "publishedAt": "2025-09-23T03:00:57Z",
@@ -4508,7 +4560,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4477",
+      "viewCount": "4479",
       "likeCount": "109",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -4622,7 +4674,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Cm1OFXYsh94SQ4As6EmSXpMKYDw",
+    "etag": "4kzFw2V5osNkXcJLDcKtqb6rSVs",
     "id": "NSWLDfbYS5M",
     "snippet": {
       "publishedAt": "2025-09-22T21:00:34Z",
@@ -4667,7 +4719,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7017",
+      "viewCount": "7020",
       "likeCount": "193",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -4728,7 +4780,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "07TqcttOEMVLTtpGYdhL0VriXt8",
+    "etag": "JKrMLkN1FfI1pQ9T8wvPWrTzfrM",
     "id": "OW1MUE3TUFQ",
     "snippet": {
       "publishedAt": "2025-09-22T10:08:48Z",
@@ -4773,7 +4825,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4594",
+      "viewCount": "4598",
       "likeCount": "145",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -4781,7 +4833,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "liEyuhGXDXBe7kiyXCGMOzDUh-0",
+    "etag": "KXlIPThhSbJ-YTKyeaGPgdiBPwI",
     "id": "1s3SKNca9K0",
     "snippet": {
       "publishedAt": "2025-09-22T03:58:03Z",
@@ -4826,7 +4878,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13795",
+      "viewCount": "13796",
       "likeCount": "362",
       "favoriteCount": "0",
       "commentCount": "38"
@@ -4887,7 +4939,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "57TqQxlZDP7SFwrG8Y9F9XZk_8w",
+    "etag": "UMQ1Q6_VKM6u0u9Rb6GPl4NZGVc",
     "id": "fUKKBRA6rJs",
     "snippet": {
       "publishedAt": "2025-09-21T13:22:24Z",
@@ -4932,7 +4984,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5759",
+      "viewCount": "5764",
       "likeCount": "200",
       "favoriteCount": "0",
       "commentCount": "14"
@@ -5311,7 +5363,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ms3vybOVlUdYUUHWJNn-LND_eZQ",
+    "etag": "np3tpsOxgpdeBPSNXytShC2aDJ0",
     "id": "3b56sdrgHzA",
     "snippet": {
       "publishedAt": "2025-09-20T11:30:11Z",
@@ -5356,7 +5408,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3245",
+      "viewCount": "3248",
       "likeCount": "101",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -5364,7 +5416,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QBRwhuOB6SdgkGryH0FvBTjYYm8",
+    "etag": "ubDTZPIzRAlNTSej5qbdGtBNb8E",
     "id": "FXh4HDVS66k",
     "snippet": {
       "publishedAt": "2025-09-20T09:13:09Z",
@@ -5409,7 +5461,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9048",
+      "viewCount": "9068",
       "likeCount": "308",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -5417,7 +5469,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "OlzSL0EknEe8PiRcF1EQ1E39fAc",
+    "etag": "YauSXI_smoD4clZltprva0YPLdI",
     "id": "ZVjF0ls70Ew",
     "snippet": {
       "publishedAt": "2025-09-20T06:18:33Z",
@@ -5462,7 +5514,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5692",
+      "viewCount": "5694",
       "likeCount": "206",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -5470,7 +5522,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "oixOYRE28yS7i2TAAcVJO9A0tAs",
+    "etag": "wsofU5JgHKiBPdZaaJLMetMBRp8",
     "id": "p8tVJ7qXMTk",
     "snippet": {
       "publishedAt": "2025-09-20T03:56:16Z",
@@ -5515,7 +5567,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7602",
+      "viewCount": "7647",
       "likeCount": "205",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -5523,7 +5575,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "e_ftM7D5asGbfFY6_u_2pIyrmnM",
+    "etag": "-orTcIGGyuUbuYrdSCuj7d9KnZQ",
     "id": "NY0Gbk3z1A0",
     "snippet": {
       "publishedAt": "2025-09-20T02:56:07Z",
@@ -5568,15 +5620,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5283",
-      "likeCount": "120",
+      "viewCount": "5293",
+      "likeCount": "121",
       "favoriteCount": "0",
       "commentCount": "5"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "f8L4Vn-m4LORbC82tLcT1Msdeic",
+    "etag": "k20ZawjIyWKh0uzI7ZZ4kwdjFCo",
     "id": "7apdS3iuvsI",
     "snippet": {
       "publishedAt": "2025-09-20T01:33:01Z",
@@ -5621,7 +5673,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2526",
+      "viewCount": "2527",
       "likeCount": "87",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -5629,7 +5681,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MJ9qrfC7rB2uQQmwoaYKMZlFt9g",
+    "etag": "tU7oROtbo9MnbzHnA3qHjarUt7A",
     "id": "6bH2rOFNb6U",
     "snippet": {
       "publishedAt": "2025-09-19T19:07:41Z",
@@ -5674,7 +5726,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10293",
+      "viewCount": "10295",
       "likeCount": "248",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -5682,7 +5734,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-11v7W25LvQ9HypU3hFhMMODoI4",
+    "etag": "VO2Dhwl6kIaHmLNpd3XlFUokBO8",
     "id": "GapDx0rIKQ0",
     "snippet": {
       "publishedAt": "2025-09-19T12:31:44Z",
@@ -5727,7 +5779,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3239",
+      "viewCount": "3241",
       "likeCount": "83",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -5735,7 +5787,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "b0Q29LxbhZSpityA_K4mYEipjKs",
+    "etag": "B3oIN0mU-cxIwxHKF7Z8ti9Iwv4",
     "id": "iGr6Z-Ubhpc",
     "snippet": {
       "publishedAt": "2025-09-19T11:05:58Z",
@@ -5780,8 +5832,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8470",
-      "likeCount": "287",
+      "viewCount": "8486",
+      "likeCount": "288",
       "favoriteCount": "0",
       "commentCount": "15"
     }
@@ -5841,7 +5893,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "H2oNYZjiezSJJcke94JeCYP_Gl0",
+    "etag": "sX8JnX5q5Phn0CHCHwxrga2aS1s",
     "id": "xl4dKmCZnjY",
     "snippet": {
       "publishedAt": "2025-09-19T09:04:56Z",
@@ -5886,7 +5938,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10632",
+      "viewCount": "10644",
       "likeCount": "243",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -5894,7 +5946,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "DELCg2zt_x1jhVW7OKlVslAHf1o",
+    "etag": "hFtekcNBzknEDiywK6-VhuHG5TA",
     "id": "z4b-FVyLjRk",
     "snippet": {
       "publishedAt": "2025-09-19T06:33:30Z",
@@ -5939,7 +5991,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10558",
+      "viewCount": "10559",
       "likeCount": "259",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -6000,7 +6052,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7_saR8pITxffS7pLUlpv0GkPvJU",
+    "etag": "ztN4_XpJJl84UQnDtrXU1LyZAkw",
     "id": "u51RqiVFEsE",
     "snippet": {
       "publishedAt": "2025-09-19T00:35:47Z",
@@ -6045,7 +6097,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16889",
+      "viewCount": "16906",
       "likeCount": "261",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -6159,7 +6211,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mM_Y4BFTUG7C1vT3RhsklJwg6yM",
+    "etag": "pjN82ZpuVSW1YvRm8dqx2i87qGI",
     "id": "7DMCw-TSGY8",
     "snippet": {
       "publishedAt": "2025-09-18T10:15:54Z",
@@ -6204,7 +6256,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2149",
+      "viewCount": "2151",
       "likeCount": "64",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -6212,7 +6264,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "uTKN4gmEMM4FrMKS7-dU1Gc3868",
+    "etag": "DRoEGI-OgUTO-TcLVmJmPggnpvE",
     "id": "28LwpxSB-NQ",
     "snippet": {
       "publishedAt": "2025-09-18T09:09:05Z",
@@ -6257,8 +6309,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11300",
-      "likeCount": "251",
+      "viewCount": "11306",
+      "likeCount": "252",
       "favoriteCount": "0",
       "commentCount": "15"
     }
@@ -6318,7 +6370,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Ek2oEO8J9jDWZ7FUWpoU96KHzqQ",
+    "etag": "Eg42hAY7zq-AJJkdKSXQj51XrwA",
     "id": "MELneQCXW_E",
     "snippet": {
       "publishedAt": "2025-09-18T02:10:35Z",
@@ -6363,7 +6415,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1994",
+      "viewCount": "1995",
       "likeCount": "52",
       "favoriteCount": "0",
       "commentCount": "1"
@@ -6424,7 +6476,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_718UhkJKVODJriWcr0HSyieYVI",
+    "etag": "hlT0GEzh3RyOC5TlOruceu4SCZU",
     "id": "Ju6ZnEREclM",
     "snippet": {
       "publishedAt": "2025-09-17T12:06:51Z",
@@ -6469,7 +6521,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10284",
+      "viewCount": "10285",
       "likeCount": "303",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -6477,7 +6529,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fF7M-Am_JnqAWgpPIVtwpvDae4Y",
+    "etag": "UqDgWyxYR62-Xf8r3woGj8H2dBQ",
     "id": "ZTmm9ipfGa4",
     "snippet": {
       "publishedAt": "2025-09-17T09:10:22Z",
@@ -6522,7 +6574,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2869",
+      "viewCount": "2870",
       "likeCount": "98",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -6530,7 +6582,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dX0plK8qtAIe1qPpj6U-ZZllpJw",
+    "etag": "ckunyqye6rVX5uuDEeQWTFRYrc8",
     "id": "wyuN26IuQMA",
     "snippet": {
       "publishedAt": "2025-09-17T06:27:04Z",
@@ -6575,7 +6627,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11131",
+      "viewCount": "11135",
       "likeCount": "231",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -6636,7 +6688,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ejLPCTiP-gJvdtE5ktyHJcfBfRU",
+    "etag": "An833N49kO5qgdGPd3GoV1j0p24",
     "id": "BDj5oQ0vU2c",
     "snippet": {
       "publishedAt": "2025-09-16T13:08:44Z",
@@ -6681,7 +6733,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4096",
+      "viewCount": "4103",
       "likeCount": "120",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -6742,7 +6794,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "48lRQSW8NMgylMeA8VLIZ06IWf4",
+    "etag": "65mlATdEEpbuROJPO5XAqPiRTH0",
     "id": "JCaptnDk21g",
     "snippet": {
       "publishedAt": "2025-09-16T06:09:07Z",
@@ -6787,7 +6839,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4395",
+      "viewCount": "4397",
       "likeCount": "126",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -6795,7 +6847,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VEcIBoxmoq0kfbKRtCTH8AhTu2s",
+    "etag": "vCqMN7GXLm0e_0y84Rz0L40dmiA",
     "id": "uz8yANEszlk",
     "snippet": {
       "publishedAt": "2025-09-16T03:27:17Z",
@@ -6840,7 +6892,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10242",
+      "viewCount": "10241",
       "likeCount": "281",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -6848,7 +6900,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "lv58NolnpOcOBiuvhL0FbnxdUs0",
+    "etag": "usZ9gD5tEynj8eE64w7SeAJjVqw",
     "id": "VO_rtkTvO9w",
     "snippet": {
       "publishedAt": "2025-09-15T22:00:39Z",
@@ -6893,7 +6945,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9846",
+      "viewCount": "9853",
       "likeCount": "269",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -6901,7 +6953,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rcOwVIBRN5_BatqX7bAQ50hF9uI",
+    "etag": "W4sX8Oifd3svW23v8Z46oiLVoj4",
     "id": "cjj9lT1LjP4",
     "snippet": {
       "publishedAt": "2025-09-15T12:03:22Z",
@@ -6946,7 +6998,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4257",
+      "viewCount": "4259",
       "likeCount": "126",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -7007,7 +7059,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "BqOZ61ua0DujS_QIOA9DmmdPhO8",
+    "etag": "o1eJ0lPNbwpeKzjUwDaYEmJJTq4",
     "id": "UAo_frjHbf4",
     "snippet": {
       "publishedAt": "2025-09-15T09:55:07Z",
@@ -7052,7 +7104,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3284",
+      "viewCount": "3287",
       "likeCount": "108",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -7060,7 +7112,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Iok5rZY1zWARtS3_ZTkjYF18WHU",
+    "etag": "qAHZ-BT1-xmAZaX1tD8eoULQblE",
     "id": "Wvs1dLS8T6I",
     "snippet": {
       "publishedAt": "2025-09-15T04:35:42Z",
@@ -7105,7 +7157,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15929",
+      "viewCount": "15964",
       "likeCount": "431",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -7113,7 +7165,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GAgNq1alvi51g6ISvfDKfXSVtMU",
+    "etag": "YrxpKGPN1gmdIJRJZ6VbH0hI5Jo",
     "id": "XLdndNJ86MU",
     "snippet": {
       "publishedAt": "2025-09-15T03:34:19Z",
@@ -7158,15 +7210,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7130",
-      "likeCount": "223",
+      "viewCount": "7133",
+      "likeCount": "224",
       "favoriteCount": "0",
       "commentCount": "12"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "iyWHKyHXy117jDUu1b59OsllvY0",
+    "etag": "rshPbF41ggksBa4hYgWHd3safIQ",
     "id": "u8aMjCr7VOI",
     "snippet": {
       "publishedAt": "2025-09-15T02:07:47Z",
@@ -7211,7 +7263,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3530",
+      "viewCount": "3529",
       "likeCount": "121",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -7219,7 +7271,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JdTLNQmA_K3uUpBF5s18sIUg8jI",
+    "etag": "zBKNa5hk9VTspWI302SSM3Dr5vM",
     "id": "a1jBq1ju6nY",
     "snippet": {
       "publishedAt": "2025-09-14T23:15:15Z",
@@ -7264,15 +7316,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10572",
-      "likeCount": "326",
+      "viewCount": "10600",
+      "likeCount": "328",
       "favoriteCount": "0",
       "commentCount": "19"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "xbwZyFEXZ6sz5Xmio6Fl35jW_FA",
+    "etag": "-oPYyQNiYK_OE3rOgzDTJlUymmA",
     "id": "tn8mMynltKE",
     "snippet": {
       "publishedAt": "2025-09-14T12:28:07Z",
@@ -7317,15 +7369,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "43124",
-      "likeCount": "988",
+      "viewCount": "43628",
+      "likeCount": "994",
       "favoriteCount": "0",
       "commentCount": "55"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "7ZXqNkm9OqXf-lbhD0drk-f12Vg",
+    "etag": "IAjaBTrWOIOZ5mCWwEvpgjSYR0U",
     "id": "cElwi-THmw0",
     "snippet": {
       "publishedAt": "2025-09-14T06:27:02Z",
@@ -7370,7 +7422,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4093",
+      "viewCount": "4098",
       "likeCount": "101",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -7378,7 +7430,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WCgZ72FFz0Bxuc_hhHvmZQKjSbQ",
+    "etag": "YDnoh2sTA8-Q2I-OilEerKifodU",
     "id": "BvP_rCtKH7s",
     "snippet": {
       "publishedAt": "2025-09-14T01:10:50Z",
@@ -7413,7 +7465,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6370",
+      "viewCount": "6373",
       "likeCount": "170",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -7464,7 +7516,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WZHVyOEyZ6yuRfLayDb07ol_hoo",
+    "etag": "FkBkXAwacCq6nb6QRPv16wnVRKY",
     "id": "s8U7T4lB13o",
     "snippet": {
       "publishedAt": "2025-09-13T07:42:57Z",
@@ -7509,7 +7561,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3326",
+      "viewCount": "3329",
       "likeCount": "52",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -7517,7 +7569,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KzXdYailhIE7CmWbAOebDRkvqV4",
+    "etag": "wNjYEm3KVnxr7w0tipfx426vRL8",
     "id": "_c9K29vSidM",
     "snippet": {
       "publishedAt": "2025-09-13T05:00:40Z",
@@ -7562,7 +7614,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5115",
+      "viewCount": "5116",
       "likeCount": "170",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -7676,7 +7728,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KeZ5FZfGZgBeOkW35b2pTH-mBNU",
+    "etag": "Di08EA3TancuQyAS9HbOTvwQmL8",
     "id": "Gg57PcB25t8",
     "snippet": {
       "publishedAt": "2025-09-13T00:37:02Z",
@@ -7721,7 +7773,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11859",
+      "viewCount": "11871",
       "likeCount": "318",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -7835,7 +7887,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7Mu0kXl9YtHNh_ejI5O-XnU6Iio",
+    "etag": "QA4uQYOgN4lGs050NUjs_JS7qZ8",
     "id": "vvwh63Nrrww",
     "snippet": {
       "publishedAt": "2025-09-12T07:42:35Z",
@@ -7880,7 +7932,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3726",
+      "viewCount": "3725",
       "likeCount": "63",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -7941,7 +7993,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fcBXRH0p32iCeIZ6t1OsgYXTJp4",
+    "etag": "ngVHHLrkkM6jY6nyAELCUsgjSNE",
     "id": "AP3-SasiWJQ",
     "snippet": {
       "publishedAt": "2025-09-11T19:44:45Z",
@@ -7986,7 +8038,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3617",
+      "viewCount": "3619",
       "likeCount": "90",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -7994,7 +8046,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IYOOP6zn-gRjJc4D4bsXZb8-fjQ",
+    "etag": "yETh1SOJaHMbd5LPrI86-ncO3Tc",
     "id": "JjzNPoYPQO8",
     "snippet": {
       "publishedAt": "2025-09-11T13:04:39Z",
@@ -8039,7 +8091,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11878",
+      "viewCount": "11917",
       "likeCount": "307",
       "favoriteCount": "0",
       "commentCount": "29"
@@ -8047,7 +8099,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JgONvF2BAbFqdZ09prAKPE03lHo",
+    "etag": "PtoNWosizXzFvKyQfl-vJw5XF6E",
     "id": "tlIz2kVw7ug",
     "snippet": {
       "publishedAt": "2025-09-11T08:29:49Z",
@@ -8092,7 +8144,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16809",
+      "viewCount": "16816",
       "likeCount": "368",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -8100,7 +8152,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_qsjiZ3SebLbbe8H81aELVpyW2M",
+    "etag": "dkptlzf28p9-KoSwvVWvN479hVI",
     "id": "dlaJqfq5ZLs",
     "snippet": {
       "publishedAt": "2025-09-11T05:10:21Z",
@@ -8145,7 +8197,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4327",
+      "viewCount": "4326",
       "likeCount": "96",
       "favoriteCount": "0",
       "commentCount": "4"
@@ -8153,7 +8205,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9bbAFxp2Yq7W5P0hj_i1tEFGBPU",
+    "etag": "hMgoWgk1cZvwDQ5xTt05Q8Bs5Qo",
     "id": "p504aQc3ioQ",
     "snippet": {
       "publishedAt": "2025-09-10T14:44:51Z",
@@ -8198,7 +8250,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9867",
+      "viewCount": "9878",
       "likeCount": "276",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -8206,7 +8258,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "lIB0PTXWJNB6piWrH2KfkKWoktU",
+    "etag": "7PCLH6U96xOlSfRLs_7f3qqk_QA",
     "id": "IuRID53hsx8",
     "snippet": {
       "publishedAt": "2025-09-10T12:13:57Z",
@@ -8251,7 +8303,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2606",
+      "viewCount": "2607",
       "likeCount": "57",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -8259,7 +8311,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ODKhT1uGYRiXKKUTQuzkn1u4kME",
+    "etag": "bXpwiVSBgaH9AL-TYCLHU3IDXlk",
     "id": "mmmTjEyRAJ0",
     "snippet": {
       "publishedAt": "2025-09-10T10:02:12Z",
@@ -8304,7 +8356,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1926",
+      "viewCount": "1924",
       "likeCount": "47",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -8312,7 +8364,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zj1lykr9ZcCbNvUxMcW53qWNuCg",
+    "etag": "0QpwrDMjcd6pHhL8NJ9b1I9fJwQ",
     "id": "GCleeffZRbo",
     "snippet": {
       "publishedAt": "2025-09-10T09:01:00Z",
@@ -8357,7 +8409,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10625",
+      "viewCount": "10656",
       "likeCount": "295",
       "favoriteCount": "0",
       "commentCount": "30"
@@ -8365,7 +8417,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "lkDg8G2POvdMTKLuwbgZl_e-MQE",
+    "etag": "pOCDptZqFIxGHGpP_STsPMvIT0Y",
     "id": "uyu212IsEw4",
     "snippet": {
       "publishedAt": "2025-09-10T03:59:23Z",
@@ -8410,7 +8462,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "17094",
+      "viewCount": "17131",
       "likeCount": "408",
       "favoriteCount": "0",
       "commentCount": "21"
@@ -8418,7 +8470,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8JmcVLHzBSHL6C99b-1ei1AscfM",
+    "etag": "Vht4QM-t7RBXQxd3uC-s4a6WJaA",
     "id": "7P0NuqRMBq4",
     "snippet": {
       "publishedAt": "2025-09-10T02:42:41Z",
@@ -8463,7 +8515,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12626",
+      "viewCount": "12634",
       "likeCount": "332",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -8471,7 +8523,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "O6cTBaWgHFLet1ukmeg9iMC3QVY",
+    "etag": "uGdCXZhArMnGfFQJc9dv5m72rxU",
     "id": "Ny_ngJlUvBs",
     "snippet": {
       "publishedAt": "2025-09-09T13:21:38Z",
@@ -8516,7 +8568,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3964",
+      "viewCount": "3966",
       "likeCount": "104",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -8524,7 +8576,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "iS_xxlh9FtKbKX-F1_ndMoo-RoE",
+    "etag": "vBxSqwyv3or9oCNJ2roqyRAvFlQ",
     "id": "TrBYOf-IRzE",
     "snippet": {
       "publishedAt": "2025-09-09T08:12:49Z",
@@ -8569,7 +8621,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1429",
+      "viewCount": "1430",
       "likeCount": "38",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -8577,7 +8629,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "c6CfnVbJCmO09QWpkKe2FuzXB54",
+    "etag": "IQ6YzXr77d7piu1a3SCu8lX5H3c",
     "id": "_KXUhP4JVKk",
     "snippet": {
       "publishedAt": "2025-09-09T03:54:28Z",
@@ -8622,8 +8674,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24275",
-      "likeCount": "678",
+      "viewCount": "24293",
+      "likeCount": "680",
       "favoriteCount": "0",
       "commentCount": "37"
     }
@@ -8736,7 +8788,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4zlwf2GYL-LPJr7f_8xrsQ4YrFQ",
+    "etag": "_TnwHVydz3oAqHJ2WHWcdcidEvw",
     "id": "Zp61xT70Yhg",
     "snippet": {
       "publishedAt": "2025-09-08T02:42:55Z",
@@ -8781,7 +8833,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9030",
+      "viewCount": "9059",
       "likeCount": "225",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -8842,7 +8894,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qOz2urWxMTwx7muEBhq0KWpb-ME",
+    "etag": "-UEwp6VkVReYBAaagpJ_b-SjmHA",
     "id": "APJ72Iyhr4c",
     "snippet": {
       "publishedAt": "2025-09-07T11:04:14Z",
@@ -8887,7 +8939,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "17282",
+      "viewCount": "17298",
       "likeCount": "353",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -8895,7 +8947,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "v3_RX4V-TlVXttc1nFJJF-Int1o",
+    "etag": "TjgmUl620yPbJVWR496WGkWGKyA",
     "id": "jh03xYsJc-0",
     "snippet": {
       "publishedAt": "2025-09-07T08:40:29Z",
@@ -8940,7 +8992,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15028",
+      "viewCount": "15026",
       "likeCount": "365",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -8948,7 +9000,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "t4fH3BrTY2Tfy_pZ4KYllVO2LCA",
+    "etag": "Fed4ste5p--5sBxunzFKRqy6_UY",
     "id": "gjC1Fs7wNXM",
     "snippet": {
       "publishedAt": "2025-09-07T05:34:48Z",
@@ -8993,7 +9045,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7723",
+      "viewCount": "7729",
       "likeCount": "148",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -9001,7 +9053,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "wD1PbQpslhHL7VjCkpV0bA-PMqo",
+    "etag": "vSwtMv2SzdfsbeL3nIz4Xkj3Izg",
     "id": "lP1x_Y8WZc0",
     "snippet": {
       "publishedAt": "2025-09-07T03:51:56Z",
@@ -9046,7 +9098,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2593",
+      "viewCount": "2595",
       "likeCount": "66",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -9054,7 +9106,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2UoleKc24PRh4S0FkcMSecuL6wg",
+    "etag": "cR7YVVZgKYL2iuS0_2HHBg7LH-E",
     "id": "oFbT5pIOSsE",
     "snippet": {
       "publishedAt": "2025-09-07T01:55:44Z",
@@ -9099,7 +9151,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5888",
+      "viewCount": "5887",
       "likeCount": "216",
       "favoriteCount": "0",
       "commentCount": "28"
@@ -9160,7 +9212,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KLhl_xztFzW-2hFkdf9HOO1ooLA",
+    "etag": "mHeWEMso_zvgsjFqljY0JzAa6vQ",
     "id": "iQEYV94iY3U",
     "snippet": {
       "publishedAt": "2025-09-06T13:04:24Z",
@@ -9205,7 +9257,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10353",
+      "viewCount": "10358",
       "likeCount": "324",
       "favoriteCount": "0",
       "commentCount": "21"
@@ -9213,7 +9265,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "DaQHjIdpfaI10pU4Onc-WatkZ5Y",
+    "etag": "kApAccPfKA_yBzPtrpLfzKKIa1k",
     "id": "_8AhKx5maHA",
     "snippet": {
       "publishedAt": "2025-09-06T11:59:53Z",
@@ -9258,7 +9310,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "47155",
+      "viewCount": "47211",
       "likeCount": "1307",
       "favoriteCount": "0",
       "commentCount": "84"
@@ -9266,7 +9318,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ybSG-jyul6Kne_6uUdTNeZLqRxM",
+    "etag": "OKtTGERcOtpMhaTP8nceSoRCS5U",
     "id": "2k9-BkbtVss",
     "snippet": {
       "publishedAt": "2025-09-06T10:25:06Z",
@@ -9311,7 +9363,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13540",
+      "viewCount": "13548",
       "likeCount": "346",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -9319,7 +9371,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5sl3osoKQu6GH4UNWUfEoeisdm4",
+    "etag": "fEqRaJN5ivMdkjDs30hfNFskCa0",
     "id": "B4CvtkK1J-0",
     "snippet": {
       "publishedAt": "2025-09-06T00:52:32Z",
@@ -9364,7 +9416,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3184",
+      "viewCount": "3189",
       "likeCount": "88",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -9478,7 +9530,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Ox3JjF3qZw89OXm3q1NqePFT3Rk",
+    "etag": "MK9qwZsdBMeCLx9MGILhg8cVYKg",
     "id": "deLhhFqiz2Y",
     "snippet": {
       "publishedAt": "2025-09-05T10:36:54Z",
@@ -9523,7 +9575,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4926",
+      "viewCount": "4924",
       "likeCount": "102",
       "favoriteCount": "0",
       "commentCount": "9"
@@ -9584,7 +9636,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VrBH2V7OPEis8m9Ogrjh0DWLEtU",
+    "etag": "dTakZbak1QxSP30Py1l6u-cAt3s",
     "id": "jD8tWAfpYHs",
     "snippet": {
       "publishedAt": "2025-09-05T07:56:57Z",
@@ -9629,7 +9681,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8835",
+      "viewCount": "8847",
       "likeCount": "210",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -9637,7 +9689,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_rK9_Bxyd8htZZcyODLWNrN5iU4",
+    "etag": "6bEqmoX5EEi7S-8zMHxugmVDL-c",
     "id": "R1YdYRzMKP8",
     "snippet": {
       "publishedAt": "2025-09-05T04:32:45Z",
@@ -9682,7 +9734,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "43671",
+      "viewCount": "43693",
       "likeCount": "559",
       "favoriteCount": "0",
       "commentCount": "65"
@@ -9743,7 +9795,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Rt7djzKPFPRLvnbKu3BRyPafSNE",
+    "etag": "aij8vYZmZmaEfM7BWpmDthziyX8",
     "id": "XEGubGxh3Lk",
     "snippet": {
       "publishedAt": "2025-09-04T13:51:40Z",
@@ -9788,7 +9840,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2421",
+      "viewCount": "2419",
       "likeCount": "40",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -9796,7 +9848,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "C6Xx5XcLqdlj-DPJwJ34tXFKqq4",
+    "etag": "Uo3DyCsnHtb8ohCjQ1t0AsUhpVA",
     "id": "2BOT3D-ptyE",
     "snippet": {
       "publishedAt": "2025-09-04T11:24:23Z",
@@ -9841,7 +9893,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12305",
+      "viewCount": "12308",
       "likeCount": "284",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -10008,7 +10060,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ngYShNKeuNSxbz3AnAmYRjXO25w",
+    "etag": "KrM64FzBDPJgSnqA2CMi-MBfHNE",
     "id": "urbrqJxFsJo",
     "snippet": {
       "publishedAt": "2025-09-04T09:03:10Z",
@@ -10053,7 +10105,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8962",
+      "viewCount": "8964",
       "likeCount": "198",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -10061,7 +10113,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "tlqdqARUtuDIEUkbLdYV-63aVxg",
+    "etag": "F3l4WyatMXrjUxlQrOxXtFjcF60",
     "id": "F3QthQxT5e0",
     "snippet": {
       "publishedAt": "2025-09-03T08:14:39Z",
@@ -10106,7 +10158,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9179",
+      "viewCount": "9187",
       "likeCount": "245",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -10167,7 +10219,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jgbkNMeLlgHfqBfI-yzs7sCu8z8",
+    "etag": "iPoxr6wUWb-x6bqqQ05od66Sr-4",
     "id": "Gu6QEZ_fMwA",
     "snippet": {
       "publishedAt": "2025-09-02T02:35:13Z",
@@ -10212,7 +10264,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "2354",
+      "viewCount": "2355",
       "likeCount": "55",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -10220,7 +10272,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "FVpQq-4sQvg5bCIkNc7DaGxkj5A",
+    "etag": "g3KNBkcWbLKFSba1ZqXSF1XxRb8",
     "id": "iwhWf1kn4MQ",
     "snippet": {
       "publishedAt": "2025-09-01T11:36:24Z",
@@ -10265,7 +10317,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16205",
+      "viewCount": "16206",
       "likeCount": "368",
       "favoriteCount": "0",
       "commentCount": "14"
@@ -10379,7 +10431,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "oHYWNlYJvlc72XMFZHJdJqIS8w0",
+    "etag": "RXgQtpt8s35RrbU5vcdZwbrN-vY",
     "id": "O9FnyuBHyNI",
     "snippet": {
       "publishedAt": "2025-09-01T00:06:24Z",
@@ -10424,7 +10476,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4444",
+      "viewCount": "4446",
       "likeCount": "155",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -10432,7 +10484,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "U6NlYmw9o0F4uRMx92ySEn215Ow",
+    "etag": "VkZFCmwJBtsk5_B2pY_gun0Sf9s",
     "id": "clk_E9X9Vm0",
     "snippet": {
       "publishedAt": "2025-08-31T13:31:47Z",
@@ -10477,7 +10529,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8413",
+      "viewCount": "8412",
       "likeCount": "245",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -10538,7 +10590,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "AHCUtd2c9Glbv1Sq5RRFvYADXg4",
+    "etag": "6NRZrjN8O7INm0ccS4EtZG6ZdFg",
     "id": "WsOX4z1INXw",
     "snippet": {
       "publishedAt": "2025-08-31T00:25:29Z",
@@ -10583,7 +10635,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9252",
+      "viewCount": "9256",
       "likeCount": "253",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -10591,7 +10643,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "0VDExgJjlEi7aOR9hmVZr1YMDxc",
+    "etag": "57EYf48Cp0kmC8lbKE55pBXer2c",
     "id": "sHF_Z8vclUg",
     "snippet": {
       "publishedAt": "2025-08-30T21:01:01Z",
@@ -10636,7 +10688,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8809",
+      "viewCount": "8812",
       "likeCount": "311",
       "favoriteCount": "0",
       "commentCount": "43"
@@ -10644,7 +10696,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "LpB_n9hRebSxanQN-XfuT7FURCU",
+    "etag": "L4SUg0Vu5UiI930qlJxK6sUZs_w",
     "id": "t6i_Wyk9YQQ",
     "snippet": {
       "publishedAt": "2025-08-30T12:03:11Z",
@@ -10689,7 +10741,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12946",
+      "viewCount": "12951",
       "likeCount": "304",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -10697,7 +10749,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fKHmD9-y6q9jihlkeuyqGTN0NAU",
+    "etag": "bvsZEZeNilf6fLrL7Rwpze72jjM",
     "id": "pz-59eCsj8c",
     "snippet": {
       "publishedAt": "2025-08-30T10:58:33Z",
@@ -10742,7 +10794,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8307",
+      "viewCount": "8312",
       "likeCount": "218",
       "favoriteCount": "0",
       "commentCount": "14"
@@ -10750,7 +10802,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dOZP3YGgJvQGl61UHKh9rL_QBs4",
+    "etag": "0m6Ge9LNLlLrFXT-NMCuP-_fgkQ",
     "id": "YauW0hDQARo",
     "snippet": {
       "publishedAt": "2025-08-30T03:30:51Z",
@@ -10795,7 +10847,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "22395",
+      "viewCount": "22397",
       "likeCount": "605",
       "favoriteCount": "0",
       "commentCount": "34"
@@ -10856,7 +10908,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "vzHAv45fnyIEY9ChMjeRrjiMRj0",
+    "etag": "6tEiUFOhxmJb2aGaF5v1jVJ5eY0",
     "id": "UErMTD_r95s",
     "snippet": {
       "publishedAt": "2025-08-29T18:21:30Z",
@@ -10901,8 +10953,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "91949",
-      "likeCount": "2037",
+      "viewCount": "94076",
+      "likeCount": "2078",
       "favoriteCount": "0",
       "commentCount": "130"
     }
@@ -10962,7 +11014,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZqgJHJRhCWfAqw5mUHtIZqgOAEc",
+    "etag": "Oq7C59NR9_kES3S2hHzYuiyxY9s",
     "id": "gEaMVLP4TDc",
     "snippet": {
       "publishedAt": "2025-08-29T10:40:23Z",
@@ -11007,7 +11059,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12176",
+      "viewCount": "12177",
       "likeCount": "392",
       "favoriteCount": "0",
       "commentCount": "40"
@@ -11015,7 +11067,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NUIKMG3mSCmOmBo1Ebgy8ovgvX4",
+    "etag": "zzGGIqS01gl8l25Sbi-EagQvIxI",
     "id": "lWBH5jyFhjk",
     "snippet": {
       "publishedAt": "2025-08-29T04:04:35Z",
@@ -11060,7 +11112,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6481",
+      "viewCount": "6483",
       "likeCount": "166",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -11121,7 +11173,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "VuBI_Tq62OLMxUWeo1EKwWK_Vyg",
+    "etag": "q2JFmLBTne1X0mQ0TWBpy_J81CE",
     "id": "-2KZN3j8y_g",
     "snippet": {
       "publishedAt": "2025-08-28T23:53:19Z",
@@ -11166,7 +11218,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9257",
+      "viewCount": "9259",
       "likeCount": "235",
       "favoriteCount": "0",
       "commentCount": "34"
@@ -11174,7 +11226,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Wqdp0CrMBDrIK3Kb_xs95Kk3UXE",
+    "etag": "0jQ3pDU1gQjRlUJ2ULaBF_CsWLw",
     "id": "oqEejCZPn-4",
     "snippet": {
       "publishedAt": "2025-08-28T13:07:13Z",
@@ -11219,7 +11271,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10415",
+      "viewCount": "10416",
       "likeCount": "232",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -11227,7 +11279,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "yaiUw9I2tkUTgT2zBL6q_GYVMtg",
+    "etag": "2bNIchHSLkQL1oH698b8zCRdccs",
     "id": "R-kw3K9fbpo",
     "snippet": {
       "publishedAt": "2025-08-28T10:00:35Z",
@@ -11272,7 +11324,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8517",
+      "viewCount": "8516",
       "likeCount": "256",
       "favoriteCount": "0",
       "commentCount": "23"
@@ -11280,7 +11332,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "dv2N4Na3uHuVg56ezWmjr-m0IF0",
+    "etag": "wbOHgQGMFsSALBnjqJC7Y-Zm7Fs",
     "id": "YV5ZLC5zZtQ",
     "snippet": {
       "publishedAt": "2025-08-28T06:18:27Z",
@@ -11325,7 +11377,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5341",
+      "viewCount": "5353",
       "likeCount": "118",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -11386,7 +11438,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Jn20a3A6WlHuvf934uTixiNyvcg",
+    "etag": "oA3-WkRg7Yafbo2XYx3kImbCKZU",
     "id": "tU9KwN4isYE",
     "snippet": {
       "publishedAt": "2025-08-28T02:36:26Z",
@@ -11431,7 +11483,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "11423",
+      "viewCount": "11438",
       "likeCount": "242",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -11439,7 +11491,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5iCJL0kptrO-ICjpbc68WW-vq1A",
+    "etag": "62eH9izQJkir5Ev6jboXu4q03iw",
     "id": "kSfSoWcKXl8",
     "snippet": {
       "publishedAt": "2025-08-27T12:17:16Z",
@@ -11484,7 +11536,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9568",
+      "viewCount": "9584",
       "likeCount": "167",
       "favoriteCount": "0",
       "commentCount": "13"
@@ -11492,7 +11544,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "URYSRvUZDwUk9DOi2zrYAZvc07Y",
+    "etag": "YECxAAJQgECxTGPj1E3S8LsmtKs",
     "id": "JnLzCBbKLgc",
     "snippet": {
       "publishedAt": "2025-08-27T11:05:01Z",
@@ -11537,7 +11589,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10237",
+      "viewCount": "10240",
       "likeCount": "233",
       "favoriteCount": "0",
       "commentCount": "36"
@@ -11545,7 +11597,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-HY3dycKFhdjRXMV_K2xc2lRTCM",
+    "etag": "baDHdTAWc0i1OlfXrm8phZcO0Kc",
     "id": "6whXf71YjDY",
     "snippet": {
       "publishedAt": "2025-08-27T10:07:36Z",
@@ -11590,7 +11642,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6745",
+      "viewCount": "6762",
       "likeCount": "173",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -11598,7 +11650,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "of8Dt5Y6ewtyw4UOCLg7NYNhap4",
+    "etag": "PYYXOvN53PAo55thLEi_O8WZt9U",
     "id": "XyPrDxlDbZM",
     "snippet": {
       "publishedAt": "2025-08-27T07:44:04Z",
@@ -11643,8 +11695,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10162",
-      "likeCount": "326",
+      "viewCount": "10149",
+      "likeCount": "325",
       "favoriteCount": "0",
       "commentCount": "10"
     }
@@ -11704,7 +11756,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "RCGjOoyGV0IzyleZl8FjnbHlaAw",
+    "etag": "sBVKoIi6K25PaYlNoGxXUpkC9lI",
     "id": "bQPsTNqB4aE",
     "snippet": {
       "publishedAt": "2025-08-27T05:03:35Z",
@@ -11749,7 +11801,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7680",
+      "viewCount": "7681",
       "likeCount": "199",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -11863,7 +11915,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zOQ-2Apc5nNzbZjuajsdKxdApcc",
+    "etag": "Lbxg2-bJtShg_Tv0QNWJCFTYjfM",
     "id": "V0A4cglfIEQ",
     "snippet": {
       "publishedAt": "2025-08-27T01:06:42Z",
@@ -11908,7 +11960,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8441",
+      "viewCount": "8464",
       "likeCount": "194",
       "favoriteCount": "0",
       "commentCount": "21"
@@ -11916,7 +11968,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "S23yrm5d849PckEHjh8HbIEXwd4",
+    "etag": "e61guU08H8uf_GIkDo4A8dX3RjQ",
     "id": "C9bv6mY6crI",
     "snippet": {
       "publishedAt": "2025-08-26T13:42:06Z",
@@ -11961,7 +12013,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5161",
+      "viewCount": "5162",
       "likeCount": "112",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -12022,7 +12074,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "WxvqbhKqCYQmk-NxZuqv28bi35k",
+    "etag": "8A6LEIfp23IDlSpl8HurgiF_OCU",
     "id": "X8pYYP4eysM",
     "snippet": {
       "publishedAt": "2025-08-26T11:13:06Z",
@@ -12067,7 +12119,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5737",
+      "viewCount": "5739",
       "likeCount": "191",
       "favoriteCount": "0",
       "commentCount": "9"
@@ -12075,7 +12127,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "b-PHXq6dSYCn0xQY8oCL1yDkJOQ",
+    "etag": "7QY2UCoo59li7y55Hq1rANoX_nA",
     "id": "Gl7s3P4kRj0",
     "snippet": {
       "publishedAt": "2025-08-26T10:22:24Z",
@@ -12120,7 +12172,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4569",
+      "viewCount": "4623",
       "likeCount": "109",
       "favoriteCount": "0",
       "commentCount": "5"
@@ -12234,7 +12286,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_mWsy4e3rrNKIUOuqOkDhqG8GaU",
+    "etag": "4HCtomH0EaKp2QgEYFdLhFWkaT0",
     "id": "IO8gP4Fd6l8",
     "snippet": {
       "publishedAt": "2025-08-26T02:01:16Z",
@@ -12279,7 +12331,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7537",
+      "viewCount": "7538",
       "likeCount": "202",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -12287,7 +12339,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3cnSmQeXGD2AhNu3LEdCDi07Cu0",
+    "etag": "NI5FCxWeCQdi07T8vdKUUy4MFwU",
     "id": "JvGLyUZT_oM",
     "snippet": {
       "publishedAt": "2025-08-26T00:51:30Z",
@@ -12332,7 +12384,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "26256",
+      "viewCount": "26255",
       "likeCount": "357",
       "favoriteCount": "0",
       "commentCount": "25"
@@ -12340,7 +12392,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-42QS77uOAuodsdlWeBVPjPJJWw",
+    "etag": "9rks8TfDicVGD6rTmDzUxDeI_IQ",
     "id": "M0j98Vdi36c",
     "snippet": {
       "publishedAt": "2025-08-25T12:19:56Z",
@@ -12385,15 +12437,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24491",
-      "likeCount": "724",
+      "viewCount": "24510",
+      "likeCount": "725",
       "favoriteCount": "0",
       "commentCount": "60"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "_L_AcFquYmahJbguWi57XKGOwF4",
+    "etag": "nT77tO0ovzz0kiw-evsm8VH_bos",
     "id": "8DOIYxUifmo",
     "snippet": {
       "publishedAt": "2025-08-25T10:00:30Z",
@@ -12438,7 +12490,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "20554",
+      "viewCount": "20561",
       "likeCount": "482",
       "favoriteCount": "0",
       "commentCount": "31"
@@ -12446,7 +12498,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "msuPcv04qt2GAIVEjlufmoLAaC0",
+    "etag": "wYUfrz-7gt-gd5K06STCWwFRXG8",
     "id": "5YMoM9xh0Lc",
     "snippet": {
       "publishedAt": "2025-08-25T09:22:42Z",
@@ -12491,7 +12543,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14090",
+      "viewCount": "14088",
       "likeCount": "406",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -12499,7 +12551,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Lfsz4aR9aXtcirCUKYEo0Hp6W88",
+    "etag": "KmluFn_kKlyLGTya-QHlj8l50Pc",
     "id": "gATWXmUCRwA",
     "snippet": {
       "publishedAt": "2025-08-25T08:23:40Z",
@@ -12544,7 +12596,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "1861",
+      "viewCount": "1862",
       "likeCount": "66",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -12552,7 +12604,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "vMjF9MJfIhF4TRUVlfeZRh87kVY",
+    "etag": "LzT5q4ghgaPx8AwgYuo3ISqr2do",
     "id": "BDp95cpfd4M",
     "snippet": {
       "publishedAt": "2025-08-25T06:10:48Z",
@@ -12597,7 +12649,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6749",
+      "viewCount": "6752",
       "likeCount": "216",
       "favoriteCount": "0",
       "commentCount": "21"
@@ -12658,7 +12710,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8C43zeYY9rxccLL7X6L6GWJCNB4",
+    "etag": "MMocJl-fngLPXXL88FwqsYQqqoE",
     "id": "WN_tkuhJ2yw",
     "snippet": {
       "publishedAt": "2025-08-25T02:44:36Z",
@@ -12703,7 +12755,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8795",
+      "viewCount": "8796",
       "likeCount": "223",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -12870,7 +12922,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "T-mDvfCTbeH2iHT-s1LlIm1iqn4",
+    "etag": "DEms2ly9KDKiGyyKWAuhf62CeT8",
     "id": "LOHFCeuY4eU",
     "snippet": {
       "publishedAt": "2025-08-24T06:36:57Z",
@@ -12915,7 +12967,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10491",
+      "viewCount": "10505",
       "likeCount": "342",
       "favoriteCount": "0",
       "commentCount": "21"
@@ -12923,7 +12975,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Y9NjYGZD8y5V0Cdm1NsaRJ8ReXc",
+    "etag": "RiCqYLe60lHFj62k6FPan08KFqo",
     "id": "o8BMpnNfRwQ",
     "snippet": {
       "publishedAt": "2025-08-24T03:58:23Z",
@@ -12968,15 +13020,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "35162",
-      "likeCount": "863",
+      "viewCount": "35228",
+      "likeCount": "864",
       "favoriteCount": "0",
       "commentCount": "118"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "QQDQ_fPvkkYQvC1oStMWgmDZRB0",
+    "etag": "l5ofGgwJ4nzcKNHFfM02JDhM06s",
     "id": "iAWZwvg-j8Q",
     "snippet": {
       "publishedAt": "2025-08-23T12:09:31Z",
@@ -13021,15 +13073,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "53470",
-      "likeCount": "1094",
+      "viewCount": "53666",
+      "likeCount": "1096",
       "favoriteCount": "0",
       "commentCount": "57"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "3wLS7gwPsmg6ZM82PNusXuR26qw",
+    "etag": "D8R55sLAgoH5leA8FQJ9W_gnw4E",
     "id": "7yTFso-S3fM",
     "snippet": {
       "publishedAt": "2025-08-23T11:08:32Z",
@@ -13074,7 +13126,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9547",
+      "viewCount": "9549",
       "likeCount": "292",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -13135,7 +13187,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8Mm1V3_4aFuojyhIryIlc95wVnk",
+    "etag": "IKl1NA_GCbQYiHUFwsUQu-XAWEk",
     "id": "DGe7qKtKtoc",
     "snippet": {
       "publishedAt": "2025-08-23T08:09:43Z",
@@ -13180,7 +13232,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8047",
+      "viewCount": "8056",
       "likeCount": "261",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -13188,7 +13240,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "G1tx2SjQtFTD3a576S614Jf_98M",
+    "etag": "nUj8AyPJXV8gK3yd0bhcguWHP40",
     "id": "8zeR7zczbCk",
     "snippet": {
       "publishedAt": "2025-08-23T04:00:46Z",
@@ -13233,7 +13285,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "22967",
+      "viewCount": "23025",
       "likeCount": "662",
       "favoriteCount": "0",
       "commentCount": "51"
@@ -13241,7 +13293,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gG6VxgcLq_Gs2eFu-UG1G0B89ms",
+    "etag": "uCYVRCkTToT89jj-GuLRPQkuTWM",
     "id": "479v3Q7wZd4",
     "snippet": {
       "publishedAt": "2025-08-23T02:16:31Z",
@@ -13286,7 +13338,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6570",
+      "viewCount": "6571",
       "likeCount": "182",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -13294,7 +13346,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "N6f1EI-KC7oJ4Nxo8Q5DSn_bJW8",
+    "etag": "Ds4665z32g9t0CrpB8dOk8ZpP3k",
     "id": "KdPSoP4BdwQ",
     "snippet": {
       "publishedAt": "2025-08-23T01:00:00Z",
@@ -13339,7 +13391,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8240",
+      "viewCount": "8242",
       "likeCount": "250",
       "favoriteCount": "0",
       "commentCount": "19"
@@ -13347,7 +13399,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qQ3z0f89uQlA_pXM3c2AGPKQbPg",
+    "etag": "hTo2OtaRJlCpGz8yrszUcmazhSs",
     "id": "bx-bpSiiNuQ",
     "snippet": {
       "publishedAt": "2025-08-22T11:09:06Z",
@@ -13392,7 +13444,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "19613",
+      "viewCount": "19615",
       "likeCount": "394",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -13400,7 +13452,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "k8NvKdv-MNzchBTRbtb3foT07LM",
+    "etag": "bA0qMz-A8sMqZ1r4uCMx43ePaws",
     "id": "n-ISknxfoSg",
     "snippet": {
       "publishedAt": "2025-08-22T10:03:56Z",
@@ -13445,7 +13497,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8452",
+      "viewCount": "8459",
       "likeCount": "231",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -13453,7 +13505,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "W5CmLC93_XbMaRVoM_0d-AshZy0",
+    "etag": "S1yCkV8k4dbJsx0WjYfwtLz_xhM",
     "id": "vOb1PZtMhrw",
     "snippet": {
       "publishedAt": "2025-08-22T09:08:48Z",
@@ -13498,7 +13550,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7421",
+      "viewCount": "7427",
       "likeCount": "150",
       "favoriteCount": "0",
       "commentCount": "3"
@@ -13506,7 +13558,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "P1m3BhqpmtanSs8xaHX3FWrvX2M",
+    "etag": "Iv1mSTmxMMUpkFOyWbLnqV8aOpM",
     "id": "Ehtr3kG9wYs",
     "snippet": {
       "publishedAt": "2025-08-22T05:56:20Z",
@@ -13551,10 +13603,10 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "37159",
-      "likeCount": "1127",
+      "viewCount": "38704",
+      "likeCount": "1171",
       "favoriteCount": "0",
-      "commentCount": "74"
+      "commentCount": "75"
     }
   },
   {
@@ -13612,7 +13664,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "70B2GbWf8I4tCa_T05qg4x-1PIo",
+    "etag": "caGtiL5CdqdV7cvSByapLH6dyYw",
     "id": "cOWGvj4z54E",
     "snippet": {
       "publishedAt": "2025-08-21T17:09:21Z",
@@ -13657,7 +13709,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "3710",
+      "viewCount": "3711",
       "likeCount": "111",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -13665,7 +13717,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "iYt_eHnTeyW87mW-RHpQ9-fq0hM",
+    "etag": "xemqUR6EG4pMcAGwyskMEQmg77w",
     "id": "ZXZDBCebYxU",
     "snippet": {
       "publishedAt": "2025-08-21T12:57:41Z",
@@ -13710,7 +13762,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6954",
+      "viewCount": "6955",
       "likeCount": "144",
       "favoriteCount": "0",
       "commentCount": "7"
@@ -13718,7 +13770,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hbbsdLsCeEmzKQvsjsorwkndaGw",
+    "etag": "q6jvdgFvZq1oqHfW2QN96hbGK6U",
     "id": "o0tO9zxPoug",
     "snippet": {
       "publishedAt": "2025-08-21T07:31:21Z",
@@ -13763,7 +13815,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "20024",
+      "viewCount": "20028",
       "likeCount": "217",
       "favoriteCount": "0",
       "commentCount": "15"
@@ -13771,7 +13823,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "AK_DFfIBlDK2U91YdG8pJz2aXp4",
+    "etag": "q_BTfM9nW15v7NlqkiYIbDL2ewc",
     "id": "JGyjVgH6XTQ",
     "snippet": {
       "publishedAt": "2025-08-21T03:45:01Z",
@@ -13816,15 +13868,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "39557",
-      "likeCount": "892",
+      "viewCount": "40279",
+      "likeCount": "911",
       "favoriteCount": "0",
       "commentCount": "59"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "4JFQ0qtoNA3OhGJaOOQE9vhkn44",
+    "etag": "enawPDLyaFJhcoJ73IYMjf12DEc",
     "id": "zH0IMJ-yAK0",
     "snippet": {
       "publishedAt": "2025-08-21T02:48:27Z",
@@ -13869,15 +13921,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "53542",
-      "likeCount": "1183",
+      "viewCount": "55156",
+      "likeCount": "1202",
       "favoriteCount": "0",
-      "commentCount": "57"
+      "commentCount": "58"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "scBhkkFUwxr7qyjhG5x0BnoWthk",
+    "etag": "TzsZuvX4rN5Q_IMLZKjOfPchSuA",
     "id": "tg5iCZ-06c8",
     "snippet": {
       "publishedAt": "2025-08-20T08:32:15Z",
@@ -13922,7 +13974,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10569",
+      "viewCount": "10574",
       "likeCount": "196",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -13930,7 +13982,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qoe0muboTcPKSAD80yOkRTnI4y4",
+    "etag": "arRz00GTkLsvZ-lV1_1lILfzuAk",
     "id": "5-zIvkIuMcI",
     "snippet": {
       "publishedAt": "2025-08-20T03:52:59Z",
@@ -13975,7 +14027,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "17492",
+      "viewCount": "17499",
       "likeCount": "433",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -13983,7 +14035,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SrBx6GnoaOoRPalXwMcb_Q8KaMA",
+    "etag": "ZiBxQTl2jGaDA6l8uv0nbKgpgxQ",
     "id": "pK0tadq_k0w",
     "snippet": {
       "publishedAt": "2025-08-19T09:55:42Z",
@@ -14028,7 +14080,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "20950",
+      "viewCount": "20971",
       "likeCount": "498",
       "favoriteCount": "0",
       "commentCount": "47"
@@ -14036,7 +14088,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "pIMNFBEm232yFin7SKzjAEi-2RA",
+    "etag": "3IaEcbD3cDu3kWTTbbd2RrvttWw",
     "id": "5twgNV85jIk",
     "snippet": {
       "publishedAt": "2025-08-19T06:36:36Z",
@@ -14081,7 +14133,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "5245",
+      "viewCount": "5253",
       "likeCount": "166",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -14301,7 +14353,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7UeUIAafD7hd5rCEO-QH2TkAtdg",
+    "etag": "DzodJibKBYmxdt61u9f7lq9Tajc",
     "id": "tr-ud-MHLHs",
     "snippet": {
       "publishedAt": "2025-08-18T04:23:35Z",
@@ -14346,7 +14398,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "17191",
+      "viewCount": "17196",
       "likeCount": "439",
       "favoriteCount": "0",
       "commentCount": "25"
@@ -14354,7 +14406,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "gggmaAsJmLZC3CXo5V15wZteelQ",
+    "etag": "16qSEJ47BUeIsJSV-s_PToZY-PY",
     "id": "_MbXY912TsQ",
     "snippet": {
       "publishedAt": "2025-08-17T12:35:07Z",
@@ -14399,7 +14451,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15262",
+      "viewCount": "15263",
       "likeCount": "392",
       "favoriteCount": "0",
       "commentCount": "37"
@@ -14407,7 +14459,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fch5YqcB9ULfz6l_3psuNB2QvSE",
+    "etag": "RkA44wBe62Fpdw5_uCOor0Bh86s",
     "id": "Y4XniAegGeM",
     "snippet": {
       "publishedAt": "2025-08-17T08:57:02Z",
@@ -14442,7 +14494,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14026",
+      "viewCount": "14035",
       "likeCount": "219",
       "favoriteCount": "0",
       "commentCount": "11"
@@ -14503,7 +14555,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Q2FfXd3CEGGD2WmU4cNjjgwYtu4",
+    "etag": "7Rpi6ADEgQcM5cigXxBx5FrZTyo",
     "id": "qULgnsvFCXs",
     "snippet": {
       "publishedAt": "2025-08-16T23:48:17Z",
@@ -14548,7 +14600,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "10031",
+      "viewCount": "10042",
       "likeCount": "219",
       "favoriteCount": "0",
       "commentCount": "26"
@@ -14556,7 +14608,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "G9W85b6_U3kyX2MUUDyaqLjbEJg",
+    "etag": "FokhoVpwY-ndBWu3vKNTI75pjTk",
     "id": "mCNMARasa84",
     "snippet": {
       "publishedAt": "2025-08-16T13:00:12Z",
@@ -14601,15 +14653,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8540",
-      "likeCount": "209",
+      "viewCount": "8569",
+      "likeCount": "210",
       "favoriteCount": "0",
       "commentCount": "16"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "jHgkUTfoZtbfytoWm8UVgdbILw0",
+    "etag": "oJnAKVmNA3D9EQIxl0vzlH3e-9Y",
     "id": "rIu2ccMEXrk",
     "snippet": {
       "publishedAt": "2025-08-14T23:07:16Z",
@@ -14654,7 +14706,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "54069",
+      "viewCount": "54089",
       "likeCount": "1173",
       "favoriteCount": "0",
       "commentCount": "71"
@@ -14662,7 +14714,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "uGQy3aib5-LbwZN4P7TVk29N9S0",
+    "etag": "VRY69Y_XgJd0swBCTolWGckYUfA",
     "id": "ZlTB9NsfUEE",
     "snippet": {
       "publishedAt": "2025-08-14T11:53:53Z",
@@ -14707,7 +14759,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23026",
+      "viewCount": "23042",
       "likeCount": "525",
       "favoriteCount": "0",
       "commentCount": "72"
@@ -14715,7 +14767,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "LtrLAXgJPhSZQmarqqsg3D0ros0",
+    "etag": "WRMlhZU7dVBFZSQoOqV7UR2EWjQ",
     "id": "-qLWKO8Zstc",
     "snippet": {
       "publishedAt": "2025-08-14T04:57:53Z",
@@ -14750,7 +14802,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16268",
+      "viewCount": "16269",
       "likeCount": "347",
       "favoriteCount": "0",
       "commentCount": "26"
@@ -14758,7 +14810,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "JxF-YZUU8cx5F9CtQyWRI8K-16Q",
+    "etag": "IeK6zRKzhLD2ML0nAF5xc4DRzY0",
     "id": "Bn2A6UK4qxg",
     "snippet": {
       "publishedAt": "2025-08-14T02:28:01Z",
@@ -14803,15 +14855,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "90596",
-      "likeCount": "1735",
+      "viewCount": "90709",
+      "likeCount": "1737",
       "favoriteCount": "0",
       "commentCount": "86"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "aLvh5NIZNeuEOAlTCytXd792O_M",
+    "etag": "qcQpfW_4VdTX0o5VLKqOE9CfrAM",
     "id": "H7SyiWpQf-w",
     "snippet": {
       "publishedAt": "2025-08-13T23:06:13Z",
@@ -14856,7 +14908,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6852",
+      "viewCount": "6854",
       "likeCount": "192",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -14960,7 +15012,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "AXGjajL0DF3zbMiy7-GTpIEDQTU",
+    "etag": "rzWHwzFRJAhTxTFBoSQlmE_Ipc8",
     "id": "NHEQ6LlR8J0",
     "snippet": {
       "publishedAt": "2025-08-13T07:28:01Z",
@@ -15005,7 +15057,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4809",
+      "viewCount": "4811",
       "likeCount": "161",
       "favoriteCount": "0",
       "commentCount": "6"
@@ -15013,7 +15065,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "iTxX8t1KabiZeAWayIJ0U3fJW54",
+    "etag": "GkguRTU88WCWcSxWWVuoWVIVnlo",
     "id": "Kq_yaCbTU0o",
     "snippet": {
       "publishedAt": "2025-08-13T00:10:08Z",
@@ -15058,7 +15110,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14131",
+      "viewCount": "14133",
       "likeCount": "463",
       "favoriteCount": "0",
       "commentCount": "37"
@@ -15119,7 +15171,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "35d3MTo-_EK0g73o8-_2BWXk1W8",
+    "etag": "gpvgTXw2jRwOrYrOyP91MFSPyyw",
     "id": "dbakARN0z2k",
     "snippet": {
       "publishedAt": "2025-08-12T05:47:44Z",
@@ -15164,7 +15216,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13732",
+      "viewCount": "13738",
       "likeCount": "311",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -15225,7 +15277,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "C1ZiUP4OqW4iXGSL9PYvhSKiad8",
+    "etag": "nPzT4z35S-bfyl0vTM_IRdNLOLY",
     "id": "9oaJzZoMvc8",
     "snippet": {
       "publishedAt": "2025-08-10T15:43:00Z",
@@ -15270,7 +15322,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "13815",
+      "viewCount": "13820",
       "likeCount": "359",
       "favoriteCount": "0",
       "commentCount": "42"
@@ -15278,7 +15330,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "p6HpWEwIK6kJD0sZl1g5BGbEU5w",
+    "etag": "R5Y6W53-drF5MUjQ6D68H3L-TAE",
     "id": "sPvy9sDsOoc",
     "snippet": {
       "publishedAt": "2025-08-09T07:55:53Z",
@@ -15323,7 +15375,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "102891",
+      "viewCount": "102903",
       "likeCount": "1330",
       "favoriteCount": "0",
       "commentCount": "124"
@@ -15331,7 +15383,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7V07kQlwDQQr-4Ka06eXgQmJJhk",
+    "etag": "GCiWUl8hm1sy5TMjH98a8LOCdEk",
     "id": "nXEjATl3dHc",
     "snippet": {
       "publishedAt": "2025-08-08T12:44:56Z",
@@ -15376,7 +15428,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "6740",
+      "viewCount": "6742",
       "likeCount": "162",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -15384,7 +15436,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9ac34LVveIlGdoiBeerczRt-owA",
+    "etag": "jD8rz01-fhuuhkjAj4N6ptMaQXE",
     "id": "g138IqXSvTs",
     "snippet": {
       "publishedAt": "2025-08-06T10:10:55Z",
@@ -15429,7 +15481,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8655",
+      "viewCount": "8657",
       "likeCount": "213",
       "favoriteCount": "0",
       "commentCount": "10"
@@ -15437,7 +15489,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2E7-092WaY_RJFQn-BqJ4RheG2U",
+    "etag": "DqkQ7h5yYsGqhsa3pJIdTVXDev0",
     "id": "2t6AgZ48-hQ",
     "snippet": {
       "publishedAt": "2025-08-05T13:40:12Z",
@@ -15482,7 +15534,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "34544",
+      "viewCount": "34553",
       "likeCount": "419",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -15490,7 +15542,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "bStBmqiQQN0a-zCp-AMbu8xLMPI",
+    "etag": "drqEYwfqpGptsPxfWprLDWKbj0E",
     "id": "55Uf_h1ykQg",
     "snippet": {
       "publishedAt": "2025-08-05T09:36:50Z",
@@ -15535,7 +15587,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "45038",
+      "viewCount": "45060",
       "likeCount": "625",
       "favoriteCount": "0",
       "commentCount": "42"
@@ -15596,7 +15648,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "qDP6GCbV4K7eu409Nhz8kSqMZGY",
+    "etag": "L-rFbTTKDlPAo6XgYP0o5OLn9YI",
     "id": "IEcZv516oVg",
     "snippet": {
       "publishedAt": "2025-08-04T13:16:45Z",
@@ -15641,7 +15693,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "4437",
+      "viewCount": "4439",
       "likeCount": "80",
       "favoriteCount": "0",
       "commentCount": "8"
@@ -15649,7 +15701,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NAgrM-xB5zEw72U_tDHIBUrj-ls",
+    "etag": "39LWPcMPCuDTQX_ybU9eXPkiSwE",
     "id": "rDs7KIug-A0",
     "snippet": {
       "publishedAt": "2025-08-02T14:01:12Z",
@@ -15694,7 +15746,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "19291",
+      "viewCount": "19308",
       "likeCount": "317",
       "favoriteCount": "0",
       "commentCount": "16"
@@ -15755,7 +15807,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2kA47mga8ZDVvhPigT7z1GH3E6I",
+    "etag": "sMZaEx9SJK4fJEC3FmkBoaS8v-4",
     "id": "t6x0Y9YVOzo",
     "snippet": {
       "publishedAt": "2025-08-02T02:01:00Z",
@@ -15800,7 +15852,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9726",
+      "viewCount": "9727",
       "likeCount": "236",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -15861,7 +15913,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "8Tki5CWf8W3O1h0DsBxxNP549Yo",
+    "etag": "xDSbL8jmLhxJZ2zG6FlgETjn7lw",
     "id": "OSS4tUVcryI",
     "snippet": {
       "publishedAt": "2025-07-31T10:22:54Z",
@@ -15901,7 +15953,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "33605",
+      "viewCount": "33606",
       "likeCount": "824",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -15909,7 +15961,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "9GVeF1kP0rUVCrtw1RFPkfnosLE",
+    "etag": "GxqUne-YyQzxEA-TLQ_nFcm_6hA",
     "id": "OaeYcecWXq4",
     "snippet": {
       "publishedAt": "2025-07-29T22:14:54Z",
@@ -15954,7 +16006,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23504",
+      "viewCount": "23520",
       "likeCount": "474",
       "favoriteCount": "0",
       "commentCount": "29"
@@ -15962,7 +16014,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Ng79pe-TqMNyLJ4NmJl4oEWAiBI",
+    "etag": "Wy1j4MFZy7jDuZjxCEuqybIJxKo",
     "id": "fl-Xx_Nm9yY",
     "snippet": {
       "publishedAt": "2025-07-28T14:54:08Z",
@@ -16007,7 +16059,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "15344",
+      "viewCount": "15354",
       "likeCount": "322",
       "favoriteCount": "0",
       "commentCount": "28"
@@ -16121,7 +16173,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "nwrjf8n7xsQFrjhmPwRqBjai2OQ",
+    "etag": "FHM1-BjigujbZcjRqBpSUsMq7oI",
     "id": "dNC2KrKYg0A",
     "snippet": {
       "publishedAt": "2025-07-27T06:04:48Z",
@@ -16166,7 +16218,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "45750",
+      "viewCount": "45751",
       "likeCount": "887",
       "favoriteCount": "0",
       "commentCount": "123"
@@ -16174,7 +16226,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7fmhWGzpXMo6z5X_F9ToyQH5INM",
+    "etag": "T9qZHm0JR1ZG8h1t1v41Cqp6pRc",
     "id": "kLwcKWmtOAc",
     "snippet": {
       "publishedAt": "2025-07-27T04:12:02Z",
@@ -16219,7 +16271,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24320",
+      "viewCount": "24322",
       "likeCount": "517",
       "favoriteCount": "0",
       "commentCount": "54"
@@ -16386,7 +16438,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "N2i3FvzXPnpLXxUJBFLHwGajIls",
+    "etag": "4FFSAgL8apkzV_fhONzx6D8ZsZQ",
     "id": "WPkr7xa7ttg",
     "snippet": {
       "publishedAt": "2025-07-24T12:14:27Z",
@@ -16431,7 +16483,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "9635",
+      "viewCount": "9640",
       "likeCount": "180",
       "favoriteCount": "0",
       "commentCount": "17"
@@ -16439,7 +16491,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "4UvyGrrQy8iv7MSXUc7jQs6xGK8",
+    "etag": "Vw4Pqq1OOOTKMWccNLEyqs0ZbUk",
     "id": "HLpQBshF49w",
     "snippet": {
       "publishedAt": "2025-07-21T16:19:15Z",
@@ -16484,7 +16536,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "8815",
+      "viewCount": "8817",
       "likeCount": "200",
       "favoriteCount": "0",
       "commentCount": "22"
@@ -16545,7 +16597,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "7c9AKZ8zvhFh_R-xk6jJoMVcCzs",
+    "etag": "JV9K6p4L3Uqf5c2WKRBW5_Awb9k",
     "id": "BroH2qwwms0",
     "snippet": {
       "publishedAt": "2025-07-21T05:35:19Z",
@@ -16590,7 +16642,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "73149",
+      "viewCount": "73158",
       "likeCount": "1239",
       "favoriteCount": "0",
       "commentCount": "57"
@@ -16598,7 +16650,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "-OjxWFRhLN7n_ehcOHp2mZb5URc",
+    "etag": "rt38YkAPaQTrVrkM--oLNMczvmg",
     "id": "4hwVCPD_P_E",
     "snippet": {
       "publishedAt": "2025-07-20T11:48:00Z",
@@ -16643,7 +16695,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24197",
+      "viewCount": "24201",
       "likeCount": "479",
       "favoriteCount": "0",
       "commentCount": "29"
@@ -16757,7 +16809,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "P_YhZik4IaSJzKGDvbBkdA-m0g8",
+    "etag": "03vyAD9QXAT9VI-E1d2SQKLBX7s",
     "id": "C2eNrZvfUJA",
     "snippet": {
       "publishedAt": "2025-07-17T00:44:36Z",
@@ -16802,7 +16854,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "78101",
+      "viewCount": "78114",
       "likeCount": "1577",
       "favoriteCount": "0",
       "commentCount": "128"
@@ -16810,7 +16862,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sZkZdXcx798tmhM5Yo06EZvyMa8",
+    "etag": "y88jL4h5Ker11meHEteb0qUQWoc",
     "id": "BTNCFVrkqlk",
     "snippet": {
       "publishedAt": "2025-07-15T09:57:59Z",
@@ -16855,7 +16907,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "12558",
+      "viewCount": "12565",
       "likeCount": "300",
       "favoriteCount": "0",
       "commentCount": "28"
@@ -16863,7 +16915,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sZPzoNCf3gQtcTpYkeNWJfrgm2c",
+    "etag": "t6Mo6t5jkc2T_H8FtaPKLlYrIjc",
     "id": "t6MdYOgnMww",
     "snippet": {
       "publishedAt": "2025-07-14T13:53:09Z",
@@ -16908,7 +16960,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23525",
+      "viewCount": "23540",
       "likeCount": "397",
       "favoriteCount": "0",
       "commentCount": "18"
@@ -16916,7 +16968,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "M1RUbMiIOdK1Is5OxAm9y9wRDtY",
+    "etag": "zMrX0K50DJiaHOOE7DTL9lW9L58",
     "id": "x3_TzxARt_8",
     "snippet": {
       "publishedAt": "2025-07-14T05:18:24Z",
@@ -16961,7 +17013,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "25716",
+      "viewCount": "25724",
       "likeCount": "341",
       "favoriteCount": "0",
       "commentCount": "48"
@@ -16969,7 +17021,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "y0Mm2AkqFdq_eH76FKv803tx4oY",
+    "etag": "2VGzTSuxJk259rfhxHSdcKGKUAs",
     "id": "6-18FW7zzT0",
     "snippet": {
       "publishedAt": "2025-07-13T09:42:36Z",
@@ -17014,7 +17066,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "33532",
+      "viewCount": "33543",
       "likeCount": "472",
       "favoriteCount": "0",
       "commentCount": "43"
@@ -17075,7 +17127,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "u-CFWflugvPbQXSg-TYKNLoyvVM",
+    "etag": "P46efD-BeEG0o_orpVyRLw6pae8",
     "id": "QcnJh0LPLGg",
     "snippet": {
       "publishedAt": "2025-07-11T04:48:02Z",
@@ -17120,7 +17172,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "27178",
+      "viewCount": "27183",
       "likeCount": "628",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -17181,7 +17233,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "kG9UGltd3gZxDMYx6iZt1FUP0BI",
+    "etag": "GGhZYiqIz2RwRTSvqN2YuOWYiWI",
     "id": "cZ2EE8rFZI0",
     "snippet": {
       "publishedAt": "2025-07-04T12:01:41Z",
@@ -17226,7 +17278,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "35408",
+      "viewCount": "35410",
       "likeCount": "522",
       "favoriteCount": "0",
       "commentCount": "45"
@@ -17234,7 +17286,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "mrJzw1_nC0lYw7diFv6-QpG2Wrs",
+    "etag": "i_7V1d58XHQAidbE3dygwbZ7flE",
     "id": "InYRxq7asL8",
     "snippet": {
       "publishedAt": "2025-07-01T10:27:43Z",
@@ -17279,7 +17331,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "27924",
+      "viewCount": "27928",
       "likeCount": "589",
       "favoriteCount": "0",
       "commentCount": "39"
@@ -17393,7 +17445,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "lVoZ5ahL0BdEIhJBYCgIKHd5NGg",
+    "etag": "Z5E6hyCddlGYI0Ua_sqIVgHi9Y4",
     "id": "Q9fvy6gdUmg",
     "snippet": {
       "publishedAt": "2025-06-27T02:23:44Z",
@@ -17438,7 +17490,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21073",
+      "viewCount": "21078",
       "likeCount": "622",
       "favoriteCount": "0",
       "commentCount": "67"
@@ -17446,7 +17498,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SEcYrdzzKFGQqtUWycb1wrnS58Y",
+    "etag": "zAYOOD_yi-rCKMHL01YcZqZyjLA",
     "id": "KlenuO0CmKk",
     "snippet": {
       "publishedAt": "2025-06-24T08:05:22Z",
@@ -17491,7 +17543,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "26530",
+      "viewCount": "26528",
       "likeCount": "421",
       "favoriteCount": "0",
       "commentCount": "20"
@@ -17605,7 +17657,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rf-y-dCe0ZB8NfeGyJddX-WhsLY",
+    "etag": "cfYemdyHOScIzptn_Hf39vCZf54",
     "id": "YfRYul8A8_s",
     "snippet": {
       "publishedAt": "2025-06-21T08:35:49Z",
@@ -17650,15 +17702,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "128870",
-      "likeCount": "1683",
+      "viewCount": "128938",
+      "likeCount": "1684",
       "favoriteCount": "0",
       "commentCount": "112"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "6QE3JoIetKWKB7fwcvVJO8t9uFQ",
+    "etag": "6KM1IWkTFHA22YtcTj_hggRSReY",
     "id": "_kjV0gJIpt4",
     "snippet": {
       "publishedAt": "2025-06-16T08:50:54Z",
@@ -17703,7 +17755,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "16657",
+      "viewCount": "16658",
       "likeCount": "323",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -17764,7 +17816,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "yB7L0Y3Y0H7-g4ZANIXyJ54iKI4",
+    "etag": "6D7BeWX5BOsJx5Wj-gkCml0wCEQ",
     "id": "euYK1iiI4RA",
     "snippet": {
       "publishedAt": "2025-05-30T14:08:18Z",
@@ -17809,7 +17861,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "24763",
+      "viewCount": "24764",
       "likeCount": "565",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -17817,7 +17869,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ujgEukzXoa2ji92bHNaH1F_GcCM",
+    "etag": "b4hLBS0OX9D_fFEDMIaFp4nSvJs",
     "id": "Mns92KfU2qs",
     "snippet": {
       "publishedAt": "2025-05-28T14:22:47Z",
@@ -17862,8 +17914,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "23952",
-      "likeCount": "582",
+      "viewCount": "23958",
+      "likeCount": "583",
       "favoriteCount": "0",
       "commentCount": "63"
     }
@@ -17927,7 +17979,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Wn38YXcJN8fwD0RVDYwdHn6Fkdo",
+    "etag": "uEtyVutUJOuRfUdru_g-de3T-c8",
     "id": "6C0EmqcezZc",
     "snippet": {
       "publishedAt": "2025-05-25T03:53:14Z",
@@ -17972,7 +18024,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "35635",
+      "viewCount": "35637",
       "likeCount": "527",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -17980,7 +18032,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "asxc9PyEWOIrLA3s07Znu6DeALY",
+    "etag": "k4q4sGn6MjkfbWFsqVUeh08lwW0",
     "id": "64U9o6CQwwE",
     "snippet": {
       "publishedAt": "2025-05-24T19:16:04Z",
@@ -18028,7 +18080,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "14940",
+      "viewCount": "14942",
       "likeCount": "218",
       "favoriteCount": "0",
       "commentCount": "27"
@@ -18257,7 +18309,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "hsjdPJsgzAMfiQXlNOhKkouLTYc",
+    "etag": "LOGwn25aqGGm4LhltMgnC3Yi4hQ",
     "id": "33wxlDaKyBs",
     "snippet": {
       "publishedAt": "2025-05-21T10:55:42Z",
@@ -18305,7 +18357,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "174659",
+      "viewCount": "174663",
       "likeCount": "2543",
       "favoriteCount": "0",
       "commentCount": "125"
@@ -18370,7 +18422,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "DBw_dtg3CGnvrL69jTV0FF00FUM",
+    "etag": "Ea5Fjd34qZrd8A5baLbIh622Suw",
     "id": "nkVaK6Dn8kI",
     "snippet": {
       "publishedAt": "2025-05-20T18:56:44Z",
@@ -18418,7 +18470,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "77792",
+      "viewCount": "77793",
       "likeCount": "799",
       "favoriteCount": "0",
       "commentCount": "46"
@@ -18426,7 +18478,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xw9ZTUnNf8RW6TieTzaGc_2lg1A",
+    "etag": "BTsus11BTVyfTAChfaBP8zKqMDM",
     "id": "9oUMhTQDooM",
     "snippet": {
       "publishedAt": "2025-05-20T06:35:16Z",
@@ -18474,7 +18526,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "233816",
+      "viewCount": "233819",
       "likeCount": "1840",
       "favoriteCount": "0",
       "commentCount": "125"
@@ -18535,7 +18587,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "xXHEJw3QfImxWgGkHxS9ldUWxw0",
+    "etag": "BjRJgpPuX7VR0eK9syIAbTpPNjA",
     "id": "kHc0bUkyv_E",
     "snippet": {
       "publishedAt": "2025-05-19T10:22:21Z",
@@ -18580,7 +18632,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "119352",
+      "viewCount": "119357",
       "likeCount": "1047",
       "favoriteCount": "0",
       "commentCount": "64"
@@ -18588,7 +18640,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "SGhufcGYUuBfVU1FYNDXVe0BM-o",
+    "etag": "pIShE0yHAPNAth3mzZdt-Cdd_ls",
     "id": "bc42zKACkkc",
     "snippet": {
       "publishedAt": "2025-05-19T08:09:14Z",
@@ -18636,7 +18688,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "168816",
+      "viewCount": "168815",
       "likeCount": "2229",
       "favoriteCount": "0",
       "commentCount": "184"
@@ -18644,7 +18696,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "NYmk3RExZumSpEe2Z9r15L-9GOw",
+    "etag": "K1c0CnyA4amALNlXeN1MHudeMjc",
     "id": "qZLfhtL0QwM",
     "snippet": {
       "publishedAt": "2025-05-18T22:44:37Z",
@@ -18692,7 +18744,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "57249",
+      "viewCount": "57253",
       "likeCount": "627",
       "favoriteCount": "0",
       "commentCount": "66"
@@ -18753,7 +18805,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "FsNt3BqIKRD_fJoB4MTM0U2BWTA",
+    "etag": "MpzQ4wiJe4-q7eHCPQftRI08OQA",
     "id": "C2ZCgQbF5a0",
     "snippet": {
       "publishedAt": "2025-05-15T13:52:41Z",
@@ -18798,7 +18850,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "167255",
+      "viewCount": "167260",
       "likeCount": "1743",
       "favoriteCount": "0",
       "commentCount": "78"
@@ -18806,7 +18858,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "GMP_cgTyk4ajj0ZEfW8oihMj0gs",
+    "etag": "r85gSZe98xx3Qungn6GfLLyj5J0",
     "id": "u1iLLNLBXSc",
     "snippet": {
       "publishedAt": "2025-05-13T18:48:35Z",
@@ -18851,7 +18903,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "40165",
+      "viewCount": "40166",
       "likeCount": "345",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -18912,7 +18964,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "5m3ulCHgkrlIug6ISty9C-Ud0Ic",
+    "etag": "rdr-I5TE8AJUYK2y5uu6bSL_8c4",
     "id": "OYI59oGrgCs",
     "snippet": {
       "publishedAt": "2025-05-10T22:48:56Z",
@@ -18957,7 +19009,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "135536",
+      "viewCount": "135540",
       "likeCount": "1576",
       "favoriteCount": "0",
       "commentCount": "107"
@@ -19018,7 +19070,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "v2oyn0WAyJBr5yisReVVZbshOno",
+    "etag": "c5iPU-yX7zrZMrxbaFbSS_ugOdM",
     "id": "K5afScHNnrU",
     "snippet": {
       "publishedAt": "2025-05-09T18:23:18Z",
@@ -19063,7 +19115,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "191536",
+      "viewCount": "191607",
       "likeCount": "1541",
       "favoriteCount": "0",
       "commentCount": "53"
@@ -19071,7 +19123,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ak2XW_2FkjZy3dJM8rP3zytAVkc",
+    "etag": "FzBL8CHm7klOmq7jePXSPAxfC9I",
     "id": "zJcJA4CP35Y",
     "snippet": {
       "publishedAt": "2025-05-09T17:00:17Z",
@@ -19116,7 +19168,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "116616",
+      "viewCount": "116615",
       "likeCount": "1644",
       "favoriteCount": "0",
       "commentCount": "80"
@@ -19124,7 +19176,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "I6qrl9GMvxEDjia12zzK_1fLnjY",
+    "etag": "RybqIAD3wknCJdhR88oOdbv4kXU",
     "id": "6Z1sF12e4G4",
     "snippet": {
       "publishedAt": "2025-05-09T08:29:12Z",
@@ -19169,7 +19221,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "436296",
+      "viewCount": "436336",
       "likeCount": "2307",
       "favoriteCount": "0",
       "commentCount": "221"
@@ -19230,7 +19282,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "F2pggiNdXZ2ydsZOO54t4kiixZA",
+    "etag": "Eifz4DCWnaDkpeQeRsUTUQCD7KI",
     "id": "X4TTBjXCcm8",
     "snippet": {
       "publishedAt": "2025-05-08T09:07:25Z",
@@ -19275,7 +19327,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "48150",
+      "viewCount": "48144",
       "likeCount": "735",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -19495,7 +19547,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "m6b8s01QbNTTrg5lHDWAsxnbSJQ",
+    "etag": "XLq4ETtFbV-hnlE4fCNGuWCYwV4",
     "id": "jq6emm4tnG8",
     "snippet": {
       "publishedAt": "2025-04-29T18:54:40Z",
@@ -19540,7 +19592,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "193751",
+      "viewCount": "193754",
       "likeCount": "2260",
       "favoriteCount": "0",
       "commentCount": "289"
@@ -19548,7 +19600,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "2dEeqw_1r2-xL9HbtkbBQlGxqlw",
+    "etag": "CtxUsuCA5ik_1w3DZwYMVk4Scas",
     "id": "9UxZrdTNgwg",
     "snippet": {
       "publishedAt": "2025-04-29T10:41:53Z",
@@ -19593,15 +19645,15 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "306037",
+      "viewCount": "306052",
       "likeCount": "3356",
       "favoriteCount": "0",
-      "commentCount": "177"
+      "commentCount": "178"
     }
   },
   {
     "kind": "youtube#video",
-    "etag": "2fWkgMk0G5N8GlS7jR3xaakqmIA",
+    "etag": "mDPbZHRSVPtYMjsZ_ts4I9MKm90",
     "id": "jwvoazGP_U8",
     "snippet": {
       "publishedAt": "2025-04-28T17:11:34Z",
@@ -19649,7 +19701,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "167230",
+      "viewCount": "167229",
       "likeCount": "1794",
       "favoriteCount": "0",
       "commentCount": "172"
@@ -19657,7 +19709,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "TPlt8379HqRDMWIqS-1nDPMaOX4",
+    "etag": "ivH8r7NUpmwJUOzDMifYujPy5Dg",
     "id": "dVmO5Mq-ZwA",
     "snippet": {
       "publishedAt": "2025-04-27T08:52:34Z",
@@ -19702,7 +19754,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "336394",
+      "viewCount": "336397",
       "likeCount": "5093",
       "favoriteCount": "0",
       "commentCount": "288"
@@ -19710,7 +19762,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "o8PuDvaaxR-OVYHdKpriKrg5Tu4",
+    "etag": "IuGegCWnT49kXVbPPwZR5R5aiaw",
     "id": "EkOcpB6Jqcs",
     "snippet": {
       "publishedAt": "2025-04-26T01:41:53Z",
@@ -19755,7 +19807,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "399361",
+      "viewCount": "399362",
       "likeCount": "4174",
       "favoriteCount": "0",
       "commentCount": "271"
@@ -19763,7 +19815,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZhxWtgv6JAZ2mAHqZOanUaYrh9w",
+    "etag": "Cbi16lNfzI4T5_v1vCv_OoJGvNE",
     "id": "4hZ0NFze6i0",
     "snippet": {
       "publishedAt": "2025-04-24T12:35:25Z",
@@ -19808,7 +19860,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "141392",
+      "viewCount": "141393",
       "likeCount": "1830",
       "favoriteCount": "0",
       "commentCount": "111"
@@ -19816,7 +19868,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ramzXG0YOV96FYNv6ML-vkNaEfc",
+    "etag": "xjJZKupDWbOyzwt7e5DlYPA2dEo",
     "id": "MgblzaRjXRg",
     "snippet": {
       "publishedAt": "2025-04-23T15:57:53Z",
@@ -19861,7 +19913,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "295100",
+      "viewCount": "295101",
       "likeCount": "3088",
       "favoriteCount": "0",
       "commentCount": "150"
@@ -19869,7 +19921,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "6VfTWEcAFtLkAfD5BuOWTpp6G9k",
+    "etag": "CWUNy7VP1vEAKmErBwDjHia2-Ig",
     "id": "IQR3nUfVGK8",
     "snippet": {
       "publishedAt": "2025-04-22T03:07:08Z",
@@ -19914,7 +19966,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "209611",
+      "viewCount": "209614",
       "likeCount": "2290",
       "favoriteCount": "0",
       "commentCount": "117"
@@ -19975,7 +20027,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "sVUrwn_IxQ7P7-Jnd0t6ECt8ygY",
+    "etag": "uX87xNRNsW6LXjYtGPGT6KrO7I0",
     "id": "rMmYxlF2KZc",
     "snippet": {
       "publishedAt": "2025-04-16T10:02:52Z",
@@ -20020,7 +20072,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "26449",
+      "viewCount": "26439",
       "likeCount": "406",
       "favoriteCount": "0",
       "commentCount": "12"
@@ -20028,7 +20080,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "FXoGYBUW1s8xOTUoSbfDNEz7jjk",
+    "etag": "1Q9V-nI-seA9npD1QWdBH4AA0dA",
     "id": "l0cUOVNs5RM",
     "snippet": {
       "publishedAt": "2025-04-13T15:24:30Z",
@@ -20073,7 +20125,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "107933",
+      "viewCount": "107935",
       "likeCount": "1054",
       "favoriteCount": "0",
       "commentCount": "219"
@@ -20081,7 +20133,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "QFsp8nOmfzjRaqfnyxPech16Zb4",
+    "etag": "EQzHVan6vwKPyY836GA0zjUg-lY",
     "id": "IEfKnXyEaA8",
     "snippet": {
       "publishedAt": "2025-04-12T11:00:18Z",
@@ -20126,7 +20178,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "29715",
+      "viewCount": "29716",
       "likeCount": "475",
       "favoriteCount": "0",
       "commentCount": "30"
@@ -20134,7 +20186,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "zXb7SGHbFB6RdAm191eXlGtBe6g",
+    "etag": "23D9fK1gA5aIxgnFtmI6lRmUpqs",
     "id": "uAqXk4AhSLM",
     "snippet": {
       "publishedAt": "2025-03-31T03:13:57Z",
@@ -20179,7 +20231,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "89878",
+      "viewCount": "89879",
       "likeCount": "1202",
       "favoriteCount": "0",
       "commentCount": "103"
@@ -20302,7 +20354,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "cfKBOPFonyXrldLpe0mzwk5-MnY",
+    "etag": "z886iJ9UlUurrWmXQzMjQEe5vcw",
     "id": "FnZKofREavg",
     "snippet": {
       "publishedAt": "2025-03-19T22:35:43Z",
@@ -20347,7 +20399,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "174592",
+      "viewCount": "174595",
       "likeCount": "2821",
       "favoriteCount": "0",
       "commentCount": "173"
@@ -20567,7 +20619,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_v-k4qk98IlB2s991py5bdiYltE",
+    "etag": "Ham5XyQ4HaEiR2kKtrkCQV2H3bQ",
     "id": "2wbNxW6hFW4",
     "snippet": {
       "publishedAt": "2025-03-06T03:01:16Z",
@@ -20612,7 +20664,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "55800",
+      "viewCount": "55801",
       "likeCount": "566",
       "favoriteCount": "0",
       "commentCount": "35"
@@ -20620,7 +20672,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "vVHdlRuDOqEmckwviTDa9XKfkrk",
+    "etag": "LAxeiQknKaWEi8k2m_dDEBMGaSo",
     "id": "LSWSNhzASCs",
     "snippet": {
       "publishedAt": "2025-03-01T01:20:45Z",
@@ -20665,7 +20717,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "85850",
+      "viewCount": "85851",
       "likeCount": "768",
       "favoriteCount": "0",
       "commentCount": "34"
@@ -20779,7 +20831,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "UUboO2mya_I8R2biOG0jg8bU8gM",
+    "etag": "mdFpOcYz9RgVBmLbWYZULIXXYGU",
     "id": "ZP8fmv-K2M0",
     "snippet": {
       "publishedAt": "2025-02-21T21:00:29Z",
@@ -20824,7 +20876,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "133032",
+      "viewCount": "133031",
       "likeCount": "1351",
       "favoriteCount": "0",
       "commentCount": "88"
@@ -20938,7 +20990,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "3qp9-GVSLNuPJtXc8EIOL1NDp2c",
+    "etag": "ZjhrUsOfc9O9atNjXHwRXV6ogz0",
     "id": "6VSb2jfXAIQ",
     "snippet": {
       "publishedAt": "2025-02-18T21:00:08Z",
@@ -20983,7 +21035,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "189377",
+      "viewCount": "189378",
       "likeCount": "2472",
       "favoriteCount": "0",
       "commentCount": "146"
@@ -20991,7 +21043,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "spT5s5Bl45iKHO4G1GP465SDFeM",
+    "etag": "Vb5UHi7KadwCwspOan1h7gxbIUY",
     "id": "vB9HneUL4Jg",
     "snippet": {
       "publishedAt": "2025-02-17T03:26:58Z",
@@ -21036,7 +21088,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "115554",
+      "viewCount": "115555",
       "likeCount": "1522",
       "favoriteCount": "0",
       "commentCount": "80"
@@ -21044,7 +21096,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rxEgnDqk4BWdkJi4gCc06fJIAqw",
+    "etag": "BF5KOpN1dJvCS3Cva0xUpnzSDsg",
     "id": "S6AaKWp2Oys",
     "snippet": {
       "publishedAt": "2025-02-15T02:00:48Z",
@@ -21089,7 +21141,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "243728",
+      "viewCount": "243731",
       "likeCount": "3374",
       "favoriteCount": "0",
       "commentCount": "141"
@@ -21097,7 +21149,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "MiH-C7bS5AJ9bnDMIMB7IZvq6z0",
+    "etag": "0kDRBX9cPrZDRCBW7plc1s6gd2c",
     "id": "HnsnHAP3TYY",
     "snippet": {
       "publishedAt": "2025-02-14T02:16:12Z",
@@ -21142,7 +21194,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "40002",
+      "viewCount": "40001",
       "likeCount": "492",
       "favoriteCount": "0",
       "commentCount": "37"
@@ -21150,7 +21202,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IgdjqBN-anv3FIV6MJG8Spmg_QE",
+    "etag": "u_QE9YudCgwJcWhNYUCkPBxThCc",
     "id": "sKpuN5ZHApU",
     "snippet": {
       "publishedAt": "2025-02-12T09:04:34Z",
@@ -21195,7 +21247,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "118748",
+      "viewCount": "118751",
       "likeCount": "1856",
       "favoriteCount": "0",
       "commentCount": "87"
@@ -21203,7 +21255,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "pv_71ZcZNbSJK7-Kv9PQwQj_hQY",
+    "etag": "m7ysXrPb78TGcZwD5w4q_8ixO9A",
     "id": "38qvZ2cK-xE",
     "snippet": {
       "publishedAt": "2025-02-10T09:10:26Z",
@@ -21248,7 +21300,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "140473",
+      "viewCount": "140477",
       "likeCount": "2001",
       "favoriteCount": "0",
       "commentCount": "83"
@@ -21418,7 +21470,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "Rsl2L7DlEY62jlv_skDnKdv_On0",
+    "etag": "0PnqIgx22LexxfRWzP2mtPnevd0",
     "id": "YcApQ5ldq34",
     "snippet": {
       "publishedAt": "2025-01-31T09:22:00Z",
@@ -21463,7 +21515,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "214405",
+      "viewCount": "214416",
       "likeCount": "2726",
       "favoriteCount": "0",
       "commentCount": "145"
@@ -21471,7 +21523,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "jvyXInkt72SkuCHI0dLOcjiwS1U",
+    "etag": "9rSXpOFiFn5sIFgfRYQt8aRwbfM",
     "id": "t9n9lbX_8Zk",
     "snippet": {
       "publishedAt": "2025-01-28T00:39:02Z",
@@ -21516,7 +21568,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "126990",
+      "viewCount": "127001",
       "likeCount": "1362",
       "favoriteCount": "0",
       "commentCount": "88"
@@ -21580,7 +21632,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZcGkfhHRvPaO-5-P-sO8lNiyfak",
+    "etag": "DNLbr1RXRVuaUZ7rZbL_Lh-DliU",
     "id": "yNIEXC1KX_8",
     "snippet": {
       "publishedAt": "2025-01-19T09:57:15Z",
@@ -21625,7 +21677,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "7609",
+      "viewCount": "7611",
       "likeCount": "148",
       "favoriteCount": "0",
       "commentCount": "24"
@@ -21633,7 +21685,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "rN7LkA0jk2pQiSVPwggHM3HUkwg",
+    "etag": "Z0X3Me1r9cBn1UZ_nG4WGVQVr7g",
     "id": "BwZ05CapCnE",
     "snippet": {
       "publishedAt": "2025-01-19T04:53:30Z",
@@ -21681,7 +21733,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "95715",
+      "viewCount": "95716",
       "likeCount": "873",
       "favoriteCount": "0",
       "commentCount": "70"
@@ -21689,7 +21741,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "ZHN06NXYR8JHbJhcMXUVBIGL_CE",
+    "etag": "wfPYjAih0d0UlPp2VCm8Md1Ddag",
     "id": "Kd2j1vKTbC4",
     "snippet": {
       "publishedAt": "2025-01-17T09:15:25Z",
@@ -21734,7 +21786,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "21224",
+      "viewCount": "21225",
       "likeCount": "349",
       "favoriteCount": "0",
       "commentCount": "45"
@@ -21742,7 +21794,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "_f5deU40ajCgkuU23FGYtRLehCs",
+    "etag": "dE-4fqYOjsXCX_GlQveCN83_TBY",
     "id": "pvr5A7V6VfI",
     "snippet": {
       "publishedAt": "2025-01-15T09:19:37Z",
@@ -21787,7 +21839,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "138037",
+      "viewCount": "138041",
       "likeCount": "1370",
       "favoriteCount": "0",
       "commentCount": "78"
@@ -21848,7 +21900,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "V6dNqKLkJtZa_Ql4e9NCrjnJ3vM",
+    "etag": "EcAKkUCG6vAhch4XijHmQ61csG0",
     "id": "Bbe55dNKcao",
     "snippet": {
       "publishedAt": "2025-01-01T03:16:37Z",
@@ -21893,7 +21945,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "255777",
+      "viewCount": "255778",
       "likeCount": "2835",
       "favoriteCount": "0",
       "commentCount": "142"
@@ -22060,7 +22112,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "fsQz_y89UTIExWBBWxCMEK6YFQM",
+    "etag": "ZEl0ThrDqoYcaKivr3f9UaRFWsk",
     "id": "yLC5zCVjli8",
     "snippet": {
       "publishedAt": "2024-12-27T19:30:53Z",
@@ -22105,8 +22157,8 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "599533",
-      "likeCount": "6304",
+      "viewCount": "599829",
+      "likeCount": "6308",
       "favoriteCount": "0",
       "commentCount": "342"
     }
@@ -22166,7 +22218,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "KjBpVObDk2zt6Mls7MxDlyctJtM",
+    "etag": "0EiLR6Xen3SFUNJZ_fb5hb0bGX0",
     "id": "b8IrF1wM-O0",
     "snippet": {
       "publishedAt": "2024-12-26T15:55:59Z",
@@ -22211,7 +22263,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "120111",
+      "viewCount": "120110",
       "likeCount": "1330",
       "favoriteCount": "0",
       "commentCount": "98"
@@ -22325,7 +22377,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "PGCmNdqEeZfehyg_7O4nJ2xVvQU",
+    "etag": "KhEvgHtNn1-JjxXcUquKw14_gqc",
     "id": "al8ZXa97gqU",
     "snippet": {
       "publishedAt": "2024-12-12T13:16:32Z",
@@ -22370,7 +22422,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "200720",
+      "viewCount": "200723",
       "likeCount": "2344",
       "favoriteCount": "0",
       "commentCount": "124"
@@ -22431,7 +22483,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "V_9AgnLLU4inoExLOHZEeNIh6Ww",
+    "etag": "jQZsDIHs6W50bpB3iyArUtDFMhM",
     "id": "n-T_IVYsot0",
     "snippet": {
       "publishedAt": "2024-11-17T04:15:12Z",
@@ -22476,7 +22528,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "143591",
+      "viewCount": "143594",
       "likeCount": "2317",
       "favoriteCount": "0",
       "commentCount": "150"
@@ -22537,7 +22589,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "oz5ktfBIi4l7qvIYRSUqKEGunNc",
+    "etag": "GKMj6e-MALa_8g31SaA2EXFNHT0",
     "id": "06g0qOCB_h8",
     "snippet": {
       "publishedAt": "2024-09-29T01:03:42Z",
@@ -22598,7 +22650,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "70051",
+      "viewCount": "70054",
       "likeCount": "1305",
       "favoriteCount": "0",
       "commentCount": "65"
@@ -22606,7 +22658,7 @@
   },
   {
     "kind": "youtube#video",
-    "etag": "IkUL8Ol924t4HG8kSVp6yRNoHqM",
+    "etag": "fiOKOc_mD3S-N1GwMhkjEbf3O9w",
     "id": "CxnSI6UvOMA",
     "snippet": {
       "publishedAt": "2023-09-29T16:17:27Z",
@@ -22677,7 +22729,7 @@
       "defaultAudioLanguage": "vi"
     },
     "statistics": {
-      "viewCount": "47568",
+      "viewCount": "47592",
       "likeCount": "205",
       "favoriteCount": "0",
       "commentCount": "13"
