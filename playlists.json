@@ -1,6 +1,42 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "vcJasrMiOyXCNpvDz6iba87MBzc",
+    "id": "PL0U4kdeLNNLdFYyGWrUTm310QPn9SLkDW",
+    "snippet": {
+      "publishedAt": "2025-10-06T19:24:22.125175Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Thời nguyên thuỷ",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "localized": {
+        "title": "Thời nguyên thuỷ",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "KaVnRAAcNVxgxPH7Z91T0aONUho",
     "id": "PL0U4kdeLNNLeeV8Pqb3uTWj5-fBEQ_Tcr",
     "snippet": {
@@ -395,7 +431,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "7odLxq9mc9Fw7Jo0SfJq5VuJCsI",
+    "etag": "ZJGsKja8xLgGw9QoBu5phaTelBQ",
     "id": "PL0U4kdeLNNLc9KkDLVjVuBp0HegSnnvBp",
     "snippet": {
       "publishedAt": "2025-01-19T07:56:15.100091Z",
@@ -436,7 +472,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 257
+      "itemCount": 258
     }
   },
   {
@@ -625,7 +661,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "XS_1nY1aqzxcEHzmh_iv6fBppYk",
+    "etag": "_HKw1CHtd5szB3EDyDcCEGI_PLA",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -666,7 +702,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 668
+      "itemCount": 671
     }
   },
   {
@@ -717,7 +753,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "zQd_VfH2lT5slXi05ldPQHOXUck",
+    "etag": "PHfJmi4QoqoDpmVHSHO_nsPR_ro",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -758,7 +794,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 516
+      "itemCount": 518
     }
   },
   {
@@ -855,7 +891,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "BXoySS30ues2kSNo6Ohz4jXh-1Y",
+    "etag": "qIii17iTPnCz8Y-n8cwvdXLxuq0",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -896,7 +932,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1387
+      "itemCount": 1390
     }
   }
 ]
