@@ -1,7 +1,7 @@
 /*
-  X-Frame-Options: SAMEORIGIN
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
   Referrer-Policy: no-referrer-when-downgrade
   Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
-  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; img-src 'self' https://i.ytimg.com https://youtube.com; frame-src https://www.youtube.com https://youtube-nocookie.com
+  Content-Security-Policy: default-src 'self'; img-src 'self' https://i.ytimg.com https://img.youtube.com https://*.ytimg.com https://youtube.com; frame-src https://www.youtube.com https://youtube-nocookie.com
