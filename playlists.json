@@ -323,7 +323,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "5oH83SIU9fXz35yBXhB9HU7pgXM",
+    "etag": "jVyh44r9uKmGWZdF_PivZFXFR3k",
     "id": "PL0U4kdeLNNLfFbGI7U_CKYjPNsw366gnJ",
     "snippet": {
       "publishedAt": "2025-04-26T05:17:49.359414Z",
@@ -332,19 +332,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "url": "https://i.ytimg.com/vi/kuuwnw9SMI0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "url": "https://i.ytimg.com/vi/kuuwnw9SMI0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "url": "https://i.ytimg.com/vi/kuuwnw9SMI0/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kuuwnw9SMI0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kuuwnw9SMI0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -497,7 +507,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "cx1aD7ClKEsVxgkAmnSqgMNgz1o",
+    "etag": "jG3digFiuan2qo_TrF3MqJ5IuGg",
     "id": "PL0U4kdeLNNLc9KkDLVjVuBp0HegSnnvBp",
     "snippet": {
       "publishedAt": "2025-01-19T07:56:15.100091Z",
@@ -506,27 +516,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/default.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -727,7 +737,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "P9YQSViDc_jBQ56LYwm8YW7oXN4",
+    "etag": "Y82fJuwElJH6D09Ly6PqDglUOFk",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -736,27 +746,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/default.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -819,7 +829,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "Y-NZImFzU4GJFMvWBdp0DfqpZRk",
+    "etag": "eJgiyVNvPQToGUyA4RGHfGw3kls",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -828,27 +838,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/vyExXtcQFHg/default.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/vyExXtcQFHg/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/vyExXtcQFHg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/vyExXtcQFHg/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/vyExXtcQFHg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -865,7 +875,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "PHQ2rmddHaWtiHAv9ZO3pa1W4ro",
+    "etag": "9PXVYIEjoRAN2L5dD4tS-0QfycM",
     "id": "PL0U4kdeLNNLeyHqiKVGGgO_d15wTRbk95",
     "snippet": {
       "publishedAt": "2024-12-26T14:02:15.116891Z",
@@ -874,27 +884,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/default.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
@@ -957,7 +967,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "VOzO4iz6ywVwtf-YcFQ3JwuWnAw",
+    "etag": "XNlsB4JUlyxJ5g9Pucl8M_8fnNA",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -966,27 +976,27 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/default.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/sddefault.jpg",
           "width": 640,
           "height": 480
         },
         "maxres": {
-          "url": "https://i.ytimg.com/vi/2syWCd_ZiZo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GcPSEoL054U/maxresdefault.jpg",
           "width": 1280,
           "height": 720
         }
