@@ -1,6 +1,52 @@
 [
   {
     "kind": "youtube#playlist",
+    "etag": "9npGBR-ZzzhKjQzSWqFNQwP0QgU",
+    "id": "PL0U4kdeLNNLcRnzcp1RKjvoj5hS3bRhRO",
+    "snippet": {
+      "publishedAt": "2025-11-14T13:47:20.931592Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Phim mới tháng 11",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/v8QWe2rHztc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/v8QWe2rHztc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/v8QWe2rHztc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/v8QWe2rHztc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/v8QWe2rHztc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "localized": {
+        "title": "Phim mới tháng 11",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1
+    }
+  },
+  {
+    "kind": "youtube#playlist",
     "etag": "hB663Q0hbD5Rgtq5RaqGydHs9d0",
     "id": "PL0U4kdeLNNLfXlwQ8hCwFv2JYBJZjYlfP",
     "snippet": {
