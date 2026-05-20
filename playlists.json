@@ -185,7 +185,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "U0Za5KDP6mVUfw7Bn5JR7abxppE",
+    "etag": "FSbNxj8y7EnOC8lWk0dvEOi68cc",
     "id": "PL0U4kdeLNNLcVhrGNzFP9iv9z_0WpWgAO",
     "snippet": {
       "publishedAt": "2025-11-30T16:35:48.68514Z",
@@ -194,19 +194,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "url": "https://i.ytimg.com/vi/ywVK_bgJiO0/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "url": "https://i.ytimg.com/vi/ywVK_bgJiO0/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "url": "https://i.ytimg.com/vi/ywVK_bgJiO0/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ywVK_bgJiO0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ywVK_bgJiO0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -216,7 +226,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1831
+      "itemCount": 1830
     }
   },
   {
@@ -865,7 +875,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "QAelOrh3jdtAUUY7KFH0iIq47X8",
+    "etag": "DnQsJiqKD-rVKqRuSasIg1ikVGg",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -906,7 +916,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1334
+      "itemCount": 1333
     }
   },
   {
@@ -957,7 +967,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "Q39Hh0a4HUrXQjXq6P5YBgOTsrQ",
+    "etag": "H86GnZM7_jd0nn_IA8Hrq5j46WE",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -998,7 +1008,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 907
+      "itemCount": 906
     }
   },
   {
@@ -1049,7 +1059,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "WwEZz_7AzK2P6Uzw4S_3dcatRJM",
+    "etag": "_m7VND4J1k6-nIjq_RE4qcExMPE",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -1090,7 +1100,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3133
+      "itemCount": 3132
     }
   }
 ]
