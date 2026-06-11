@@ -139,7 +139,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "Ti4cTyyUIQ1W8kOLBLaxzZC_-Y8",
+    "etag": "3-wx7KuwIAnEgvMF1YqNIPYqH3s",
     "id": "PL0U4kdeLNNLfG6Eiklj9CLVSbRTSu3GEA",
     "snippet": {
       "publishedAt": "2025-12-15T09:19:14.444968Z",
@@ -180,12 +180,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 357
+      "itemCount": 359
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "M-GYhAdrE5pPvZg5wHLWNXGaq_8",
+    "etag": "Se7gGovoHv6TXNz5p9rLNQBR-2c",
     "id": "PL0U4kdeLNNLcVhrGNzFP9iv9z_0WpWgAO",
     "snippet": {
       "publishedAt": "2025-11-30T16:35:48.68514Z",
@@ -194,29 +194,19 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qX2lBm_TY-I/default.jpg",
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qX2lBm_TY-I/mqdefault.jpg",
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qX2lBm_TY-I/hqdefault.jpg",
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
           "width": 480,
           "height": 360
-        },
-        "standard": {
-          "url": "https://i.ytimg.com/vi/qX2lBm_TY-I/sddefault.jpg",
-          "width": 640,
-          "height": 480
-        },
-        "maxres": {
-          "url": "https://i.ytimg.com/vi/qX2lBm_TY-I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -226,7 +216,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1999
+      "itemCount": 2003
     }
   },
   {
@@ -553,7 +543,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "cTUOu1c6hRaMG2v1qldfo0RBayc",
+    "etag": "zXqh2qrZfcXdvi0h4ZcQtxXO_Lw",
     "id": "PL0U4kdeLNNLeFQW9NyTTYifPgGlKEfzyF",
     "snippet": {
       "publishedAt": "2025-02-07T02:52:51.555288Z",
@@ -594,7 +584,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 642
+      "itemCount": 643
     }
   },
   {
@@ -829,7 +819,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "s69mJcWFqU472A3kX2WzNbrRb4Q",
+    "etag": "0zPdgq8yKNrGAt_QfwQpQ82MVlE",
     "id": "PL0U4kdeLNNLclxB-VXUvmAp0ypRBtxDZU",
     "snippet": {
       "publishedAt": "2024-12-28T11:13:25.179058Z",
@@ -870,12 +860,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1234
+      "itemCount": 1236
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "RJis_k70GplXkDo_U3imXE7TakY",
+    "etag": "i8337HVCld-Optol8DV5O68T4Ko",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -916,7 +906,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1385
+      "itemCount": 1386
     }
   },
   {
@@ -967,7 +957,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "hwSv2nXTHKzYrFy8Eb7fJ_zVc38",
+    "etag": "zPDhmeCXYw3NLbmQi-n0vwVQLBI",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -1008,7 +998,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 974
+      "itemCount": 975
     }
   },
   {
@@ -1059,7 +1049,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "DUpVLPamcDCwauHeD0fviOq8suI",
+    "etag": "EFlqffGRCB4VeTSfvDe6QJ3ktNY",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -1100,7 +1090,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3295
+      "itemCount": 3299
     }
   }
 ]
