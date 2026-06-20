@@ -1,7 +1,43 @@
 [
   {
     "kind": "youtube#playlist",
-    "etag": "shbtJcZxqIXNUJtdWyksmt_8BmE",
+    "etag": "Gp0fkU4jfFdDq_T2aS4gZo_aPyk",
+    "id": "PL0U4kdeLNNLfRd3NWRgD8_FYfY5kmtatn",
+    "snippet": {
+      "publishedAt": "2026-06-20T18:02:10.557916Z",
+      "channelId": "UC7EYRP--kBfvu1y84p2sFcA",
+      "title": "Nạn đói",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Yotu Review",
+      "localized": {
+        "title": "Nạn đói",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "itemCount": 1
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "CUe0Nh1dntzinsAPL2MzFJDguec",
     "id": "PL0U4kdeLNNLcPDqz0802Xr_B9Y2jsejul",
     "snippet": {
       "publishedAt": "2026-03-12T08:51:53.073708Z",
@@ -42,7 +78,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 48
+      "itemCount": 51
     }
   },
   {
@@ -185,7 +221,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "3FLI3tA22-a7wSImFpmhfHMmdv4",
+    "etag": "JPKYQRa0Ktky2-mgKAsw84pn4tM",
     "id": "PL0U4kdeLNNLcVhrGNzFP9iv9z_0WpWgAO",
     "snippet": {
       "publishedAt": "2025-11-30T16:35:48.68514Z",
@@ -226,7 +262,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 2094
+      "itemCount": 2097
     }
   },
   {
@@ -691,7 +727,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "W1JZPmdD2vIM5quwbqpaDkv0ksI",
+    "etag": "_2KLcAwaqXRl_uMVhm4TRPfJ8X0",
     "id": "PL0U4kdeLNNLdPns5ZS-kCDuJEKPHLHkpq",
     "snippet": {
       "publishedAt": "2025-01-01T15:26:42.260451Z",
@@ -732,7 +768,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 55
+      "itemCount": 56
     }
   },
   {
@@ -875,7 +911,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "V9pymSMA9mdMgNNf9aajaaoEZRw",
+    "etag": "UYd5Lvda65K5RJI5PBv9pWK5WGs",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -916,7 +952,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1433
+      "itemCount": 1435
     }
   },
   {
@@ -967,7 +1003,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "JWeXFwpm2CIrhIPZDz3LXp19Qxc",
+    "etag": "J5aKtpgvMqvLzSku2gxOF9rIyoA",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -1008,12 +1044,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1013
+      "itemCount": 1015
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "iNcY0jW3ECnbgtuRB5mLvqVpOg4",
+    "etag": "n3NEu0R-WYuVpm-y88EhJCrAbb0",
     "id": "PL0U4kdeLNNLeyHqiKVGGgO_d15wTRbk95",
     "snippet": {
       "publishedAt": "2024-12-26T14:02:15.116891Z",
@@ -1054,12 +1090,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 447
+      "itemCount": 449
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "Smx-wChYWnnGUV0NKpL7EpuFUCo",
+    "etag": "Vp4sdTxpIL5MzFK9PWTT6YPOd44",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -1100,7 +1136,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3389
+      "itemCount": 3392
     }
   }
 ]
