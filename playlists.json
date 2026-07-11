@@ -129,7 +129,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "KULP7Xc44jXtC3FqvK940pQQxzY",
+    "etag": "Np2GXdrgm7uglrL_Q-48GE-wtB0",
     "id": "PL0U4kdeLNNLcPDqz0802Xr_B9Y2jsejul",
     "snippet": {
       "publishedAt": "2026-03-12T08:51:53.073708Z",
@@ -138,19 +138,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qFR81G5vEJY/default.jpg",
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qFR81G5vEJY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qFR81G5vEJY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -160,7 +170,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 222
+      "itemCount": 227
     }
   },
   {
@@ -717,7 +727,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "PTsH2dcQ4oaqHjZhPyCrP_wYquI",
+    "etag": "KYLZ13cDsxTqTYE56xecDxuRVlw",
     "id": "PL0U4kdeLNNLc9KkDLVjVuBp0HegSnnvBp",
     "snippet": {
       "publishedAt": "2025-01-19T07:56:15.100091Z",
@@ -758,7 +768,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 590
+      "itemCount": 591
     }
   },
   {
@@ -993,7 +1003,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "Cl1ZZJ5pmg4yYcjq4jbi0Z8viPk",
+    "etag": "jrRi3FvUdFdu9sUi4-QjJiC8FWk",
     "id": "PL0U4kdeLNNLdpJun-QOk6cTTWAjICqoSf",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:11.769524Z",
@@ -1034,12 +1044,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 679
+      "itemCount": 680
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "gZKFrbfS9P5cXx7_uzS_QqXV6P8",
+    "etag": "IM4ac5C2xhKFLZ4h9OLyhzczB_4",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -1080,7 +1090,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1116
+      "itemCount": 1118
     }
   },
   {
@@ -1121,7 +1131,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "4nq8rpjNDTCnB7PTU427ujL9_OA",
+    "etag": "WChy80cGxcEymDNzS35JsrfJG4g",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -1130,19 +1140,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/qFR81G5vEJY/default.jpg",
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/qFR81G5vEJY/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/qFR81G5vEJY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/hqdefault.jpg",
           "width": 480,
           "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/aLX4CkFvr58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -1152,7 +1172,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3469
+      "itemCount": 3470
     }
   }
 ]
