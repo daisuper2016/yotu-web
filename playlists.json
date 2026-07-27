@@ -175,7 +175,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "ujf1FmIZTa5fMt2-IuUAWXlJue8",
+    "etag": "hrex2n93dnx9a4U7qStzF63NTy4",
     "id": "PL0U4kdeLNNLcPDqz0802Xr_B9Y2jsejul",
     "snippet": {
       "publishedAt": "2026-03-12T08:51:53.073708Z",
@@ -216,7 +216,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 332
+      "itemCount": 329
     }
   },
   {
@@ -313,7 +313,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "x3VhlYkxWt-kcGLTmGCdWr5-rE0",
+    "etag": "nAUg1Pby8fKcEOMVu_RMNO8Zz_s",
     "id": "PL0U4kdeLNNLfG6Eiklj9CLVSbRTSu3GEA",
     "snippet": {
       "publishedAt": "2025-12-15T09:19:14.444968Z",
@@ -354,7 +354,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 354
+      "itemCount": 353
     }
   },
   {
@@ -865,7 +865,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "RIhJYJ9Eg_i86V6ACb5hfryZEIg",
+    "etag": "HLn8hYH-qBpQiFDInne0OjR-X9Y",
     "id": "PL0U4kdeLNNLdMi9B7MVpO66ud5i8164Q8",
     "snippet": {
       "publishedAt": "2024-12-28T19:01:51.644424Z",
@@ -906,7 +906,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 214
+      "itemCount": 213
     }
   },
   {
@@ -957,7 +957,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "wLgAQJEpy6ePX5WSw-vo2-muGjM",
+    "etag": "_aDPsPzRHdGR4tr9FUfauUrRBU4",
     "id": "PL0U4kdeLNNLclxB-VXUvmAp0ypRBtxDZU",
     "snippet": {
       "publishedAt": "2024-12-28T11:13:25.179058Z",
@@ -998,12 +998,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1206
+      "itemCount": 1204
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "WfJPn0CjOIfF-Xadx6PZascuwhA",
+    "etag": "HL6qt4G79ryxYAl4Drj_afEzD6w",
     "id": "PL0U4kdeLNNLeFdhlP6PKvTQKiVefW2ZJ7",
     "snippet": {
       "publishedAt": "2024-12-27T04:21:25.36899Z",
@@ -1044,7 +1044,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1550
+      "itemCount": 1549
     }
   },
   {
@@ -1095,7 +1095,7 @@
   },
   {
     "kind": "youtube#playlist",
-    "etag": "qzTbDTjv85Jr6xOimXlbZUzE5w8",
+    "etag": "nifVDRxRUdXjeYNEFRJrvS5qXE0",
     "id": "PL0U4kdeLNNLcKSwTblKdkMDu-MO2g4k65",
     "snippet": {
       "publishedAt": "2024-12-26T17:53:02.014659Z",
@@ -1136,12 +1136,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 1173
+      "itemCount": 1171
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "74FLlmY5KOoeT35YU-rHgjz1cKc",
+    "etag": "ofoOeF3i22sGeO3XSgU8zbVGtfE",
     "id": "PL0U4kdeLNNLeyHqiKVGGgO_d15wTRbk95",
     "snippet": {
       "publishedAt": "2024-12-26T14:02:15.116891Z",
@@ -1150,24 +1150,29 @@
       "description": "",
       "thumbnails": {
         "default": {
-          "url": "https://i.ytimg.com/vi/T50tZcgATLk/default.jpg",
+          "url": "https://i.ytimg.com/vi/74t-AwEn0nk/default.jpg",
           "width": 120,
           "height": 90
         },
         "medium": {
-          "url": "https://i.ytimg.com/vi/T50tZcgATLk/mqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/74t-AwEn0nk/mqdefault.jpg",
           "width": 320,
           "height": 180
         },
         "high": {
-          "url": "https://i.ytimg.com/vi/T50tZcgATLk/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/74t-AwEn0nk/hqdefault.jpg",
           "width": 480,
           "height": 360
         },
         "standard": {
-          "url": "https://i.ytimg.com/vi/T50tZcgATLk/sddefault.jpg",
+          "url": "https://i.ytimg.com/vi/74t-AwEn0nk/sddefault.jpg",
           "width": 640,
           "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/74t-AwEn0nk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
         }
       },
       "channelTitle": "Yotu Review",
@@ -1177,12 +1182,12 @@
       }
     },
     "contentDetails": {
-      "itemCount": 536
+      "itemCount": 539
     }
   },
   {
     "kind": "youtube#playlist",
-    "etag": "xrBoSZDDLzsmJCBIWbinQoVpYKM",
+    "etag": "xVxAmiwq9UXoURxgYhxUUy_QpYc",
     "id": "PL0U4kdeLNNLcFHnnWDLkPKeKZzZODango",
     "snippet": {
       "publishedAt": "2024-09-25T02:13:34.80959Z",
@@ -1223,7 +1228,7 @@
       }
     },
     "contentDetails": {
-      "itemCount": 3572
+      "itemCount": 3568
     }
   }
 ]
